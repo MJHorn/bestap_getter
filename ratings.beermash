@@ -1,19 +1,19 @@
-Bar,Region,Brewery,Beer,Rating,URL,Style
-beermash,Inner North,Colonial Brewing Co.,Emergence of Astra,3.706,/beer/1454221,Lager - Pale
-beermash,Inner North,Kooinda Boutique Brewery,Sun Hunter IPA,3.947,/beer/1467345,IPA - American
-beermash,Inner North,Kooinda Boutique Brewery,Black IPA,3.784,/beer/78226,IPA - Black / Cascadian Dark Ale
-beermash,Inner North,Bad Shepherd Brewing Co.,Hazelnut Brown,3.857,/beer/1333598,Brown Ale - American
-beermash,Inner North,Lost Coast Brewery,ARRGH! Pale Ale,3.563,/beer/1283448,Pale Ale - American
-beermash,Inner North,Kettle Green Brewing Co.,Wigged-Out Wonder Woman,3.493,/beer/1421660,Lager - Dortmunder / Export
-beermash,Inner North,Riverside Brewing Company,Harvester of Sour,3.602,/beer/1460238,Sour Ale
-beermash,Inner North,Dainton Family Brewery,Twisted Twin,4.011,/beer/1440113,IPA - Imperial / Double
-beermash,Inner North,Anderson Valley Brewing Company,Blood Orange Gose,3.743,/beer/791939,Gose
-beermash,Inner North,Lost Coast Brewery,Indica IPA,3.568,/beer/904,IPA - American
-beermash,Inner North,Social Bandit Brewing Company,Sooky LaLa,3.622,/beer/1370259,Berliner Weisse
-beermash,Inner North,Hawkers,IPA,3.841,/beer/966228,IPA - American
-beermash,Inner North,Riverside Brewing Company,'69' Summer Ale,3.593,/beer/165274,Pale Wheat Ale - American
-beermash,Inner North,Pirate Life Brewing,Pale Ale,3.949,/beer/995555,Pale Ale - American
-beermash,Inner North,Cavalier Brewing,Courage,3.34,/beer/266277,Blonde Ale
-beermash,Inner North,Cavalier Brewing,Brown,3.635,/beer/37770,Brown Ale - American
-beermash,Inner North,Two Metre Tall,Derwent Aromatic Spelt Ale,3.577,/beer/171657,Sour Ale
-beermash,Inner North,3 Ravens Brewery,Jamon Y Piña,3.263,/beer/1293771,Smoked Beer
+Bar,Region,Brewery,Beer,Rating,URL,Style,Image
+beermash,Inner North,Shenanigans Brewing Co.,Winston,3.776,/beer/670544,Pale Ale - American,https://untappd.akamaized.net/site/beer_logos/beer-670544_19491_sm.jpeg
+beermash,Inner North,Shenanigans Brewing Co.,Grisette,3.644,/beer/592791,Saison / Farmhouse Ale,https://untappd.akamaized.net/site/beer_logos/beer-592791_cbc36_sm.jpeg
+beermash,Inner North,Yeastie Boys,Gunnamatta,3.788,/beer/169755,IPA - American,https://untappd.akamaized.net/site/beer_logos/beer-169755_f94d0_sm.jpeg
+beermash,Inner North,Dainton Family Brewery,Santa's Cherry Sack Attack,3.176,/beer/1346503,Fruit Beer,https://untappd.akamaized.net/site/beer_logos/beer-1346503_39374_sm.jpeg
+beermash,Inner North,Wolf Of The Willows,JSP - Johnny Smoke Porter,3.78,/beer/1080855,Smoked Beer,https://untappd.akamaized.net/site/beer_logos/beer-1080855_91981_sm.jpeg
+beermash,Inner North,Cavalier Brewing,Imperial Stout,3.933,/beer/174037,Stout - Russian Imperial,https://untappd.akamaized.net/site/beer_logos/beer-_174037_sm_a5979bb2a4f5244624887b91e707c7.jpeg
+beermash,Inner North,Colonial Brewing Co.,Emergence of Astra,3.669,/beer/1454221,Lager - Pale,https://untappd.akamaized.net/site/brewery_logos/brewery-9332_ace8b.jpeg
+beermash,Inner North,Kooinda Boutique Brewery,Sun Hunter IPA,3.917,/beer/1467345,IPA - American,https://untappd.akamaized.net/site/brewery_logos/brewery-KooindaBoutiqueBrewery_6276.jpeg
+beermash,Inner North,Kooinda Boutique Brewery,Black IPA,3.782,/beer/78226,IPA - Black / Cascadian Dark Ale,https://untappd.akamaized.net/site/beer_logos/beer-BlackIPA_78226.jpeg
+beermash,Inner North,Bad Shepherd Brewing Co.,Hazelnut Brown,3.874,/beer/1333598,Brown Ale - American,https://untappd.akamaized.net/site/beer_logos/beer-1333598_b0ef7_sm.jpeg
+beermash,Inner North,Lost Coast Brewery,ARRGH! Pale Ale,3.567,/beer/1283448,Pale Ale - American,https://untappd.akamaized.net/site/beer_logos/beer-1283448_b8c36_sm.jpeg
+beermash,Inner North,Riverside Brewing Company,Harvester of Sour,3.638,/beer/1460238,Sour Ale,https://untappd.akamaized.net/site/brewery_logos/brewery-RiversideBrewingCompany_15195.jpeg
+beermash,Inner North,Dainton Family Brewery,Twisted Twin,4.025,/beer/1440113,IPA - Imperial / Double,https://untappd.akamaized.net/site/brewery_logos/brewery-73736_7dd65.jpeg
+beermash,Inner North,Social Bandit Brewing Company,Sooky LaLa,3.633,/beer/1370259,Berliner Weisse,https://untappd.akamaized.net/site/beer_logos/beer-1370259_39b85_sm.jpeg
+beermash,Inner North,Hawkers,IPA,3.845,/beer/966228,IPA - American,https://untappd.akamaized.net/site/beer_logos/beer-966228_3c731_sm.jpeg
+beermash,Inner North,Cavalier Brewing,Brown,3.637,/beer/37770,Brown Ale - American,https://untappd.akamaized.net/site/beer_logos/beer-37770_7191f_sm.jpeg
+beermash,Inner North,Two Metre Tall,Derwent Aromatic Spelt Ale,3.579,/beer/171657,Sour Ale,https://untappd.akamaized.net/site/brewery_logos/brewery-TwoMetreTall_5270.jpeg
+beermash,Inner North,3 Ravens Brewery,Jamon Y Piña,3.265,/beer/1293771,Smoked Beer,https://untappd.akamaized.net/site/brewery_logos/brewery-The3RavensBrewingCompany_3324.jpeg

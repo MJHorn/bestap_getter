@@ -29,7 +29,7 @@ with open('barlist') as f:
 	for bar in f: 
 		bar = bar.rstrip('\n')	
 		
-		bar_taps = genfromtxt(bar,delimiter=',', names=True, dtype=("|S200", "|S200", "|S200", "|S200", float, "|S200", "|S200"))
+		bar_taps = genfromtxt(bar,delimiter=',', names=True, dtype=("|S200", "|S200", "|S200", "|S200", float, "|S200", "|S200", "|S200"))
 
 		ratings = bar_taps['Rating']
 
@@ -55,9 +55,9 @@ newstrrate = []
 
 for row in alltaps:
 	try:
-		newstrrate.append([row[0],row[1],row[2],row[3],str(row[4]),row[5],row[6]])
+		newstrrate.append([row[0],row[1],row[2],row[3],str(row[4]),row[5],row[6],row[7]])
 	except NameError:
-		newstrrate=[row[0],row[1],row[2],row[3],str(row[4]),row[5],row[6]]
+		newstrrate=[row[0],row[1],row[2],row[3],str(row[4]),row[5],row[6],row[7]]
 
 with open('bestlist', 'w') as b:
 	w = csv.writer(b, dialect = 'excel-tab')

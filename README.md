@@ -1,1 +1,0 @@
-# bestap_getter

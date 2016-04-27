@@ -7,6 +7,8 @@ latestdate=$((nowdate - 3600*n))
 
 awk '$2 <= n' n="$latestdate" Allll | awk '{print $1}' > thesebars
 
+time python taplists_loop.py
+
 while read j
 do
 newline=$(awk -v bar="^$j$" -v date="$(date +%s)" '$1 ~ bar { print $1, date}' Allll)
@@ -20,14 +22,9 @@ echo $j
 
 rm beerhtml
 
-while [ ! -s 'beerhtml' ]
-do
+sed '/reportedList/q' html_$j  | sed -n '/Official Tap List/,$p' | sed '/^$/d' | grep -o '=.*' | sed '/="left">/d' | cut -c 3- | sed '$ d' | sed 's/.*time-ago.*//' | sed 's/<\/a><br \/>/\'$'\n/' | sed 's/">/\'$'\n/' | sed '/sub-info/d' | sed 's/\/>//' | sed 's/<\/h4>//' | sed 's/<\/p>//' | sed '/^$/d' | sed 's/\&amp;/\&/g' | sed 's/^Stone Brewing Company$/Stone Brewing/g' | sed 's/^Ruination Double IPA 2.0$/Stone Ruination Double IPA 2.0/' | sed 's/Little Creatures Brewing (Lion Nathan)/Little Creatures Brewing/g' | sed 's/Bantam IPA/Bantam Session India Pale Ale/g' | sed 's/[[:space:]]*$//g' > beerhtml
 
-time python taplists.py
-
-sed '/reportedList/q' html  | sed -n '/Official Tap List/,$p' | sed '/^$/d' | grep -o '=.*' | sed '/="left">/d' | cut -c 3- | sed '$ d' | sed 's/.*time-ago.*//' | sed 's/<\/a><br \/>/\'$'\n/' | sed 's/">/\'$'\n/' | sed '/sub-info/d' | sed 's/\/>//' | sed 's/<\/h4>//' | sed 's/<\/p>//' | sed '/^$/d' | sed 's/\&amp;/\&/g' | sed 's/^Stone Brewing Company$/Stone Brewing/g' | sed 's/^Ruination Double IPA 2.0$/Stone Ruination Double IPA 2.0/' > beerhtml
-
-done
+rm html_$j
 
 k=$(cat beerhtml | wc -l)
 N=$(( k / 5 ))
@@ -58,16 +55,16 @@ then
    cat bar examp | sed 's/,//' | sed 's/#//' | tr "\n" "," >> ratings."$j"
    tail -1 cacheuntapped/$namenoslash | sed 's/.$//; s/^.//' | tr "\n" "," >> ratings."$j"
    head -1 cacheuntapped/$namenoslash | tr "\n" "," >> ratings."$j"
-   sed '4q;d' cacheuntapped/$namenoslash >> ratings."$j"
-
+   sed '4q;d' cacheuntapped/$namenoslash | tr "\n" "," >> ratings."$j"
+   head -1 fullexamp | sed 's/.$//' >> ratings."$j" 
 else 
 
-url='untappd.com/search?q=$name&type=beer&sort='
+url="untappd.com/search?q=$name&type=beer&sort="
 
 echo $url
 time wget $url -O wgetsearchr
 
-sed '1,/results-container/d' wgetsearchr | sed '/results-add-beer/q' | tr -d "\t" | sed '/^$/d' | sed 's/.*beer-item.*//g' | sed '/<\/div>/d' | sed '/beer-details/d' | sed '/details beer/d' | sed '/img src/d' | sed '/^<\/p>$/d' | sed '/rating small r/d' | sed '/class="abv"/d' | sed '/class="ibu"/d' | sed '/class="rating"/d' | sed 's/<a class="label" href="//' | sed 's/<[^>]*>//g' | sed 's/">//' > test
+sed '1,/results-container/d' wgetsearchr | sed '/results-add-beer/q' | tr -d "\t" | sed '/^$/d' | sed 's/.*beer-item.*//g' | sed '/<\/div>/d' | sed '/beer-details/d' | sed '/details beer/d' | sed '/img src/d' | sed '/^<\/p>$/d' | sed '/rating small r/d' | sed '/class="abv"/d' | sed '/class="ibu"/d' | sed '/class="rating"/d' | sed 's/<a class="label" href="//' | sed 's/<[^>]*>//g' | sed 's/">//' | sed 's/[[:space:]]*$//g' > test
 
 rm beercellar/beer*
 awk '!a[$0]++ {of="beercellar/beer" ++fc; print $0 >> of ; close(of)}' RS= ORS="\n" test
@@ -83,7 +80,10 @@ if [ "$(sed -n '3{p;q;}' beercellar/$beerfile)" == "$bname" ];
 then
   if [ "$(sed -n '2{p;q;}' beercellar/$beerfile)" == "$bbeer" ];
   then
-   cat beercellar/$beerfile > cacheuntapped/$namenoslash
+   if [ "$(sed -n '7{p;q;}' beercellar/$beerfile)" != "(0)" ];
+   then
+     cat beercellar/$beerfile > cacheuntapped/$namenoslash
+   fi
    findit=$((findit+1))
    rightone=$l
   fi
@@ -96,12 +96,14 @@ then
   cat bar examp | sed 's/,//' | sed 's/#//' | tr "\n" "," >> ratings."$j"
   echo 'SEARCH ERROR' | tr "\n" "," >> ratings."$j"
   echo 'SEARCH ERROR' | tr "\n" "," >> ratings."$j"
+  echo 'SEARCH ERROR' | tr "\n" "," >> ratings."$j"
   echo 'SEARCH ERROR' >> ratings."$j"
 else
   cat bar examp | sed 's/,//' | sed 's/#//' | tr "\n" "," >> ratings."$j"
   tail -1 beercellar/beer$rightone | sed 's/.$//; s/^.//' | tr "\n" "," >> ratings."$j"
   head -1 beercellar/beer$rightone | tr "\n" "," >> ratings."$j"
-  sed '4q;d' beercellar/beer$rightone >> ratings."$j"
+  sed '4q;d' beercellar/beer$rightone | tr "\n" "," >> ratings."$j"
+  head -1 fullexamp | sed 's/.$//' >> ratings."$j"
 fi
 
 fi 
@@ -114,4 +116,4 @@ cat header temp > ratings.$j
 
 done < thesebars
 
-bash comparebars.bash 15
+#bash comparebars.bash 15

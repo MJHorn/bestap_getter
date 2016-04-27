@@ -33,19 +33,19 @@
 	
 	<link href="https://untappd.akamaized.net/assets/v2/css/fonts.css" rel="stylesheet" type="text/css" />
 
-			<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/master.css?v=2.5.6" />
-		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/v3/css/style.css?v=2.5.6" />
+			<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/master.css?v=2.5.7" />
+		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/v3/css/style.css?v=2.5.7" />
 			<script src="https://untappd.akamaized.net/assets/v3/js/common/min/site_common_min.js?v=1.6.0"></script>
 	
 
 
 	<!--[if lte IE 7]><script src="https://untappd.akamaized.net/assets/js/ie6.js?v=1.6.0"></script><![endif]-->
 
-			<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/facybox.css?v=2.5.6" />
+			<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/facybox.css?v=2.5.7" />
 
 		
-		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/jquery.notifyBar.css?v=2.5.6" />
-		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/tipsy.css?v=2.5.6" type="text/css" media="screen" title="no title" charset="utf-8">
+		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/jquery.notifyBar.css?v=2.5.7" />
+		<link rel="stylesheet" href="https://untappd.akamaized.net/assets/css/tipsy.css?v=2.5.7" type="text/css" media="screen" title="no title" charset="utf-8">
 		
 		<script type="text/javascript" language="Javascript">
 			$(document).ready(function(){
@@ -132,6 +132,7 @@
         </div>
       </form>
     </div>
+    
 
   </div>    
 </header>
@@ -452,7 +453,7 @@
 			
 				<div class="search">
 					<form method="/search" method="get">
-						<input type="text" name="q" value="$name"><span class="button yellow">Search<input type="submit"></span>
+						<input type="text" name="q" value="Stomping Ground Brewing Co Gipps Street Pale"><span class="button yellow">Search<input type="submit"></span>
 						<input type="hidden" id="page-type" name="type" value="beer" />
 						<input type="hidden" id="sort-type" name="sort" value="" />
 					</form>
@@ -471,12 +472,12 @@
 										<div class="result-list beer-list">
 													<div class="results-list-top">
 
-								<p class="total"><strong>1361 beer</strong> results for <strong>"$name"</strong></p>
+								<p class="total"><strong>1 beer</strong> results for <strong>"Stomping Ground Brewing Co Gipps Street Pale"</strong></p>
 								
 																	<div class="sort">
 										<p>
 											Sort by:
-											<select id="sort_picker" data-query="$name" data-type="beer">
+											<select id="sort_picker" data-query="Stomping Ground Brewing Co Gipps Street Pale" data-type="beer">
 																									<option value="all" SELECTED="TRUE">Most Popular</option>
 																										<option value="beer_name_asc">Beer Name (Asc)</option>
 																										<option value="beer_name_desc">Beer Name (Desc)</option>
@@ -491,512 +492,23 @@
 						
 						<div class="results-container">
 													<div class="beer-item ">
-								<a class="label" href="/beer/1229604">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-1229604_c2bfe_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-holy-moose/1229604">Hello My Name Is Holy Moose</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - American</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										5.5% ABV																
-									</p><p class="ibu">
-										40 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r325"></span>
-										<span class="num">(3.282)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/955844">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-955844_b7eeb_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/el-segundo-brewing-company-hammerland-dipa/955844">Hammerland DIPA</a></p>
-									<p class="brewery"><a href="/w/el-segundo-brewing-company/11688">El Segundo Brewing Company</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8.6% ABV																
-									</p><p class="ibu">
-										90 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r400"></span>
-										<span class="num">(4.035)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/1030576">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-1030576_d5b7b_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-little-ingrid/1030576">Hello My Name Is Little Ingrid</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - American</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										4.4% ABV																
-									</p><p class="ibu">
-										60 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r350"></span>
-										<span class="num">(3.567)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/49033">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-NameTagClassicLager_49033.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/trader-joes-josephsbrau-name-tag-classic-lager/49033">Name Tag Classic Lager</a></p>
-									<p class="brewery"><a href="/w/trader-joe-s-josephsbrau/1601">Trader Joe's (JosephsBrau)</a></p>
-									<p class="style">Lager - North American Adjunct</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										5% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r250"></span>
-										<span class="num">(2.391)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/10102">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-_10102_b3eb573454bb0f250203d3cdd0da.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/flat-12-bierwerks-hello-my-name-is-amber/10102">Hello My Name Is Amber</a></p>
-									<p class="brewery"><a href="/w/flat-12-bierwerks/2807">Flat 12 Bierwerks</a></p>
-									<p class="style">Red Ale - American Amber / Red</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										5.8% ABV																
-									</p><p class="ibu">
-										43 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r325"></span>
-										<span class="num">(3.264)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/30057">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-30057_047d8_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-ingrid/30057">Hello My Name Is Ingrid</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8.2% ABV																
-									</p><p class="ibu">
-										60 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r400"></span>
-										<span class="num">(3.937)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/641401">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-641401_27d63_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-ze/641401">Hello My Name Is Zé</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - American</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										6.4% ABV																
-									</p><p class="ibu">
-										60 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r400"></span>
-										<span class="num">(3.956)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/610881">
+								<a class="label" href="/beer/1507443">
 									<img src="https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png">
 								</a><div class="beer-details">
-									<p class="name"><a href="/b/twin-leaf-brewery-144-code-name-juicy-fruit/610881">144 (Code Name: Juicy Fruit)</a></p>
-									<p class="brewery"><a href="/w/twin-leaf-brewery/113967">Twin Leaf Brewery</a></p>
-									<p class="style">IPA - American</p>
+									<p class="name"><a href="/b/stomping-ground-brewing-co-gipps-street-pale/1507443">Gipps Street Pale</a></p>
+									<p class="brewery"><a href="/w/stomping-ground-brewing-co/199223">Stomping Ground Brewing Co</a></p>
+									<p class="style">Pale Ale - American</p>
 																	</div>
 								<div class="details beer">
 									<p class="abv">
-										6.8% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r350"></span>
-										<span class="num">(3.582)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/346277">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-346277_a8263_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/3-sheeps-brewing-company-hello-my-name-is-joe/346277">Hello, My Name Is Joe</a></p>
-									<p class="brewery"><a href="/w/3-sheeps-brewing-company/27118">3 Sheeps Brewing Company</a></p>
-									<p class="style">Herbed / Spiced Beer</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r375"></span>
-										<span class="num">(3.841)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/579813">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-579813_fe1bd_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-vladimir/579813">Hello My Name Is Vladimir</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8.2% ABV																
-									</p><p class="ibu">
-										70 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r400"></span>
-										<span class="num">(4.004)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/278918">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-_278918_8374b77ca4d6258be132b6a0607b.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/3-floyds-brewing-company-in-the-name-of-suffering/278918">In The Name Of Suffering</a></p>
-									<p class="brewery"><a href="/w/3-floyds-brewing-company/2470">3 Floyds Brewing Company</a></p>
-									<p class="style">IPA - Black / Cascadian Dark Ale</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										7.1% ABV																
+										5.4% ABV																
 									</p><p class="ibu">
 																					N/A IBU
 																	
 									</p>
 																		<p class="rating">
 										<span class="rating small r400"></span>
-										<span class="num">(3.903)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/473047">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-473047_d15c4_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-sonja/473047">Hello My Name Is Sonja</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8.2% ABV																
-									</p><p class="ibu">
-										60 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r400"></span>
-										<span class="num">(3.9)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/881705">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-881705_18fe0_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-konnichiwa-kitsune/881705">Konnichiwa Kitsune</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8.2% ABV																
-									</p><p class="ibu">
-										70 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r375"></span>
-										<span class="num">(3.848)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/406947">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-406947_23955_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-mette-marit/406947">Hello My Name is Mette Marit</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8.2% ABV																
-									</p><p class="ibu">
-										60 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r375"></span>
-										<span class="num">(3.689)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/703743">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-703743_1702a_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-paivi/703743">Hello My Name Is Päivi</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8.2% ABV																
-									</p><p class="ibu">
-										70 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r375"></span>
-										<span class="num">(3.874)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/769809">
-									<img src="https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/artifex-brewing-company-no-name-ipa/769809">No Name IPA</a></p>
-									<p class="brewery"><a href="/w/artifex-brewing-company/142635">Artifex Brewing Company</a></p>
-									<p class="style">IPA - American</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										7% ABV																
-									</p><p class="ibu">
-										80 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r375"></span>
-										<span class="num">(3.776)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/1162474">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-1162474_163b5_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/cigar-city-brewing-endless-nameless/1162474">Endless, Nameless</a></p>
-									<p class="brewery"><a href="/w/cigar-city-brewing/379">Cigar City Brewing</a></p>
-									<p class="style">Stout - Russian Imperial</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										11% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r425"></span>
-										<span class="num">(4.324)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/1389328">
-									<img src="https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/odd-13-brewing-codename-superfan/1389328">Codename: Superfan</a></p>
-									<p class="brewery"><a href="/w/odd-13-brewing/75135">Odd 13 Brewing</a></p>
-									<p class="style">IPA - American</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										6.5% ABV																
-									</p><p class="ibu">
-										80 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r425"></span>
-										<span class="num">(4.144)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/1067268">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-1067268_81691_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/cigar-city-brewing-a-beer-named-sue/1067268">A Beer Named Sue</a></p>
-									<p class="brewery"><a href="/w/cigar-city-brewing/379">Cigar City Brewing</a></p>
-									<p class="style">Berliner Weisse</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										3.9% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r400"></span>
-										<span class="num">(4.012)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/562156">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-562156_00881_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/trinity-brewing-co-colorado-you-never-even-call-me-by-my-name/562156">You Never Even Call Me By My Name</a></p>
-									<p class="brewery"><a href="/w/trinity-brewing-co-colorado/1282">Trinity Brewing Co. (Colorado)</a></p>
-									<p class="style">Saison / Farmhouse Ale</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										12.2% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r375"></span>
-										<span class="num">(3.807)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/232468">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-232468_0d4dc_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brewdog-hello-my-name-is-beastie/232468">Hello My Name Is Beastie</a></p>
-									<p class="brewery"><a href="/w/brewdog/241">BrewDog</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										8.2% ABV																
-									</p><p class="ibu">
-										60 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r400"></span>
-										<span class="num">(3.966)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/335219">
-									<img src="https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/engine-house-no-9-nameless-ipa/335219">Nameless IPA</a></p>
-									<p class="brewery"><a href="/w/engine-house-no-9/504">Engine House No. 9</a></p>
-									<p class="style">IPA - Imperial / Double</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										7.7% ABV																
-									</p><p class="ibu">
-										70 IBU						
-									</p>
-																		<p class="rating">
-										<span class="rating small r375"></span>
-										<span class="num">(3.694)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/898499">
-									<img src="https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/fall-brewing-company-a-beer-named-sue/898499">A Beer Named Sue</a></p>
-									<p class="brewery"><a href="/w/fall-brewing-company/169664">Fall Brewing Company</a></p>
-									<p class="style">California Common</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										5.5% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r350"></span>
-										<span class="num">(3.506)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/106137">
-									<img src="https://untappd.akamaized.net/site/beer_logos/beer-106137_52fa2_sm.jpeg">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/brauerei-nemo-namenlos-emdbrau-premium-lager/106137">Emdbräu Premium Lager</a></p>
-									<p class="brewery"><a href="/w/brauerei-nemo-namenlos/19827">Brauerei Nemo Namenlos</a></p>
-									<p class="style">Lager - Helles</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										4.5% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r225"></span>
-										<span class="num">(2.371)</span>
-									</p>
-								</div>
-							</div>
-														<div class="beer-item ">
-								<a class="label" href="/beer/27807">
-									<img src="https://untappd.akamaized.net/site/assets/images/temp/badge-beer-default.png">
-								</a><div class="beer-details">
-									<p class="name"><a href="/b/glenwood-canyon-brewing-company-no-name-nut-brown-ale/27807">No Name Nut Brown Ale</a></p>
-									<p class="brewery"><a href="/w/glenwood-canyon-brewing-company/577">Glenwood Canyon Brewing Company</a></p>
-									<p class="style">Brown Ale - American</p>
-																	</div>
-								<div class="details beer">
-									<p class="abv">
-										5.5% ABV																
-									</p><p class="ibu">
-																					N/A IBU
-																	
-									</p>
-																		<p class="rating">
-										<span class="rating small r350"></span>
-										<span class="num">(3.567)</span>
+										<span class="num">(3.923)</span>
 									</p>
 								</div>
 							</div>
@@ -1006,11 +518,9 @@
 						
 													<div class="results-add-beer">
 								<p>Don't see the beer you're looking for?</p>
-																<a href="/login?go_to=https%3A%2F%2Funtappd.com%2Fsearch%3Fq%3D%24name%26type%3Dbeer" class="track-click" data-track="search" data-type="beer" data-href=":add_beer_logged_out">You can add it here.</a>
+																<a href="/login?go_to=https%3A%2F%2Funtappd.com%2Fsearch%3Fq%3DStomping+Ground+Brewing+Co+Gipps+Street+Pale%26type%3Dbeer" class="track-click" data-track="search" data-type="beer" data-href=":add_beer_logged_out">You can add it here.</a>
 							</div>
-															<a href="/login?go_to=https%3A%2F%2Funtappd.com%2Fsearch%3Fq%3D%24name%26type%3Dbeer" class="button yellow track-click" data-track="search" data-type="beer" data-href=":more_beer_logged_out">Show More</a>
-								<p class="stream-loading"><span></span></p>
-													</div>
+												</div>
 									
 
 			</div>
@@ -1021,109 +531,109 @@
 
 			<div class="box">
     	<div class="content">
-            <h3>Global Top Beers</h3>    			<a href="/b/founders-brewing-co-kentucky-breakfast-stout-kbs/9681" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
-	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-FoundersKBS.jpg"><p>
-	    				<span class="name">Kentucky Breakfast Stout (KBS)</span>
-                        <span class="brewery">Founders Brewing Co.</span>	    			</p>
-	    		</a>
-    			    			<a href="/b/lagunitas-brewing-company-the-waldos-special-ale-aka-waldo-s-420/45245" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
+            <h3>Global Top Beers</h3>    			<a href="/b/lagunitas-brewing-company-the-waldos-special-ale-aka-waldo-s-420/45245" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
 	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-45245_456a9_sm.jpeg"><p>
 	    				<span class="name">The Waldos' Special Ale (AKA Waldo's 420)</span>
                         <span class="brewery">Lagunitas Brewing Company</span>	    			</p>
 	    		</a>
-    			    			<a href="/b/stone-brewing-company-stone-enjoy-by-04-20-16-ipa/1473016" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
-	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-1473016_0ee34_sm.jpeg"><p>
-	    				<span class="name">Stone Enjoy By 04.20.16 IPA</span>
-                        <span class="brewery">Stone Brewing</span>	    			</p>
+    			    			<a href="/b/brewery-ommegang-game-of-thrones-seven-kingdoms/1455861" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
+	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-1455861_4eb9c_sm.jpeg"><p>
+	    				<span class="name">Game of Thrones - Seven Kingdoms</span>
+                        <span class="brewery">Brewery Ommegang</span>	    			</p>
 	    		</a>
-    			    			<a href="/b/bell-s-brewery-inc-oberon-ale/16581" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
-	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-16581_b3bbb_sm.jpeg"><p>
-	    				<span class="name">Oberon Ale</span>
-                        <span class="brewery">Bell's Brewery, Inc.</span>	    			</p>
+    			    			<a href="/b/founders-brewing-co-kentucky-breakfast-stout-kbs/9681" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
+	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-FoundersKBS.jpg"><p>
+	    				<span class="name">Kentucky Breakfast Stout (KBS)</span>
+                        <span class="brewery">Founders Brewing Co.</span>	    			</p>
 	    		</a>
     			    			<a href="/b/new-belgium-brewing-company-citradelic-ipa/1139170" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
 	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-1139170_ff43b_sm.jpeg"><p>
 	    				<span class="name">Citradelic IPA</span>
                         <span class="brewery">New Belgium Brewing Company</span>	    			</p>
 	    		</a>
+    			    			<a href="/b/bell-s-brewery-inc-oberon-ale/16581" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
+	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-16581_b3bbb_sm.jpeg"><p>
+	    				<span class="name">Oberon Ale</span>
+                        <span class="brewery">Bell's Brewery, Inc.</span>	    			</p>
+	    		</a>
     			    			<a href="/b/guinness-guinness-draught/4473" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
 	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-_4473_8122008947804818c90640a06d83.jpeg"><p>
 	    				<span class="name">Guinness Draught</span>
                         <span class="brewery">Guinness</span>	    			</p>
 	    		</a>
-    			    			<a href="/b/goose-island-beer-co-goose-ipa/1353" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
-	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-1353_b23f2_sm.jpeg"><p>
-	    				<span class="name">Goose IPA</span>
-                        <span class="brewery">Goose Island Beer Co.</span>	    			</p>
+    			    			<a href="/b/boston-beer-company-samuel-adams-samuel-adams-summer-ale/3916" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
+	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-_3916_sm_2a69f4a012bc330ad111bc2e508cc6.jpeg"><p>
+	    				<span class="name">Samuel Adams Summer Ale</span>
+                        <span class="brewery">Boston Beer Company (Samuel Adams)</span>	    			</p>
+	    		</a>
+    			    			<a href="/b/blue-moon-brewing-company-belgian-white/3839" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
+	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-3839_207a3_sm.jpeg"><p>
+	    				<span class="name">Belgian White</span>
+                        <span class="brewery">Blue Moon Brewing Company</span>	    			</p>
 	    		</a>
     			    			<a href="/b/ballast-point-brewing-and-spirits-pineapple-sculpin/878028" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
 	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-878028_45543_sm.jpeg"><p>
 	    				<span class="name">Pineapple Sculpin</span>
                         <span class="brewery">Ballast Point Brewing & Spirits</span>	    			</p>
 	    		</a>
-    			    			<a href="/b/dogfish-head-craft-brewery-romantic-chemistry/1380318" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
-	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-1380318_2bfae_sm.jpeg"><p>
-	    				<span class="name">Romantic Chemistry</span>
-                        <span class="brewery">Dogfish Head Craft Brewery</span>	    			</p>
-	    		</a>
-    			    			<a href="/b/founders-brewing-co-mosaic-promise/421386" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
-	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-421386_2ac47_sm.jpeg"><p>
-	    				<span class="name">Mosaic Promise</span>
-                        <span class="brewery">Founders Brewing Co.</span>	    			</p>
+    			    			<a href="/b/lagunitas-brewing-company-ipa/4509" class="item track-click" data-track="sidebar" data-href=":beer/toplist">
+	    			<img src="https://untappd.akamaized.net/site/beer_logos/beer-4509_1ce65_sm.jpeg"><p>
+	    				<span class="name">IPA</span>
+                        <span class="brewery">Lagunitas Brewing Company</span>	    			</p>
 	    		</a>
     			    	</div>
 	</div>
 	    	<div class="box">
         	<div class="content">
-        		<h3>Trending Locations</h3>        			<a href="/v/jester-king-brewery/18641" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
-    	    			<img src="https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"><p>
-    	    				<span class="name">Jester King Brewery</span>
-    	    				<span class="location">Austin, TX                                </span>    	    			</p>
-    	    		</a>
-        			        			<a href="/v/wrigley-field/36209" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+        		<h3>Trending Locations</h3>        			<a href="/v/at-t-park/7028" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
     	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_baseball_bg_88.png"><p>
-    	    				<span class="name">Wrigley Field</span>
-    	    				<span class="location">Chicago, IL                                </span>    	    			</p>
+    	    				<span class="name">AT&T Park</span>
+    	    				<span class="location">San Francisco, CA                                </span>    	    			</p>
     	    		</a>
-        			        			<a href="/v/tap-house-grill/466356" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
-    	    			<img src="https://ss3.4sqi.net/img/categories_v2/food/gastropub_bg_88.png"><p>
-    	    				<span class="name">Tap House Grill</span>
-    	    				<span class="location">Lemont, IL                                </span>    	    			</p>
+        			        			<a href="/v/citi-field/25443" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+    	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_baseball_bg_88.png"><p>
+    	    				<span class="name">Citi Field</span>
+    	    				<span class="location">Flushing, NY                                </span>    	    			</p>
     	    		</a>
-        			        			<a href="/v/verizon-center/1855" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
-    	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_bg_88.png"><p>
-    	    				<span class="name">Verizon Center</span>
-    	    				<span class="location">Washington, D.C.                                </span>    	    			</p>
+        			        			<a href="/v/turner-field/435" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+    	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_baseball_bg_88.png"><p>
+    	    				<span class="name">Turner Field</span>
+    	    				<span class="location">Atlanta, GA                                </span>    	    			</p>
     	    		</a>
-        			        			<a href="/v/new-england-brewing-company/1063" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
-    	    			<img src="https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"><p>
-    	    				<span class="name">New England Brewing Company</span>
-    	    				<span class="location">Woodbridge, CT                                </span>    	    			</p>
+        			        			<a href="/v/hay-merchant/180430" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+    	    			<img src="https://ss3.4sqi.net/img/categories_v2/nightlife/beergarden_bg_88.png"><p>
+    	    				<span class="name">The Hay Merchant</span>
+    	    				<span class="location">Houston, TX                                </span>    	    			</p>
     	    		</a>
-        			        			<a href="/v/bruery/308416" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
-    	    			<img src="https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"><p>
-    	    				<span class="name">The Bruery</span>
-    	    				<span class="location">Placentia, CA                                </span>    	    			</p>
+        			        			<a href="/v/safeco-field/38674" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+    	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_baseball_bg_88.png"><p>
+    	    				<span class="name">Safeco Field</span>
+    	    				<span class="location">Seattle, WA                                </span>    	    			</p>
     	    		</a>
-        			        			<a href="/v/hunger-n-thirst/747436" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
-    	    			<img src="https://untappd.akamaized.net/venuelogos/venue_747436_6b96f574_bg_88.png"><p>
-    	    				<span class="name">Hunger n Thirst</span>
-    	    				<span class="location">Lancaster, PA                                </span>    	    			</p>
-    	    		</a>
-        			        			<a href="/v/science-museum-minnesota/64102" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
-    	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_science_bg_88.png"><p>
-    	    				<span class="name">Science Museum of Minnesota</span>
-    	    				<span class="location">Saint Paul, MN                                </span>    	    			</p>
-    	    		</a>
-        			        			<a href="/v/blind-pig/3743333" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+        			        			<a href="/v/flying-saucer/1663" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
     	    			<img src="https://ss3.4sqi.net/img/categories_v2/nightlife/pub_bg_88.png"><p>
-    	    				<span class="name">The Blind Pig</span>
-    	    				<span class="location">Champaign, IL                                </span>    	    			</p>
+    	    				<span class="name">Flying Saucer</span>
+    	    				<span class="location">Nashville, TN                                </span>    	    			</p>
     	    		</a>
-        			        			<a href="/v/nationals-park/10414" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+        			        			<a href="/v/target-field/15643" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
     	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_baseball_bg_88.png"><p>
-    	    				<span class="name">Nationals Park</span>
-    	    				<span class="location">Washington, D.C.                                </span>    	    			</p>
+    	    				<span class="name">Target Field</span>
+    	    				<span class="location">Minneapolis, MN                                </span>    	    			</p>
+    	    		</a>
+        			        			<a href="/v/tired-hands-fermentaria/2810707" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+    	    			<img src="https://ss3.4sqi.net/img/categories_v2/food/brewery_bg_88.png"><p>
+    	    				<span class="name">Tired Hands Fermentaria</span>
+    	    				<span class="location">Ardmore, PA                                </span>    	    			</p>
+    	    		</a>
+        			        			<a href="/v/globe-life-park-in-arlington/36174" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+    	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_baseball_bg_88.png"><p>
+    	    				<span class="name">Globe Life Park in Arlington</span>
+    	    				<span class="location">Arlington, TX                                </span>    	    			</p>
+    	    		</a>
+        			        			<a href="/v/coors-field/24634" class="item track-click" data-track="sidebar" data-href=":venue/toplist">
+    	    			<img src="https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_baseball_bg_88.png"><p>
+    	    				<span class="name">Coors Field</span>
+    	    				<span class="location">Denver, CO                                </span>    	    			</p>
     	    		</a>
         			        	</div>
     	</div> 

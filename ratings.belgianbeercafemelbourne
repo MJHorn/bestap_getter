@@ -1,16 +1,16 @@
-Bar,Region,Brewery,Beer,Rating,URL,Style
-belgianbeercafemelbourne,CBD,La Sirène Brewing,Florette,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-belgianbeercafemelbourne,CBD,Moon Dog Craft Brewery,Splice of Heaven,3.751,/beer/1093772,IPA - American
-belgianbeercafemelbourne,CBD,Brouwerij Rodenbach,Rodenbach,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-belgianbeercafemelbourne,CBD,4 Pines Brewing Company,Kolsch,3.493,/beer/25759,Kölsch
-belgianbeercafemelbourne,CBD,Cavalier Brewing,Imperial Stout,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-belgianbeercafemelbourne,CBD,Cavalier Brewing,Coconut Brown,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-belgianbeercafemelbourne,CBD,Bad Shepherd Brewing Co.,Tiny IPA,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-belgianbeercafemelbourne,CBD,Little Creatures Brewing,Furphy,3.263,/beer/759496,Kölsch
-belgianbeercafemelbourne,CBD,Little Creatures Brewing,Pipsqueak Cider,3.218,/beer/27590,Cider
-belgianbeercafemelbourne,CBD,Stella Artois,Stella Artois,3.248,/beer/4010,Lager - Euro
-belgianbeercafemelbourne,CBD,Brasserie Belle-Vue,Kriek,3.101,/beer/6926,Lambic
-belgianbeercafemelbourne,CBD,Brouwerij van Hoegaarden,Hoegaarden,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-belgianbeercafemelbourne,CBD,Abbaye de Leffe,Leffe Blonde,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-belgianbeercafemelbourne,CBD,Abbaye de Leffe,Leffe Brune,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-belgianbeercafemelbourne,CBD,Little Creatures Brewing (Lion Nathan),Bright Ale,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
+Bar,Region,Brewery,Beer,Rating,URL,Style,Image
+belgianbeercafemelbourne,CBD,Brouwerij Rodenbach,Rodenbach Grand Cru,3.91,/beer/8021,Flanders Red Ale,https://untappd.akamaized.net/site/beer_logos/beer-_8021_sm_370bdbbdf123bfa39afb098ef7684d.jpeg
+belgianbeercafemelbourne,CBD,Red Island Brewing Co.,Lamington Ale,3.694,/beer/1065174,Brown Ale - American,https://untappd.akamaized.net/site/beer_logos/beer-1065174_3577a_sm.jpeg
+belgianbeercafemelbourne,CBD,South East Brewing Company Pty Ltd,KAIJU! BEER: Hopped Out Red,3.846,/beer/486392,Red Ale - American Amber / Red,https://untappd.akamaized.net/site/beer_logos/beer-_486392_sm_214753e6b6deb2d40fc6a5094e3de0.jpeg
+belgianbeercafemelbourne,CBD,4 Pines Brewing Company,Pale Ale,3.651,/beer/16407,Pale Ale - American,https://untappd.akamaized.net/site/beer_logos/beer-16407_5b2e6_sm.jpeg
+belgianbeercafemelbourne,CBD,La Sirène Brewing,Florette,3.577,/beer/600362,Witbier,https://untappd.akamaized.net/site/beer_logos/beer-600362_7cb28_sm.jpeg
+belgianbeercafemelbourne,CBD,Cavalier Brewing,Imperial Stout,3.933,/beer/174037,Stout - Russian Imperial,https://untappd.akamaized.net/site/beer_logos/beer-_174037_sm_a5979bb2a4f5244624887b91e707c7.jpeg
+belgianbeercafemelbourne,CBD,Bad Shepherd Brewing Co.,Tiny IPA,3.377,/beer/1333626,IPA - Session / India Session Ale,https://untappd.akamaized.net/site/beer_logos/beer-1333626_9123f_sm.jpeg
+belgianbeercafemelbourne,CBD,Little Creatures Brewing,Furphy,3.262,/beer/759496,Kölsch,https://untappd.akamaized.net/site/beer_logos/beer-759496_e55af_sm.jpeg
+belgianbeercafemelbourne,CBD,Little Creatures Brewing,Pipsqueak Cider,3.217,/beer/27590,Cider,https://untappd.akamaized.net/site/brewery_logos/brewery-LittleCreaturesBrewing_2560.jpeg
+belgianbeercafemelbourne,CBD,Stella Artois,Stella Artois,3.249,/beer/4010,Lager - Euro,https://untappd.akamaized.net/site/beer_logos/beer-4010_983e0_sm.jpeg
+belgianbeercafemelbourne,CBD,Brasserie Belle-Vue,Kriek,3.104,/beer/6926,Lambic,https://d1c8v1qci5en44.cloudfront.net/site/beer_logos/beer-BelleVueKriek_6926.jpeg
+belgianbeercafemelbourne,CBD,Brouwerij van Hoegaarden,Hoegaarden,3.585,/beer/6422,Witbier,https://d1c8v1qci5en44.cloudfront.net/site/beer_logos/beer-_6422_ce1c092dc4eaab092acb68a94e5d.jpeg
+belgianbeercafemelbourne,CBD,Abbaye de Leffe,Leffe Blonde,3.579,/beer/5940,Blonde Ale - Belgian Blonde / Golden,https://d1c8v1qci5en44.cloudfront.net/site/beer_logos/beer-leffeBlonde.jpg
+belgianbeercafemelbourne,CBD,Abbaye de Leffe,Leffe Brune,3.586,/beer/5941,Brown Ale - Belgian,https://d1c8v1qci5en44.cloudfront.net/site/beer_logos/beer-LeffeBrune_5941.jpeg
+belgianbeercafemelbourne,CBD,Little Creatures Brewing,Bright Ale,3.451,/beer/7424,Pale Ale - English,https://d1c8v1qci5en44.cloudfront.net/site/beer_logos/beer-BrightAle_7424.jpeg

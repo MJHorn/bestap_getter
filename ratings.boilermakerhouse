@@ -1,13 +1,12 @@
-Bar,Region,Brewery,Beer,Rating,URL,Style
-boilermakerhouse,CBD,Feral Brewing Company,Karma Citra,3.896,/beer/28985,IPA - Black / Cascadian Dark Ale
-boilermakerhouse,CBD,Edge Brewing Project,Cool Hops - Australian Lager,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-boilermakerhouse,CBD,Murray's Craft Brewing Co,RudeBoy Pilsner,3.414,/beer/116680,Pilsner - German
-boilermakerhouse,CBD,Boatrocker Brewing Company,Ramjet (2015/2016),4.58,/beer/1503155,Stout - Imperial / Double
-boilermakerhouse,CBD,Red Hill Brewery,Hop Harvest Ale,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-boilermakerhouse,CBD,La Sirène Brewing,Farmhouse Red,3.802,/beer/224140,Saison / Farmhouse Ale
-boilermakerhouse,CBD,William Smith & Sons,Willie Smith's Lark Distillery Whisky Barrel Aged,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-boilermakerhouse,CBD,König Ludwig Schlossbrauerei Kaltenberg,König Ludwig Weissbier Hell / Royal Bavarian Hefe-Weizen,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-boilermakerhouse,CBD,Sample Brew,Purl Ale,SEARCH ERROR,SEARCH ERROR,SEARCH ERROR
-boilermakerhouse,CBD,Feral Brewing Company,The Runt,3.47,/beer/33634,Pale Ale - American
-boilermakerhouse,CBD,Murray's Craft Brewing Co,Fred,3.754,/beer/756444,IPA - American
-boilermakerhouse,CBD,Newstead Brewing Co.,Westerlies (2015),3.932,/beer/1142962,Schwarzbier
+Bar,Region,Brewery,Beer,Rating,URL,Style,Image
+boilermakerhouse,CBD,Newstead Brewing Co.,21 Feet of Harvest,3.929,/beer/1487710,Porter - American,https://untappd.akamaized.net/site/beer_logos/beer-1487710_88bec_sm.jpeg
+boilermakerhouse,CBD,Sample Brew,3/4 IPA,0,/beer/1519464,IPA - International,https://untappd.akamaized.net/site/brewery_logos/brewery-89881_38688.jpeg
+boilermakerhouse,CBD,Red Hill Brewery,QUEEN OF SCOTS RED BARLEYWINE,4.027,/beer/1510623,Barleywine - English,https://untappd.akamaized.net/site/beer_logos/beer-1510623_6f94d_sm.jpeg
+boilermakerhouse,CBD,Wayward Brewing,Sourpuss Raspberry Berliner Weisse,3.57,/beer/585482,Berliner Weisse,https://untappd.akamaized.net/site/beer_logos/beer-585482_c6df7_sm.jpeg
+boilermakerhouse,CBD,Boatrocker Brewing Company,Ramjet (2015/2016),4.625,/beer/1503155,Stout - Imperial / Double,https://untappd.akamaized.net/site/beer_logos/beer-1503155_575c5_sm.jpeg
+boilermakerhouse,CBD,Edge Brewing Project,Hopped Up On Goofballs - IPL,3.693,/beer/1292600,Lager - IPL (India Pale Lager),https://untappd.akamaized.net/site/beer_logos/beer-1292600_256e1_sm.jpeg
+boilermakerhouse,CBD,South East Brewing Company Pty Ltd,Kaiju! Robohop,3.807,/beer/893504,IPA - American,https://untappd.akamaized.net/site/beer_logos/beer-893504_1e918_sm.jpeg
+boilermakerhouse,CBD,Akasha Brewing Company (Australia),Korben D. Double IPA,4.187,/beer/1336956,IPA - Imperial / Double,https://untappd.akamaized.net/site/beer_logos/beer-1336956_3a0d7_sm.jpeg
+boilermakerhouse,CBD,Murray's Craft Brewing Co,Dark Knight,3.55,/beer/13293,Porter - Other,https://untappd.akamaized.net/site/beer_logos/beer-DarkKnight_13293.jpeg
+boilermakerhouse,CBD,Feral Brewing Company,Karma Citra,3.896,/beer/28985,IPA - Black / Cascadian Dark Ale,https://untappd.akamaized.net/site/beer_logos/beer-28985_181e5_sm.jpeg
+boilermakerhouse,CBD,La Sirène Brewing,Farmhouse Red,3.8,/beer/224140,Saison / Farmhouse Ale,https://untappd.akamaized.net/site/beer_logos/beer-FarmhouseRed_224140.jpeg

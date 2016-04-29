@@ -11,7 +11,7 @@ with open('thesebars') as f:
         bar = bar.rstrip('\n')
         web = "http://www.nowtapped.com/" + bar
         driver.get(web)
-        time.sleep(4)
+        time.sleep(3)
 #        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "officialList")))
         html_source = driver.page_source
         fout_name = "./html_" + bar

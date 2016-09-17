@@ -1,0 +1,1933 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class=" wide normal narrow narrower mobile"><head><style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style><style type="text/css">.gm-style-pbc{transition:opacity ease-in-out;background-color:black;text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}</style><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" /><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style{font-family:Roboto,Arial,sans-serif;font-size:11px;font-weight:400;text-decoration:none}.gm-style img{max-width:none}</style>
+		<title>Now Tapped | Real-time tap lists</title>
+		<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+		<meta content="Now Tapped" property="og:title" />
+		<meta content="https://nowtapped.com/images/nowtapped-share.png" property="og:image" />
+		<meta content="image/png" property="og:image:type" />
+		<meta content="512" property="og:image:width" />
+		<meta content="342" property="og:image:height" />
+		<meta content="Australia's ultimate craft beer tap listing website and apps. Search from hundreds of craft beer venues and thousands of breweries across Australia." property="og:description" />
+		<meta content="KnRnI1DPrADdvnd3-MuiQOIf1uYQNP7GppS4sdhVtJY" name="google-site-verification" />
+		<meta content="app-id=886986437" name="apple-itunes-app" />
+		<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" />
+		<!-- <base href="/" /> -->
+		<base href="//nowtapped.com/" />
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script async="" src="//www.google-analytics.com/analytics.js" style=""></script><script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" /><style type="text/css">html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}table{border-collapse:collapse;border-spacing:0}body{-webkit-text-size-adjust:none}</style><style type="text/css">@-ms-viewport{width:device-width}</style><style type="text/css">*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-o-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box}</style><style type="text/css">body{min-width:100%}.container{margin-left:auto;margin-right:auto;width:100%}.container.small{width:75%}.container.big{width:100%;max-width:125%;min-width:100%}</style><style type="text/css">.\31 2u{width:100%}.\31 1u{width:91.6666666667%}.\31 0u{width:83.3333333333%}.\39 u{width:75%}.\38 u{width:66.6666666667%}.\37 u{width:58.3333333333%}.\36 u{width:50%}.\35 u{width:41.6666666667%}.\34 u{width:33.3333333333%}.\33 u{width:25%}.\32 u{width:16.6666666667%}.\31 u{width:8.3333333333%}.\-11u{margin-left:91.6666666667%}.\-10u{margin-left:83.3333333333%}.\-9u{margin-left:75%}.\-8u{margin-left:66.6666666667%}.\-7u{margin-left:58.3333333333%}.\-6u{margin-left:50%}.\-5u{margin-left:41.6666666667%}.\-4u{margin-left:33.3333333333%}.\-3u{margin-left:25%}.\-2u{margin-left:16.6666666667%}.\-1u{margin-left:8.3333333333%}</style><style type="text/css">.row&gt;*{float:left;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-o-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box}.row:after{content:'';display:block;clear:both;height:0}.row:first-child&gt;*{padding-top:0!important}</style><style type="text/css">.row.flush{margin-left:0}.row.flush&gt;*{padding:0!important}.row&gt;*{padding-left:32px}.row+.row&gt;*{padding:32px 0 0 32px}.row{margin-left:-32px}.row.half&gt;*{padding-left:16px}.row+.row.half&gt;*{padding:16px 0 0 16px}.row.half{margin-left:-16px}.row.quarter&gt;*{padding-left:8px}.row+.row.quarter&gt;*{padding:8px 0 0 8px}.row.quarter{margin-left:-8px}.row.oneandhalf&gt;*{padding-left:48px}.row+.row.oneandhalf&gt;*{padding:48px 0 0 48px}.row.oneandhalf{margin-left:-48px}.row.double&gt;*{padding-left:64px}.row+.row.double&gt;*{padding:64px 0 0 64px}.row.double{margin-left:-64px}</style><style type="text/css">.row:not(.no-collapse):not(.no-collapse-1):not(.no-collapse-2):not(.no-collapse-3){margin-left:0}.row:not(.no-collapse):not(.no-collapse-1):not(.no-collapse-2):not(.no-collapse-3)&gt;*{float:none!important;width:100%!important;margin-left:0!important}.row:not(.flush):not(.no-collapse):not(.no-collapse-1):not(.no-collapse-2):not(.no-collapse-3)&gt;*{padding:16px 0 16px 0!important;}.container{max-width:none!important;min-width:0!important;width:100%!important}</style><style type="text/css">.not-wide,.not-normal,.not-narrow,.not-narrower,.not-mobile{display:none!important}.only-widest{display:none!important}</style><link rel="stylesheet" type="text/css" href="css/style.css" /><link rel="stylesheet" type="text/css" href="css/style-wide.css" /><link rel="stylesheet" type="text/css" href="css/style-normal.css" /><link rel="stylesheet" type="text/css" href="css/style-narrow.css" /><link rel="stylesheet" type="text/css" href="css/style-narrower.css" /><link rel="stylesheet" type="text/css" href="css/style-mobile.css" /><script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<script src="js/jquery-ui-1.10.4.custom.min.js"></script>
+		<script src="js/jquery.address-1.5.min.js?state=/"></script>
+		<script src="js/underscore-min.js"></script>
+		<script src="js/underscore.template-helpers.js"></script>
+		<script src="js/jquery.timeago.js"></script>
+		<script src="js/jquery.magnific.min.js"></script>
+		<script src="js/jquery.browser.min.js"></script>
+		<script src="js/parse-1.2.18.min.js"></script>
+		<script src="js/nowtapped.js"></script>
+		<link href="css/ui-lightness/jquery-ui-1.10.4.custom.min.css" rel="stylesheet" />
+		<noscript>
+			&lt;link rel="stylesheet" href="css/skel-noscript.css" /&gt;
+			&lt;link rel="stylesheet" href="css/style.css" /&gt;
+			&lt;link rel="stylesheet" href="css/style-desktop.css" /&gt;
+			&lt;link rel="stylesheet" href="css/style-noscript.css" /&gt;
+			&lt;link rel="stylesheet" href="css/nowtapped.css" /&gt;
+		</noscript>
+		<link href="css/magnific-popup.css" rel="stylesheet" />
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD6_8DuD3HXx3f1stfVx0A7Vw9UVFbbCuE&amp;sensor=false" type="text/javascript"></script>
+		<script src="js/markerclusterer.js"></script>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+		<meta content="width=device-width, initial-scale=1" name="viewport" />
+		<script>
+	      window.fbAsyncInit = function() {
+	        FB.init({
+	          appId      : '1456126201272742',
+	          xfbml      : true,
+	          version    : 'v2.1'
+	        });
+	      };
+
+	      (function(d, s, id){
+	         var js, fjs = d.getElementsByTagName(s)[0];
+	         if (d.getElementById(id)) {return;}
+	         js = d.createElement(s); js.id = id;
+	         js.src = "//connect.facebook.net/en_US/sdk.js";
+	         fjs.parentNode.insertBefore(js, fjs);
+	       }(document, 'script', 'facebook-jssdk'));
+	    </script>
+	<script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/map.js"></script><script type="text/javascript" charset="utf-8" async="" src="https://platform.twitter.com/js/timeline.0e3df5929a60596ace3c16fb0b38e6f9.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/onion.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&amp;1m2&amp;1d-43.14866271103999&amp;2d99.24192423539193&amp;2m2&amp;1d-9.708449109983999&amp;2d173.67336741193594&amp;2u5&amp;4sen-US&amp;5e0&amp;6sm%40365000000&amp;7b0&amp;8e0&amp;callback=_xdc_._ujjb11&amp;token=27083"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/stats.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/controls.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/marker.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/overlay.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/ViewportInfoService.GetViewportInfo?1m6&amp;1m2&amp;1d-33.872791056023594&amp;2d151.2109043002622&amp;2m2&amp;1d-33.86522433538819&amp;2d151.2292108824446&amp;2u17&amp;4sen-US&amp;5e0&amp;6sm%40365000000&amp;7b0&amp;8e0&amp;callback=_xdc_._sawlfa&amp;token=65211"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/26/1/infowindow.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/vt?pb=%211m4%211m3%211i17%212i120592%213i78654%211m4%211m3%211i17%212i120592%213i78655%211m4%211m3%211i17%212i120593%213i78654%211m4%211m3%211i17%212i120593%213i78655%211m4%211m3%211i17%212i120594%213i78654%211m4%211m3%211i17%212i120594%213i78655%212m3%211e0%212sm%213i365035401%213m14%212sen-US%213sUS%215e18%2112m1%211e47%2112m3%211e37%212m1%211ssmartmaps%2112m4%211e26%212m2%211sstyles%212zcy50OjV8cC5zOi0xMDB8cC5sOjY1fHAudjpvbixzLnQ6MnxwLnM6LTEwMHxwLmw6NTF8cC52OnNpbXBsaWZpZWQscy50OjQ5fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDo1MHxwLnM6LTEwMHxwLmw6MzB8cC52Om9uLHMudDo1MXxwLnM6LTEwMHxwLmw6NDB8cC52Om9uLHMudDo0fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDoxOHxwLnY6b2ZmLHMudDo2fHMuZTpsfHAudjpvbnxwLmw6LTI1fHAuczotMTAwLHMudDo2fHMuZTpnfHAuaDojZmZmZjAwfHAubDotMjV8cC5zOi05Nw%214e3%2112m1%215b1&amp;callback=_xdc_._ih7rc7&amp;token=75503"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttp%3A%2F%2Fwww.nowtapped.com%2Fwoolloomooloobayhotel&amp;4sAIzaSyD6_8DuD3HXx3f1stfVx0A7Vw9UVFbbCuE&amp;callback=_xdc_._u1w08k&amp;token=3781"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset&gt;div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title&gt;span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
+	<body class="homepage"><div id="skel-panels-pageWrapper" style="position: relative; left: 0px; right: 0px; top: 0px; backface-visibility: hidden; transition: transform 0.25s ease-in-out 0s;">
+		<!-- Header -->
+			<div id="header" class="ready">
+						
+				<!-- Inner -->
+					<div class="inner">
+						<header>
+							<a id="logo" href="/"><img alt="Now Tapped" src="images/logo-white-trans.png" /></a>
+							<span class="byline">Real-time tap lists</span>
+						</header>
+						<footer>
+							<div class="home-radio">  
+								<div class="home-radio-left">
+								    <input type="radio" checked="checked" value="venues" name="searchitem" id="search-venues" />  
+								    <label for="search-venues">Venues</label>  
+								</div>
+							    <em class="or">or</em>
+							    <div class="home-radio-right">
+							    	<input type="radio" value="breweries" name="searchitem" id="search-breweries" />  
+							    	<label for="search-breweries">Breweries</label>  
+								</div>
+							</div>
+							<form class="home-search">
+								<span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><input type="text" placeholder="Search for Venue" id="primarySearch" class="ui-autocomplete-input" autocomplete="off" />
+								<button type="submit" class="btn-search">Search</button>
+								<div class="search-results">
+									<div class="search-scroll">
+									<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul></div>
+								</div>
+							</form>
+							<form class="home-select">
+								<p>Or select an Official Venue</p>
+								<select id="officialVenueList">
+									<option value="">Official Venues</option>
+								
+				
+					
+						<optgroup label="ACT">
+							
+								<option value="54benjamin">54 Benjamin</option>
+							
+								<option value="barrochford">Bar Rochford</option>
+							
+								<option value="bentspokebrewingco">Bentspoke Brewing Co.</option>
+							
+								<option value="ducksnutsbargrill">Ducks Nuts Bar &amp; Grill</option>
+							
+								<option value="greasemonkey">Grease Monkey</option>
+							
+								<option value="gryphonscaffebar">Gryphons Caffe Bar</option>
+							
+								<option value="honkytonks">Honkytonks</option>
+							
+								<option value="hutchmicrobar">Hutch Micro Bar</option>
+							
+								<option value="oldcanberrainn">Old Canberra Inn</option>
+							
+								<option value="temporada">Temporada</option>
+							
+								<option value="thedurham">The Durham</option>
+							
+								<option value="thegeorgeharcourtinn">The George Harcourt Inn</option>
+							
+								<option value="themeatingroom">The Meating Room</option>
+							
+								<option value="thepotbellybar">The Pot Belly Bar</option>
+							
+								<option value="transitbar">Transit Bar</option>
+							
+								<option value="waltburley">Walt &amp; Burley</option>
+							
+								<option value="wigpen">Wig &amp; Pen</option>
+							
+								<option value="zierholzpremiumbrewery">Zierholz Premium Brewery</option>
+							
+						</optgroup>
+					
+				
+					
+						<optgroup label="NSW">
+							
+								<option value="3weeds">3 Weeds</option>
+							
+								<option value="33degrees">33 Degrees</option>
+							
+								<option value="4pinesbrewingcompany">4 Pines Brewing Company</option>
+							
+								<option value="4pinesbrewinghq">4 Pines Brewing HQ</option>
+							
+								<option value="akashabrewingcompany">Akasha Brewing Company</option>
+							
+								<option value="annandalehotel">Annandale Hotel</option>
+							
+								<option value="aperitivo">Aperitivo</option>
+							
+								<option value="atriumbarbankstownsports">Atrium Bar @ Bankstown Sports</option>
+							
+								<option value="australianhotelandbrewery">Australian Hotel And Brewery</option>
+							
+								<option value="barluca">Bar Luca</option>
+							
+								<option value="beercartelbottleshop">Beer Cartel Bottleshop</option>
+							
+								<option value="beerdeluxealbury">Beer Deluxe Albury</option>
+							
+								<option value="beerdeluxesydney">Beer Deluxe Sydney</option>
+							
+								<option value="belvederehotel">Belvedere Hotel</option>
+							
+								<option value="bitterphew">Bitter Phew</option>
+							
+								<option value="bluegumhotel">Blue Gum Hotel</option>
+							
+								<option value="boatshedbarandgalley">Boat Shed Bar and Galley</option>
+							
+								<option value="bondibeachcellars">Bondi Beach Cellars</option>
+							
+								<option value="botanyviewhotel">Botany View Hotel</option>
+							
+								<option value="buckleys">Buckley's</option>
+							
+								<option value="cammeraycraft">Cammeray Craft</option>
+							
+								<option value="carlislecastlehotel">Carlisle Castle Hotel</option>
+							
+								<option value="carringtonbowlingclub">Carrington Bowling Club</option>
+							
+								<option value="charingcrosshotel">Charing Cross Hotel</option>
+							
+								<option value="clarendonhotel">Clarendon Hotel</option>
+							
+								<option value="commonwealthhotel">Commonwealth Hotel</option>
+							
+								<option value="coopershotel">Cooper's Hotel</option>
+							
+								<option value="cuttycellars">Cutty Cellars</option>
+							
+								<option value="diceyrileyshotel">Dicey Riley's Hotel</option>
+							
+								<option value="dorisandberylsbridgeclubteahouse">Doris and Beryl's Bridge Club &amp; Tea House</option>
+							
+								<option value="doveolivehotel">Dove &amp; Olive Hotel</option>
+							
+								<option value="elementbar">Element Bar</option>
+							
+								<option value="eltonseatingdrinking">Eltons Eating + Drinking</option>
+							
+								<option value="empirehotel">Empire Hotel</option>
+							
+								<option value="erskinevillehotel">Erskineville Hotel</option>
+							
+								<option value="firestationhotel">Fire Station Hotel</option>
+							
+								<option value="fivebarrelbrewery">Five Barrel Brewery</option>
+							
+								<option value="flatrockbrewcafe">Flat Rock Brew Cafe</option>
+							
+								<option value="foghornbrewhouse">FogHorn Brewhouse</option>
+							
+								<option value="foghornbrewhousecentralcoast">FogHorn Brewhouse Central Coast</option>
+							
+								<option value="forestlodgehotel">Forest Lodge Hotel</option>
+							
+								<option value="gilroyshotel">Gilroy's Hotel</option>
+							
+								<option value="harlequininn">Harlequin Inn</option>
+							
+								<option value="haroldparkhotel">Harold Park Hotel</option>
+							
+								<option value="hartspub">Harts Pub</option>
+							
+								<option value="honeyrider">Honey Rider</option>
+							
+								<option value="hopdogbeerworks">HopDog BeerWorks</option>
+							
+								<option value="hopeestate">Hope Estate</option>
+							
+								<option value="hopsfire">Hops &amp; Fire</option>
+							
+								<option value="hoteljesmond">Hotel Jesmond</option>
+							
+								<option value="hotelsteyne">Hotel Steyne</option>
+							
+								<option value="hunterbarrel">Hunter &amp; Barrel</option>
+							
+								<option value="hunterbeerco">Hunter Beer Co.</option>
+							
+								<option value="hunterriverhotel">Hunter River Hotel</option>
+							
+								<option value="illawarrabrewingcompany">Illawarra Brewing Company</option>
+							
+								<option value="imperialhotel">Imperial Hotel</option>
+							
+								<option value="jewellstavern">Jewells Tavern</option>
+							
+								<option value="kegandbrew">Keg &amp; Brew</option>
+							
+								<option value="kincumberhotel">Kincumber Hotel</option>
+							
+								<option value="kingstreetbrewhouse">King Street Brewhouse</option>
+							
+								<option value="kingscrosshotel">Kings Cross Hotel</option>
+							
+								<option value="kingstonpublicbarandkitchen">Kingston Public Bar and Kitchen</option>
+							
+								<option value="kirribillihotel">Kirribilli Hotel</option>
+							
+								<option value="leuracellars">Leura Cellars</option>
+							
+								<option value="lordnelsonbreweryhotel">Lord Nelson Brewery Hotel</option>
+							
+								<option value="lordraglanhotel">Lord Raglan Hotel</option>
+							
+								<option value="misspeaches">Miss Peaches</option>
+							
+								<option value="nelsonhotel">Nelson Hotel</option>
+							
+								<option value="newtowngrowlerdepot">Newtown Growler Depot</option>
+							
+								<option value="northsydneyleaguesclub">North Sydney Leagues Club</option>
+							
+								<option value="northumberlandhotel">Northumberland Hotel</option>
+							
+								<option value="ocrabsydney">O Crab Sydney</option>
+							
+								<option value="oldbankrestaurantbar">Old Bank Restaurant &amp; Bar</option>
+							
+								<option value="oldgrowler">Old Growler</option>
+							
+								<option value="petershambowlingclub">Petersham Bowling Club</option>
+							
+								<option value="pontoonbar">Pontoon Bar</option>
+							
+								<option value="porkd">Pork'd</option>
+							
+								<option value="portersliquorbalgowlah">Porters Liquor Balgowlah</option>
+							
+								<option value="princeofwaleshotel">Prince of Wales Hotel</option>
+							
+								<option value="princeofwaleshotelbottleshop">Prince of Wales Hotel Bottle Shop</option>
+							
+								<option value="pumphousesydney">Pumphouse Sydney</option>
+							
+								<option value="pyrmontbridgehotel">Pyrmont Bridge Hotel</option>
+							
+								<option value="pyrmontpointhotel">Pyrmont Point Hotel</option>
+							
+								<option value="quarrymanshotel">Quarrymans Hotel</option>
+							
+								<option value="ragandfamishhotel">Rag and Famish Hotel</option>
+							
+								<option value="riversidebrewingcompany">Riverside Brewing Company</option>
+							
+								<option value="robinhoodbottleshop">Robin Hood Bottle Shop</option>
+							
+								<option value="robinhoodhotel">Robin Hood Hotel</option>
+							
+								<option value="roundaboutinn">Roundabout Inn</option>
+							
+								<option value="roxburyhotel">Roxbury Hotel</option>
+							
+								<option value="royalalberthotel">Royal Albert Hotel</option>
+							
+								<option value="samuelsbar">Samuel's Bar</option>
+							
+								<option value="sede">Sede</option>
+							
+								<option value="silorestaurantlounge">Silo Restaurant &amp; Lounge</option>
+							
+								<option value="spooninggoats">Spooning Goats</option>
+							
+								<option value="stationbar">Station Bar</option>
+							
+								<option value="stavesbrewery">Staves Brewery</option>
+							
+								<option value="sunkissedbarandgrill">Sunkissed Bar and Grill</option>
+							
+								<option value="surlys">Surly's</option>
+							
+								<option value="sweeneysrooftopbar">Sweeney's Rooftop Bar</option>
+							
+								<option value="sydneyflyingsquadron">Sydney Flying Squadron</option>
+							
+								<option value="sydneyrowingclub">Sydney Rowing Club</option>
+							
+								<option value="tamworthtennisclub">Tamworth Tennis Club</option>
+							
+								<option value="theagresticgrocer">The Agrestic Grocer</option>
+							
+								<option value="thealbionhotel">The Albion Hotel</option>
+							
+								<option value="theaustralianheritagehotel">The Australian Heritage Hotel</option>
+							
+								<option value="thebeachclubcollaroy">The Beach Club Collaroy</option>
+							
+								<option value="theblindbear">The Blind Bear</option>
+							
+								<option value="theblindmonkcraftbeer">The Blind Monk (Craft Beer)</option>
+							
+								<option value="theburwoodinn">The Burwood Inn</option>
+							
+								<option value="thecommercialhotel">The Commercial Hotel</option>
+							
+								<option value="thecookhouse">The Cookhouse</option>
+							
+								<option value="thecottonthief">The Cotton Thief</option>
+							
+								<option value="thedoghotel">The DOG Hotel</option>
+							
+								<option value="theduckinnpubkitchen">The Duck Inn Pub &amp; Kitchen</option>
+							
+								<option value="theduke">The Duke</option>
+							
+								<option value="thegoldenbarleyhotel">The Golden Barley Hotel</option>
+							
+								<option value="thegrainstore">The Grain Store</option>
+							
+								<option value="thehappywombat">The Happy Wombat</option>
+							
+								<option value="thehenson">The Henson</option>
+							
+								<option value="thehillsclub">The Hills Club</option>
+							
+								<option value="thehivebar">The Hive Bar</option>
+							
+								<option value="thehopfactory">The Hop Factory</option>
+							
+								<option value="thehorse">The Horse</option>
+							
+								<option value="theirondukehotel">The Iron Duke Hotel</option>
+							
+								<option value="thelocaltaphousedl">The Local Taphouse Darlinghurst</option>
+							
+								<option value="themaryellen">The Mary Ellen</option>
+							
+								<option value="themattarahotel">The Mattara Hotel</option>
+							
+								<option value="thenoblehops">The Noble Hops</option>
+							
+								<option value="theobserverhotel">The Observer Hotel</option>
+							
+								<option value="theoldfitzroyhotel">The Old Fitzroy Hotel</option>
+							
+								<option value="thepourhouse">The Pourhouse</option>
+							
+								<option value="therecordcrate">The Record Crate</option>
+							
+								<option value="therugbyclub">The Rugby Club</option>
+							
+								<option value="thesawtellhotel">The Sawtell Hotel</option>
+							
+								<option value="thesquiresmaiden">The Squire's Maiden</option>
+							
+								<option value="thetemperancesociety">The Temperance Society</option>
+							
+								<option value="theterracehotel">The Terrace Hotel</option>
+							
+								<option value="theterraceonkent">The Terrace on Kent</option>
+							
+								<option value="thetudorhotel">The Tudor Hotel</option>
+							
+								<option value="theunionhotel">The Union Hotel</option>
+							
+								<option value="theweldersdog">The Welder's Dog</option>
+							
+								<option value="thewestvillage">The West Village</option>
+							
+								<option value="theworkersbarkitchen">The Workers Bar &amp; Kitchen</option>
+							
+								<option value="thirstycrowbrewery">Thirsty Crow Brewery</option>
+							
+								<option value="titusjones">Titus Jones</option>
+							
+								<option value="trinitybar">Trinity Bar</option>
+							
+								<option value="twoheadsbrewing">Two Heads Brewing</option>
+							
+								<option value="unclehops">Uncle Hops</option>
+							
+								<option value="unionlane">Union Lane</option>
+							
+								<option value="warnersatthebaybottleshop">Warners At The Bay Bottle Shop</option>
+							
+								<option value="warnersatthebay">Warners at the Bay</option>
+							
+								<option value="waywardbrewingco">Wayward Brewing Co.</option>
+							
+								<option value="webstersbar">Webster's Bar</option>
+							
+								<option value="webstersbar">Websters Bar</option>
+							
+								<option value="welcomehotel">Welcome Hotel</option>
+							
+								<option value="wentynorthliquor">Wenty North Liquor</option>
+							
+								<option value="woolloomooloobayhotel">Woolloomooloo Bay Hotel</option>
+							
+								<option value="woolpackhotel">Woolpack Hotel</option>
+							
+								<option value="younghenrys">Young Henrys</option>
+							
+								<option value="yullis">Yulli's</option>
+							
+						</optgroup>
+					
+				
+					
+				
+					
+						<optgroup label="QLD">
+							
+								<option value="allinnbrewingco">All Inn Brewing Co.</option>
+							
+								<option value="bacchusbrewingco">Bacchus Brewing Co.</option>
+							
+								<option value="barcadiakitchenbar">Barcadia Kitchen &amp; Bar</option>
+							
+								<option value="bargarabrewingcompanysbrewhouse">Bargara Brewing Company's Brewhouse</option>
+							
+								<option value="binebardining">Bine Bar &amp; Dining</option>
+							
+								<option value="bittersuite">Bitter Suite</option>
+							
+								<option value="blackbunnykitchen">Black Bunny Kitchen</option>
+							
+								<option value="blackhopsbrewery">Black Hops Brewery</option>
+							
+								<option value="blackwatertradingco">Blackwater Trading Co</option>
+							
+								<option value="bloodhoundcornerbar">Bloodhound Corner Bar</option>
+							
+								<option value="bosc">Bosc</option>
+							
+								<option value="brew">Brew</option>
+							
+								<option value="brewhousebrisbane">Brewhouse Brisbane</option>
+							
+								<option value="brewski">Brewski</option>
+							
+								<option value="brisbanebrewingco">Brisbane Brewing Co</option>
+							
+								<option value="chard">Char'd</option>
+							
+								<option value="deathvalley">Death Valley</option>
+							
+								<option value="dutchcourageofficersmess">Dutch Courage Officers' Mess</option>
+							
+								<option value="elixiba">Elixiba</option>
+							
+								<option value="embassyhotel">Embassy Hotel</option>
+							
+								<option value="farrier">Farrier</option>
+							
+								<option value="fitzpotts">Fitz + Potts</option>
+							
+								<option value="fluxrestaurantlounge">Flux Restaurant Lounge</option>
+							
+								<option value="gaslightbistro">Gaslight Bistro</option>
+							
+								<option value="greenbeaconbrewingco">Green Beacon Brewing Co</option>
+							
+								<option value="greenslopescellars">Greenslopes Cellars</option>
+							
+								<option value="hawthornesupercellarsbottleshop">Hawthorne Super Cellars Bottle Shop</option>
+							
+								<option value="hoohabar">Hoo Ha Bar</option>
+							
+								<option value="hopandvinehendra">Hop and Vine Hendra</option>
+							
+								<option value="hopsscotchandbeans">Hops Scotch and Beans</option>
+							
+								<option value="hopster">Hopster</option>
+							
+								<option value="humpybongespresso">Humpybong Espresso</option>
+							
+								<option value="kajokukoreanjapanesecuisine">Kajoku - Korean &amp; Japanese Cuisine</option>
+							
+								<option value="lesterearl">Lester &amp; Earl</option>
+							
+								<option value="locoskitchenbar">Loco's Kitchen &amp; Bar</option>
+							
+								<option value="maltdining">Malt Dining</option>
+							
+								<option value="malttraderscity">Malt Traders City</option>
+							
+								<option value="malttradersemporium">Malt Traders Emporium</option>
+							
+								<option value="maltygrain">Malty Grain</option>
+							
+								<option value="mortestatehotel">Mort Estate Hotel</option>
+							
+								<option value="newsteadbrewingco">Newstead Brewing Co.</option>
+							
+								<option value="nottonight">Not Tonight</option>
+							
+								<option value="obsessions">Obsessions on Chevron</option>
+							
+								<option value="pahotel">PA Hotel</option>
+							
+								<option value="pintsizedcraftbar">Pint Sized Craft Bar</option>
+							
+								<option value="ploughman">Ploughman</option>
+							
+								<option value="pumpyardbarbrewery">Pumpyard Bar &amp; Brewery</option>
+							
+								<option value="reefseafoodsushi">Reef Seafood + Sushi</option>
+							
+								<option value="riverfeast">Riverfeast</option>
+							
+								<option value="saccharomycesbeercaf">Saccharomyces Beer Café</option>
+							
+								<option value="statlerwaldorf">Statler &amp; Waldorf</option>
+							
+								<option value="superwhatnot">Super Whatnot</option>
+							
+								<option value="surferssandbar">Surfers Sandbar</option>
+							
+								<option value="tapd">Tap'd</option>
+							
+								<option value="taphouse">Taphouse</option>
+							
+								<option value="tapsfortitudevalley">Taps Fortitude Valley</option>
+							
+								<option value="tapsmooloolaba">Taps Mooloolaba</option>
+							
+								<option value="thebench">The Bench</option>
+							
+								<option value="thebentelbow">The Bent Elbow</option>
+							
+								<option value="theburrow">The Burrow</option>
+							
+								<option value="thegresham">The Gresham</option>
+							
+								<option value="thehouseofbrews">The House of Brews</option>
+							
+								<option value="theinstitutionalehousedining">The Institution Ale House &amp; Dining</option>
+							
+								<option value="themill">The Mill</option>
+							
+								<option value="theoxfordtaphouse">The Oxford Taphouse</option>
+							
+								<option value="thepostoffice">The Post Office</option>
+							
+								<option value="thespottedcow">The Spotted Cow</option>
+							
+								<option value="thestrandhotel">The Strand Hotel</option>
+							
+								<option value="thevillagesocial">The Village Social</option>
+							
+								<option value="threelittlepigstavern">Three Little Pigs Tavern</option>
+							
+								<option value="tipplerstap">Tippler's Tap</option>
+							
+								<option value="tomahawkbar">Tomahawk Bar</option>
+							
+								<option value="transcontinentalhotel">Transcontinental Hotel</option>
+							
+								<option value="woodchoppersinn">Woodchoppers Inn</option>
+							
+								<option value="woollymammoth">Woolly Mammoth</option>
+							
+								<option value="zepicklebrisbane">Ze Pickle Brisbane</option>
+							
+								<option value="zepickle">ZePickle</option>
+							
+								<option value="zerofox">Zero Fox</option>
+							
+								<option value="zestyediblesgunabul">Zesty Edibles @ Gunabul</option>
+							
+						</optgroup>
+					
+				
+					
+						<optgroup label="SA">
+							
+								<option value="ampikaskitchen">Ampika's Kitchen</option>
+							
+								<option value="avenuescafe">Avenues Cafe</option>
+							
+								<option value="benjaminonfranklin">Benjamin on Franklin</option>
+							
+								<option value="bigshedbrewinghq">Big Shed Brewing HQ</option>
+							
+								<option value="colonisttavern">Colonist Tavern</option>
+							
+								<option value="coopersalehousegeppscross">Coopers Alehouse Gepps Cross</option>
+							
+								<option value="crafersinnhotel">Crafers Inn Hotel</option>
+							
+								<option value="duckinn">Duck Inn</option>
+							
+								<option value="electrahouse">Electra House</option>
+							
+								<option value="franklinhotel">Franklin Hotel</option>
+							
+								<option value="generalhavelockhotel">General Havelock Hotel</option>
+							
+								<option value="gilbertstreethotel">Gilbert Street Hotel</option>
+							
+								<option value="hainsco">Hains &amp; Co</option>
+							
+								<option value="harrysbar">Harry's Bar</option>
+							
+								<option value="hotelwrightst">Hotel Wright St.</option>
+							
+								<option value="jackruby">Jack Ruby</option>
+							
+								<option value="joinersarms">Joiners Arms</option>
+							
+								<option value="littlebangbrewing">Little Bang Brewing</option>
+							
+								<option value="mickosheas">Mick O'Shea's</option>
+							
+								<option value="mileendhotel">Mile End Hotel</option>
+							
+								<option value="nolaadelaide">NOLA Adelaide</option>
+							
+								<option value="oostendebelgianbeercafe">Oostende Belgian Beer Cafe</option>
+							
+								<option value="republic">Republic</option>
+							
+								<option value="seacliffbeachhotel">Seacliff Beach Hotel</option>
+							
+								<option value="stirlinghotel">Stirling Hotel</option>
+							
+								<option value="sweetamberbrewcaf">Sweet Amber Brew Café</option>
+							
+								<option value="thearcherhotel">The Archer Hotel</option>
+							
+								<option value="theaustral">The Austral</option>
+							
+								<option value="theearlofleicester">The Earl of Leicester</option>
+							
+								<option value="theelephantbritishpub">The Elephant - British Pub</option>
+							
+								<option value="thegrovetavern">The Grove Tavern</option>
+							
+								<option value="thehighway">The Highway</option>
+							
+								<option value="thekingsheadhotel">The Kings Head Hotel</option>
+							
+								<option value="theladydalyhotel">The Lady Daly Hotel</option>
+							
+								<option value="thelighthousewharfhotel">The Lighthouse Wharf Hotel</option>
+							
+								<option value="thelionhotel">The Lion Hotel</option>
+							
+								<option value="theoxfordhotel">The Oxford Hotel</option>
+							
+								<option value="theprincealbert">The Prince Albert</option>
+							
+								<option value="theroyaloak">The Royal Oak</option>
+							
+								<option value="thewalkersarmshotel">The Walkers Arms Hotel</option>
+							
+								<option value="thewarradalehotel">The Warradale Hotel</option>
+							
+								<option value="udaberripintxosyvino">Udaberri Pintxos Y Vino</option>
+							
+								<option value="unionhotel">Union Hotel</option>
+							
+								<option value="wellingtonhotel">Wellington Hotel</option>
+							
+								<option value="wurstandstein">Wurst and Stein</option>
+							
+						</optgroup>
+					
+				
+					
+						<optgroup label="TAS">
+							
+								<option value="jackgreene">Jack Greene</option>
+							
+								<option value="saintjohncraftbeerbar">Saint John Craft Beer Bar</option>
+							
+								<option value="tasmanquartermasters">Tasman Quartermasters</option>
+							
+								<option value="thewhaler">The Whaler</option>
+							
+								<option value="watermansbeermarket">Waterman's Beer Market</option>
+							
+						</optgroup>
+					
+				
+					
+						<optgroup label="VIC">
+							
+								<option value="2brothersbrewery">2 Brothers Brewery</option>
+							
+								<option value="albertparkhotel">Albert Park Hotel</option>
+							
+								<option value="amber">Amber</option>
+							
+								<option value="antiquebar">Antique Bar</option>
+							
+								<option value="ascotvalecellars">Ascot Vale Cellars</option>
+							
+								<option value="athleticclubbrewery">Athletic Club Brewery</option>
+							
+								<option value="avocahotel">Avoca Hotel</option>
+							
+								<option value="badshepherdbrewingco">Bad Shepherd Brewing Co.</option>
+							
+								<option value="beerdeluxe">Beer DeLuxe</option>
+							
+								<option value="beerdeluxehawthorn">Beer Deluxe Hawthorn</option>
+							
+								<option value="beermashcellars">Beermash Cellars</option>
+							
+								<option value="belgianbeercafemelbourne">Belgian Beer Cafe Melbourne</option>
+							
+								<option value="bimbodeluxe">Bimbo Deluxe</option>
+							
+								<option value="boatrockerbarrelroom">Boatrocker Barrel Room</option>
+							
+								<option value="bobbiepeels">Bobbie Peels</option>
+							
+								<option value="boilermakerhouse">Boilermaker House</option>
+							
+								<option value="bonnieandclydes">Bonnie And Clyde's</option>
+							
+								<option value="brandonhotel">Brandon Hotel</option>
+							
+								<option value="brotherburgerandthemarvellousbrew">Brother Burger and The Marvellous Brew</option>
+							
+								<option value="brotherburgerandthemarvellousbrewsouthyarra">Brother Burger and the Marvellous Brew South Yarra</option>
+							
+								<option value="cambrianhotel">Cambrian Hotel</option>
+							
+								<option value="cargo">Cargo</option>
+							
+								<option value="carterspublichouse">Carters Public House</option>
+							
+								<option value="carwyncellars">Carwyn Cellars</option>
+							
+								<option value="charleswestonhotel">Charles Weston Hotel</option>
+							
+								<option value="cheekypeakbrewery">Cheeky Peak Brewery</option>
+							
+								<option value="cliftonhillbrewpub">Clifton Hill Brewpub</option>
+							
+								<option value="colonialbrewingcoportmelbourne">Colonial Brewing Co - Port Melbourne</option>
+							
+								<option value="cookie">Cookie</option>
+							
+								<option value="cornisharms">Cornish Arms</option>
+							
+								<option value="daintonbrewery">Dainton Brewery</option>
+							
+								<option value="danoconnellhotel">Dan O'Connell Hotel</option>
+							
+								<option value="drmorse">Dr. Morse</option>
+							
+								<option value="eastofeverything">East of Everything</option>
+							
+								<option value="eatinghouse">Eating House</option>
+							
+								<option value="edinburghcastlehotel">Edinburgh Castle Hotel</option>
+							
+								<option value="efiftyfive">Efiftyfive</option>
+							
+								<option value="eydies">Eydie's</option>
+							
+								<option value="fancyhanksbbqjoint">Fancy Hank's BBQ Joint</option>
+							
+								<option value="farsidebeers">Far Side Beers</option>
+							
+								<option value="forestershall">Foresters Hall</option>
+							
+								<option value="foxinthecorn">Fox in the Corn</option>
+							
+								<option value="freddiewimpoles">Freddie Wimpoles</option>
+							
+								<option value="goldenvinehotel">Golden Vine Hotel</option>
+							
+								<option value="goldmineshotel">Goldmines Hotel</option>
+							
+								<option value="grandridgebrewery">Grand Ridge Brewery</option>
+							
+								<option value="grapeandgrain">Grape And Grain</option>
+							
+								<option value="greatnorthernhotel">Great Northern Hotel</option>
+							
+								<option value="greatoceanroadbrewhouse">Great Ocean Road Brewhouse</option>
+							
+								<option value="grosvenorhotel">Grosvenor Hotel</option>
+							
+								<option value="hargreaveshillbrewingcompany">Hargreaves Hill Brewing Company</option>
+							
+								<option value="hatstatts">Hats &amp; Tatts</option>
+							
+								<option value="holgatebrewhouseatkeatingshotel">Holgate Brewhouse at Keatings Hotel</option>
+							
+								<option value="hoptemple">Hop Temple</option>
+							
+								<option value="hopheads">Hopheads</option>
+							
+								<option value="hopstohome">Hops to Home</option>
+							
+								<option value="hotellincoln">Hotel Lincoln</option>
+							
+								<option value="hotelmetropolitan">Hotel Metropolitan</option>
+							
+								<option value="hotelspencer">Hotel Spencer</option>
+							
+								<option value="hydestreethotel">Hyde Street Hotel</option>
+							
+								<option value="joetaylor">Joe Taylor</option>
+							
+								<option value="junctionbeerhallwinebar">Junction Beer Hall &amp; Wine Bar</option>
+							
+								<option value="kellysmotorclubhotel">Kelly's Motor Club Hotel</option>
+							
+								<option value="ladro">Ladro</option>
+							
+								<option value="lamaros">Lamaro's</option>
+							
+								<option value="littlehop">Little Hop</option>
+							
+								<option value="littledropofpoison">Little drop of poison</option>
+							
+								<option value="markov">Markov</option>
+							
+								<option value="meatmaiden">Meatmaiden</option>
+							
+								<option value="mitchellharriswines">Mitchell Harris Wines</option>
+							
+								<option value="moondogbrewery">Moon Dog Brewery</option>
+							
+								<option value="mrpaulsbeerwine">Mr Paul's Beer &amp; Wine</option>
+							
+								<option value="mrbeebes">Mr. Beebe's</option>
+							
+								<option value="mrsparmas">Mrs Parma's</option>
+							
+								<option value="mrsparmasprahran">Mrs Parma's - Prahran</option>
+							
+								<option value="mtmacedonhotel">Mt Macedon Hotel</option>
+							
+								<option value="nieuwamsterdam">Nieuw Amsterdam</option>
+							
+								<option value="northcotesocialclub">Northcote Social Club</option>
+							
+								<option value="northerngit">Northern Git</option>
+							
+								<option value="odysseytavern">Odyssey Tavern</option>
+							
+								<option value="oscarsalehouse">Oscar's Alehouse</option>
+							
+								<option value="parkhotel">Park Hotel</option>
+							
+								<option value="pelicanslanding">Pelicans Landing</option>
+							
+								<option value="pennyblue">Penny Blue</option>
+							
+								<option value="pigandwhistletavern">Pig And Whistle Tavern</option>
+							
+								<option value="popejoan">Pope Joan</option>
+							
+								<option value="prosciuttobroscraftbar">Prosciutto Bros Craft Bar</option>
+							
+								<option value="railwayhotelbrunswick">Railway Hotel Brunswick</option>
+							
+								<option value="rainbowhotel">Rainbow Hotel</option>
+							
+								<option value="redhillbrewery">Red Hill Brewery</option>
+							
+								<option value="robertburnshotel">Robert Burns Hotel</option>
+							
+								<option value="royalhotel">Royal Hotel</option>
+							
+								<option value="spottedmallard">Spotted Mallard</option>
+							
+								<option value="spreadeaglehotel">Spread Eagle Hotel</option>
+							
+								<option value="strayneighbour">Stray Neighbour</option>
+							
+								<option value="sunmothcanteenbar">Sun Moth Canteen &amp; Bar</option>
+							
+								<option value="trubru">TRU BRU</option>
+							
+								<option value="templebrewingcompany">Temple Brewing Company</option>
+							
+								<option value="thealehouseproject">The Alehouse Project</option>
+							
+								<option value="thebeerburgerbar">The Beer &amp; Burger Bar</option>
+							
+								<option value="thecastlehotel">The Castle Hotel</option>
+							
+								<option value="thecatfish">The Catfish</option>
+							
+								<option value="thecellardoor">The Cellardoor</option>
+							
+								<option value="thecherrytreehotel">The Cherry Tree Hotel</option>
+							
+								<option value="thecontinentalhotel">The Continental Hotel</option>
+							
+								<option value="thecraftco">The Craft &amp; Co</option>
+							
+								<option value="theempresshotel">The Empress Hotel</option>
+							
+								<option value="thefifthprovince">The Fifth Province</option>
+							
+								<option value="thefitzroypinnacle">The Fitzroy Pinnacle</option>
+							
+								<option value="thefoxhotel">The Fox Hotel</option>
+							
+								<option value="thegeneralassembly">The General Assembly</option>
+							
+								<option value="thegertrudehotel">The Gertrude Hotel</option>
+							
+								<option value="thelocaltaphousestk">The Local Taphouse St Kilda</option>
+							
+								<option value="themallowhotel">The Mallow Hotel</option>
+							
+								<option value="themetropolitanhotel">The Metropolitan Hotel</option>
+							
+								<option value="themillhouse">The Mill House</option>
+							
+								<option value="themontyhotel">The Monty Hotel</option>
+							
+								<option value="theoldbar">The Old Bar</option>
+							
+								<option value="thepalacehotel">The Palace Hotel</option>
+							
+								<option value="thepennyblack">The Penny Black</option>
+							
+								<option value="thepost">The Post</option>
+							
+								<option value="thepublicbar">The Public Bar</option>
+							
+								<option value="thepublicbrewery">The Public Brewery</option>
+							
+								<option value="theroyston">The Royston</option>
+							
+								<option value="thestonehotel">The Stone Hotel</option>
+							
+								<option value="theterminushotel">The Terminus Hotel</option>
+							
+								<option value="thetramwayhotel">The Tramway Hotel</option>
+							
+								<option value="thetwobadgers">The Two Badgers</option>
+							
+								<option value="thevalleycellardoor">The Valley Cellardoor</option>
+							
+								<option value="thewindsoralehouse">The Windsor Alehouse</option>
+							
+								<option value="thewindymile">The Windy Mile</option>
+							
+								<option value="thewoodlandshotel">The Woodlands Hotel</option>
+							
+								<option value="theworkersclub">The Workers Club</option>
+							
+								<option value="trunkbarrestaurant">Trunk Bar &amp; Restaurant</option>
+							
+								<option value="tsububar">Tsubu Bar</option>
+							
+								<option value="twobirdsbrewing">Two Birds Brewing</option>
+							
+								<option value="tworow">Two Row</option>
+							
+								<option value="tyrannyofdistancecafeandlubritorium">Tyranny Of Distance Cafe And Lubritorium</option>
+							
+								<option value="upinsmoke">Up In Smoke</option>
+							
+								<option value="villagemelbourne">Village Melbourne</option>
+							
+								<option value="wesleyanne">Wesley Anne</option>
+							
+								<option value="whiteoakssaloonbardining">White Oaks Saloon Bar &amp; Dining</option>
+							
+								<option value="youngjackson">Young &amp; Jackson</option>
+							
+								<option value="youngbloodsdiner">Young Bloods Diner</option>
+							
+								<option value="smithward">smithward</option>
+							
+						</optgroup>
+					
+				
+					
+						<optgroup label="WA">
+							
+								<option value="babymammoth">Baby Mammoth</option>
+							
+								<option value="balmoralhotel">Balmoral Hotel</option>
+							
+								<option value="belgianbeercafe">Belgian Beer Cafe</option>
+							
+								<option value="billsbarandbites">Bill's Bar and Bites</option>
+							
+								<option value="bobsbar">Bob's Bar</option>
+							
+								<option value="budburstsmallbar">Budburst Small Bar</option>
+							
+								<option value="cantonloungebar">Canton Lounge Bar</option>
+							
+								<option value="cellarbrationscarlisle">Cellarbrations Carlisle</option>
+							
+								<option value="cellarbrationssuperstorehamiltonhill">Cellarbrations Superstore Hamilton Hill</option>
+							
+								<option value="clancysfishpubcanningbridge">Clancy's Fish Pub Canning Bridge</option>
+							
+								<option value="clancysfishpub">Clancy's Fish Pub Dunsborough</option>
+							
+								<option value="clancysfishpubfremantle">Clancy's Fish Pub Fremantle</option>
+							
+								<option value="colonialbrewingcomargaretriver">Colonial Brewing Co - Margaret River</option>
+							
+								<option value="corkbottle">Cork &amp; Bottle</option>
+							
+								<option value="eaglebaybrewingco">Eagle Bay Brewing Co.</option>
+							
+								<option value="fivebar">Five Bar</option>
+							
+								<option value="homesteadbrewery">Homestead Brewery</option>
+							
+								<option value="internationalbeershop">International Beer Shop</option>
+							
+								<option value="lallarookh">Lalla Rookh</option>
+							
+								<option value="maneliquor">Mane Liquor</option>
+							
+								<option value="murraystreetlodgehotelperth">Murray Street Lodge Hotel Perth</option>
+							
+								<option value="parryplacecellars">Parry Place Cellars</option>
+							
+								<option value="petitionbeercorner">Petition Beer Corner</option>
+							
+								<option value="piratebar">Pirate Bar</option>
+							
+								<option value="raffleshotel">Raffles Hotel</option>
+							
+								<option value="refugesmallbar">Refuge Small Bar</option>
+							
+								<option value="sailanchor">Sail &amp; Anchor</option>
+							
+								<option value="strangecompany">Strange Company</option>
+							
+								<option value="theboulevardhotel">The Boulevard Hotel</option>
+							
+								<option value="thebrisbanehotel">The Brisbane Hotel</option>
+							
+								<option value="thedominionleague">The Dominion League</option>
+							
+								<option value="thedutchtradingcodtc">The Dutch Trading Co. (DTC)</option>
+							
+								<option value="thefirestationspecialtybeerandwinebar">The Firestation Specialty Beer and Wine Bar</option>
+							
+								<option value="thegarden">The Garden</option>
+							
+								<option value="theluckyshag">The Lucky Shag</option>
+							
+								<option value="thepourhousebarkitchen">The Pour House Bar + Kitchen</option>
+							
+								<option value="therosemounthotel">The Rosemount Hotel</option>
+							
+								<option value="theroyalonthewaterfront">The Royal on The Waterfront</option>
+							
+								<option value="thewembleyhotel">The Wembley Hotel</option>
+							
+								<option value="varnishonking">Varnish on King</option>
+							
+						</optgroup>
+					
+				
+			</select>
+							</form>
+
+							<!-- <input type="text" id="venueSearch" placeholder="Search for Venue" />
+							<input type="text" id="brewerySearch" placeholder="Search for Brewery" /> -->
+							<a class="button circled scrolly" href="#map-canvas">Map</a>
+						</footer>
+					</div>
+				
+				<!-- Nav -->
+					<!-- <nav id="nav">
+						<ul>
+							<li><a href="/">Home</a></li>
+							<li><a href="/venues">For Venues</a></li>
+						</ul>
+					</nav> -->
+
+			</div>
+			
+		<!-- Main -->
+			<div class="wrapper style2" id="venue-info">
+				<article class="container special" id="main">
+					<header>
+				<h2>Woolloomooloo Bay Hotel</h2>
+				<span class="byline">
+					2 Bourke St., Woolloomooloo, NSW
+				</span>
+			</header>
+					<div style="display: none;" class="open-app-contain">
+						<button class="open-app fa fa-mobile" data-href="">Open this tap list in the app</button><br />
+						<a href="http://onelink.to/qjqhh5">Or get/update the app here</a>
+					</div>
+					<div class="row">
+						<article id="officialList" class="6u special beer-list" style="display: block;">
+
+				<h3>Official Tap List</h3>
+				<ul>
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-84748_19ce7_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/16814">The Hills Cider Company</a><br />Pear Cider</h4>
+								<p class="sub-info">5% Perry</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-BrightAle_7424.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/2560">Little Creatures Brewing</a><br />Bright Ale</h4>
+								<p class="sub-info">4.5% Pale Ale - English</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-FatYak_7423.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/835">Matilda Bay Brewing Company</a><br />Fat Yak</h4>
+								<p class="sub-info">4.7% Pale Ale - American</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-_12878_sm_fde3306d0a5f2c577d3712de037260.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/3162">Feral Brewing Company</a><br />Hop Hog</h4>
+								<p class="sub-info">5.8% IPA - American</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-6132_53ba5_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/14378">Hahn Brewing Co. Pty Ltd (Lion Nathan)</a><br />Super Dry</h4>
+								<p class="sub-info">4.6% Lager - North American Adjunct</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-5980_dcb18_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/4045">Carlton &amp; United Breweries</a><br />Carlton Draught</h4>
+								<p class="sub-info">4.6% Lager - Pale</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-_6114_sm_1e7306bf75c835801ccd29fb817532.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/14378">Hahn Brewing Co. Pty Ltd (Lion Nathan)</a><br />Premium Light</h4>
+								<p class="sub-info">2.7% Lager - American Light</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-_7427_2d8bd3b143ec75ccdceb756fff00.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/1921">Birra Peroni</a><br />Peroni Nastro Azzurro</h4>
+								<p class="sub-info">5.1% Lager - Euro</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-5981_ecdef_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/4045">Carlton &amp; United Breweries</a><br />Victoria Bitter (VB)</h4>
+								<p class="sub-info">4.9% Lager - Pale</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-5922_9c1b5_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/13905">Tooheys Brewing (Lion Nathan)</a><br />New</h4>
+								<p class="sub-info">4.6% Lager - Pale</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-7884_0ec91_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/397">Coopers Brewery</a><br />Original Pale Ale</h4>
+								<p class="sub-info">4.5% Pale Ale - Australian</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-JamesSquireOrchardCrushAppleCider_102844.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/820">Malt Shovel Brewery (Lion Nathan)</a><br />James Squire Orchard Crush Apple Cider</h4>
+								<p class="sub-info">4.8% Cider</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-JamesSquireOneFiftyLashesPaleAle_55904.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/820">Malt Shovel Brewery (Lion Nathan)</a><br />James Squire One Fifty Lashes Pale Ale</h4>
+								<p class="sub-info">4.2% Pale Ale - Australian</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-16407_5b2e6_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/4254">4 Pines Brewing Company</a><br />Pale Ale</h4>
+								<p class="sub-info">5.1% Pale Ale - American</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-25759_72963_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/4254">4 Pines Brewing Company</a><br />Kolsch</h4>
+								<p class="sub-info">4.6% Kölsch</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-626326_9575b_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/2555">Stone &amp; Wood</a><br />Pacific Ale</h4>
+								<p class="sub-info">4.4% Pale Ale - Australian</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-1319934_37a4a_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/236884">Qbrew Co</a><br />QuickDraw Pale Ale</h4>
+								<p class="sub-info">4.5% Pale Ale - Australian</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-1319927_6adbe_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/236884">Qbrew Co</a><br />QuickDraw Lager</h4>
+								<p class="sub-info">4.5% Lager - Pale</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+
+						<li>
+							<img src="https://untappd.akamaized.net/site/beer_logos/beer-169972_1c304_sm.jpeg" />
+
+							<div class="left">
+								<h4><a href="/brewery/17463">Two Birds Brewing</a><br />Sunset Ale </h4>
+								<p class="sub-info">4.6% Red Ale - American Amber / Red</p>
+								<p class="time-ago">Tapped <strong>6 months ago</strong></p>
+							</div>
+						</li>
+
+					
+				</ul>
+
+			</article>
+						<article id="reportedList" class="6u special beer-list"><p>Sorry, There was an error connecting with Untappd. We may have exceeded their allowed limit. Please try again later.</p></article>
+					</div>
+				</article>
+			</div>
+
+			<div style="display: none;" class="wrapper style1" id="content-info">
+			</div>
+
+			<script id="tmp-latest-header" type="text/template">
+				&lt;h2&gt;Latest taps&lt;/h2&gt;
+				&lt;span class="byline"&gt;
+					From Now Tapped venues
+				&lt;/span&gt;
+			</script>
+
+			<script id="tmp-latest-taps" type="text/template">
+				&lt;% if (results.length) { %&gt;
+					&lt;ul&gt;			
+						&lt;% _.each(results, function(v) { %&gt;
+							&lt;% if (v.attributes.venue.attributes.slug !== "demo") { %&gt;
+							&lt;li&gt;
+								&lt;img src="&lt;%=v.attributes.image%&gt;" /&gt;
+								&lt;div class="left"&gt;
+									&lt;h4&gt;&lt;a href="/brewery/&lt;%= v.attributes.breweryId %&gt;"&gt;&lt;%= v.attributes.breweryName %&gt;&lt;/a&gt;&lt;br /&gt;&lt;%= v.attributes.beerName %&gt;&lt;/h4&gt;
+									&lt;p class="sub-info"&gt;&lt;%= v.attributes.abv &gt; 0 ? v.attributes.abv+"% " : "" %&gt;&lt;%= v.attributes.style %&gt;&lt;/p&gt;
+									&lt;p class="time-ago"&gt;Tapped &lt;strong&gt;&lt;%= timeAgo(String(v.createdAt)) %&gt;&lt;/strong&gt;&lt;br /&gt;at &lt;a href="/&lt;%= v.attributes.venue.attributes.slug %&gt;"&gt;&lt;%= v.attributes.venue.attributes.name %&gt;&lt;/a&gt;&lt;/p&gt;
+								&lt;/div&gt;
+							&lt;/li&gt;
+							&lt;% } %&gt;
+						&lt;% }); %&gt;
+					&lt;/ul&gt;
+				&lt;% } else { %&gt;
+					&lt;p style="text-align: center;"&gt;Official tap lists from partner venues coming soon!&lt;br /&gt;In the meantime search from over 120 craft beer venues to discover the latest reported beers.&lt;/p&gt;
+				&lt;% } %&gt;
+
+			</script>
+
+			<script id="tmp-venue-header" type="text/template">
+				&lt;h2&gt;&lt;%= name %&gt;&lt;/h2&gt;
+				&lt;span class="byline"&gt;
+					&lt;%=address == "" ? "" : address+", "%&gt;&lt;%=city == "" ? "" : city+", "%&gt;&lt;%=state%&gt;
+				&lt;/span&gt;
+			</script>
+
+			<script id="tmp-venue-checkins" type="text/template">
+					
+				&lt;h3&gt;Latest Reported Beers*&lt;/h3&gt;
+				&lt;ul&gt;
+					&lt;% var beerArr = []; var count = 0; %&gt;
+					&lt;% _.each(checkins.items, function(v, i) { %&gt;
+						&lt;% var longAgo = timeAgo(v.created_at) %&gt;
+						&lt;% if (_.indexOf(beerArr, v.beer.bid) == -1 &amp;&amp; count &lt; 20 &amp;&amp; longAgo.indexOf("months") == -1 &amp;&amp; longAgo.indexOf("year") == -1 &amp;&amp; longAgo.indexOf("years") == -1) { %&gt;
+							&lt;% beerArr.push(v.beer.bid); count++; %&gt;
+							&lt;li&gt;
+								&lt;% if(v.beer.beer_label.indexOf('badge-beer-default') &lt; 0) { %&gt;
+									&lt;img src="&lt;%=v.beer.beer_label%&gt;" /&gt;
+								&lt;% } else if (v.brewery.brewery_label.indexOf('badge-brewery-default') &lt; 0) { %&gt;
+									&lt;img src="&lt;%=v.brewery.brewery_label%&gt;" /&gt;
+								&lt;% } else { %&gt;
+									&lt;img src="images/default-label.png" /&gt;
+								&lt;% } %&gt;
+								&lt;div class="left"&gt;
+									&lt;h4&gt;&lt;a href="/brewery/&lt;%= v.brewery.brewery_id %&gt;"&gt;&lt;%= v.brewery.brewery_name %&gt;&lt;/a&gt;&lt;br /&gt;&lt;%= v.beer.beer_name %&gt;&lt;/h4&gt;
+									&lt;p class="sub-info"&gt;&lt;%= v.beer.beer_abv &gt; 0 ? v.beer.beer_abv+"% " : "" %&gt;&lt;%= v.beer.beer_style %&gt;&lt;/p&gt;
+									&lt;p class="time-ago"&gt;Last reported &lt;strong&gt;&lt;%= longAgo %&gt;&lt;/strong&gt;&lt;/p&gt;
+								&lt;/div&gt;
+							&lt;/li&gt;
+						&lt;% } %&gt;
+					&lt;% }); %&gt;
+				&lt;/ul&gt;
+				&lt;% if (count == 0) { %&gt;
+					&lt;p&gt;No recent reports found.&lt;/p&gt;
+				&lt;% } else { %&gt;
+					&lt;p&gt;* Reported beers provided by Untappd checkins. These maybe taps or bottles.&lt;/p&gt;
+				&lt;% } %&gt;
+			</script>
+
+			<script id="tmp-venue-taps" type="text/template">
+
+				&lt;h3&gt;Official Tap List&lt;/h3&gt;
+				&lt;ul&gt;
+					&lt;% _.each(results, function(v) { %&gt;
+
+						&lt;li&gt;
+							&lt;img src="&lt;%=v.attributes.image%&gt;" /&gt;
+
+							&lt;div class="left"&gt;
+								&lt;h4&gt;&lt;a href="/brewery/&lt;%= v.attributes.breweryId %&gt;"&gt;&lt;%= v.attributes.breweryName %&gt;&lt;/a&gt;&lt;br /&gt;&lt;%= v.attributes.beerName %&gt;&lt;/h4&gt;
+								&lt;p class="sub-info"&gt;&lt;%= v.attributes.abv &gt; 0 ? v.attributes.abv+"% " : "" %&gt;&lt;%= v.attributes.style %&gt;&lt;/p&gt;
+								&lt;p class="time-ago"&gt;Tapped &lt;strong&gt;&lt;%= timeAgo(String(v.createdAt)) %&gt;&lt;/strong&gt;&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/li&gt;
+
+					&lt;% }); %&gt;
+				&lt;/ul&gt;
+
+			</script>
+
+			<script id="tmp-brewery-header" type="text/template">
+				&lt;h2&gt;&lt;%= brewery_name %&gt;&lt;/h2&gt;
+				&lt;span class="byline"&gt;
+					&lt;%=location.brewery_city ? location.brewery_city+"," : ""%&gt; &lt;%=location.brewery_state%&gt;
+				&lt;/span&gt;
+			</script>
+
+			<script id="tmp-brewery-checkin" type="text/template">
+				&lt;h3&gt;Latest Reported Venues*&lt;/h3&gt;
+				&lt;ul&gt;
+					&lt;% var beerArr = [] %&gt;
+					&lt;% _.each(data, function(v) { %&gt;
+						&lt;% var venueArr = [] %&gt;
+						&lt;% if (v.venue  &amp;&amp; _.indexOf(beerArr, v.beer.bid) == -1) { %&gt;
+							&lt;% beerArr.push(v.beer.bid) %&gt;
+							&lt;li&gt;
+								&lt;% if(v.beer.beer_label.indexOf('badge-beer-default') &lt; 0) { %&gt;
+									&lt;img src="&lt;%=v.beer.beer_label%&gt;" /&gt;
+								&lt;% } else if (v.brewery.brewery_label.indexOf('badge-brewery-default') &lt; 0) { %&gt;
+									&lt;img src="&lt;%=v.brewery.brewery_label%&gt;" /&gt;
+								&lt;% } else { %&gt;
+									&lt;img src="images/default-label.png" /&gt;
+								&lt;% } %&gt;
+								&lt;div class="left"&gt;
+									&lt;h4&gt;&lt;%= v.brewery.brewery_name %&gt;&lt;br /&gt;&lt;%= v.beer.beer_name %&gt;&lt;/h4&gt;
+									&lt;p class="sub-info"&gt;&lt;%= v.beer.beer_abv &gt; 0 ? v.beer.beer_abv+"% " : "" %&gt;&lt;%= v.beer.beer_style %&gt;&lt;/p&gt;
+									&lt;p class="time-ago"&gt;Last reported at&lt;/p&gt;
+									&lt;% _.each(v.venue, function(x, i) { %&gt;
+										&lt;% if (x != null) { %&gt;
+											&lt;% var index = $.inArray(x.venue.venue_id, venues); %&gt;
+											&lt;% if (!$.isArray(x.venue) &amp;&amp; _.indexOf(venueArr, x.venue.venue_id) == -1 &amp;&amp; index !== -1) { %&gt;
+												&lt;% venueArr.push(x.venue.venue_id) %&gt;
+												&lt;p class="time-ago"&gt;&lt;strong&gt;
+													&lt;% if (x.venue.slug) { %&gt;&lt;a href="/&lt;%= x.venue.slug %&gt;"&gt;&lt;%= x.venue.venue_name %&gt;&lt;/a&gt;&lt;% } else { %&gt;&lt;%= x.venue.venue_name %&gt;&lt;% } %&gt;, &lt;%= x.venue.location.venue_state == '' ? '' : x.venue.location.venue_state+", " %&gt; &lt;%= timeAgo(x.created_at) %&gt;&lt;/strong&gt;&lt;/p&gt;
+											&lt;% } %&gt;
+										&lt;% } %&gt;
+									&lt;% }); %&gt;
+									&lt;/p&gt;
+								&lt;/div&gt;
+							&lt;/li&gt;
+						&lt;% } %&gt;
+					&lt;% }); %&gt;
+				&lt;/ul&gt;
+				&lt;p&gt;* Reported venues provided by Untappd checkins. These maybe taps or bottles.&lt;/p&gt;
+			</script>
+
+			<script id="tmp-brewery-taps" type="text/template">
+
+				&lt;h3&gt;Officially tapped at&lt;/h3&gt;
+				&lt;ul&gt;
+					&lt;% _.each(results, function(v) { %&gt;
+						&lt;li&gt;
+							&lt;img src="&lt;%=v.beerLabel%&gt;" /&gt;
+							&lt;div class="left"&gt;
+								&lt;h4&gt;&lt;%= v.breweryName %&gt;&lt;br /&gt;&lt;%= v.beerName %&gt;&lt;/h4&gt;
+								&lt;p class="sub-info"&gt;&lt;%= v.beerAbv &gt; 0 ? v.beerAbv+"% " : "" %&gt;&lt;%= v.beerStyle %&gt;&lt;/p&gt;
+								&lt;% _.each(v.groupedItems, function(x) { %&gt;
+									&lt;% var venue = x.attributes.venue.attributes %&gt;
+									&lt;p class="time-ago"&gt;Tapped at &lt;strong&gt;
+										&lt;a href="/&lt;%= venue.slug %&gt;"&gt;&lt;%= venue.name %&gt;&lt;/a&gt;, &lt;%= timeAgo(x.createdAt.toString()) %&gt;&lt;/strong&gt;&lt;/p&gt;
+								&lt;% }); %&gt;
+								&lt;/p&gt;
+							&lt;/div&gt;
+						&lt;/li&gt;
+					&lt;% }); %&gt;
+				&lt;/ul&gt;
+
+			</script>
+
+			<script id="tmp-signup" type="text/template">
+				&lt;div class="container"&gt;
+					&lt;div class="row"&gt;
+						&lt;div class="12u skel-cell-important"&gt;
+							&lt;article id="main" class="special"&gt;
+								&lt;header&gt;
+									&lt;h2&gt;Information for venues&lt;/h2&gt;
+									&lt;span class="byline"&gt;Now Tapped is the easiest way for you to share and manage your tap list.&lt;/span&gt;
+								&lt;/header&gt;
+								
+								&lt;h3&gt;How does it work?&lt;/h3&gt;
+								&lt;p&gt;There are two ways in which Now Tapped generates tap lists.&lt;/p&gt;
+								&lt;p&gt;Firstly, we utilise Untappd, a popular social network for beer lovers.  Untappd users ‘check-in’ what beers they are drinking and where they are drinking it.  Now Tapped can use this information to generate a Reported Beers list for that venue based on where and when the beer was checked in.&lt;/p&gt;
+								&lt;p&gt;Secondly, and most importantly, venues can keep their own updated list of what beers they currently have on tap. To make this as easy as possible, we have created the Now Tapped Venues app for iOS, Android.  This app is built and designed specifically for venues to quickly and easily create and manage their tap list. This is then instantly updated on the Now Tapped website and our user app so your punters can always get the most accurate and up-to-date tap lists possible.&lt;/p&gt;
+								
+								&lt;h3&gt;What are the benifits?&lt;/h3&gt;
+								&lt;ol&gt;
+									&lt;li&gt;&lt;p&gt;Venues have their very own page on the Now Tapped website and in the user app that will always display their latest  tap list to keep their customers fully informed on what’s pouring on tap.&lt;/p&gt;&lt;/li&gt;
+									&lt;li&gt;&lt;p&gt;The Now Tapped Venues app provides social sharing features. Venues can easily share their latest tap list on Facebook or Twitter at any time straight from the app.&lt;/p&gt;&lt;/li&gt;
+									&lt;li&gt;&lt;p&gt;More features coming soon!&lt;!--The widget generator is found in the footer section of the venue’s page. There are some customisation options to make sure the widget fits the website.--&gt;&lt;/p&gt;&lt;/li&gt;
+								&lt;/ol&gt;
+								&lt;h3&gt;How much does it cost?&lt;/h3&gt;
+								&lt;p&gt;Now Tapped is currently offering a free service for all venues.&lt;/p&gt;
+								&lt;h3&gt;Where can I get the venues app?&lt;/h3&gt;
+								&lt;p&gt;Our Now Tapped Venues app is available for iOS and Android. Search for 'Now Tapped Venues' on your device or follow these links.&lt;/p&gt;
+								&lt;p&gt;&lt;a href="https://itunes.apple.com/au/app/id856686431" target="_blank" style="margin-right: 10px;"&gt;&lt;img alt="Available on the Apple App Store" width="150" src="images/app-store.png" /&gt;&lt;/a&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.nowtapped.venues" target="_blank"&gt;&lt;img alt="Android app on Google Play" width="150" src="images/android.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+								&lt;h3&gt;Sign up&lt;/h3&gt;
+								&lt;p&gt;Once you have downloaded the app, create your account below, then sign into the app to get started. &lt;!--You can also use the online app at &lt;a href="https://nowtapped.com/app" target="_blank" class="external-link"&gt;nowtapped.com/app&lt;/a&gt;.--&gt;&lt;/p&gt;
+								&lt;h3&gt;What&amp;#39;s my Untappd ID?&lt;/h3&gt;
+					            &lt;p&gt;Now Tapped connects your account with Untappd so we can link your venue to find out what beers are being &amp;#39;checked-in&amp;#39;. To find your Untappd ID, search for your venue page on &lt;a href="http://www.untappd.com" target="_blank"&gt;untappd.com&lt;/a&gt;. Your ID is the number found at the end of the web address. For example if your page address is www.untappd.com/venue/123456, then your Untappd ID would be 123456. An Untappd ID is required to use Now Tapped.&lt;/p&gt;
+								&lt;form class="signup-form"&gt;
+									&lt;div class="error" style="display:none"&gt;&lt;/div&gt;
+									&lt;input type="text" id="signup-username" placeholder="Username" /&gt;
+									&lt;input type="password" id="signup-password" placeholder="Create a Password" /&gt;
+									&lt;input type="text" id="signup-email" placeholder="Email address" /&gt;
+									&lt;input type="text" id="signup-uid" placeholder="Untappd ID" /&gt;
+									&lt;button&gt;Sign Up&lt;/button&gt;
+									&lt;img src="images/loader-grey-trans.gif" width="24" height="24" class="loading-img" style="margin-top: 8px; float: right; display: none;" /&gt;
+					            &lt;/form&gt;
+					            &lt;div class="signup-success"&gt;
+					            	&lt;h3&gt;Congratulations! You have successfully signed up to Now Tapped.&lt;/h3&gt;
+					            	&lt;p&gt;So what now? Download the Now Tapped Venues App for iOS or Android, sign in with your details, and you are ready to start adding your tap list.&lt;/p&gt;&lt;p&gt;&lt;a href="" class="venue-link"&gt;Click here to go to your venue page.&lt;/a&gt;&lt;/p&gt;
+					            &lt;/div&gt;
+					      
+					            
+							&lt;/article&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</script>
+
+			<script id="tmp-getapps" type="text/template">
+				&lt;div class="container"&gt;
+					&lt;div class="row"&gt;
+						&lt;div class="12u skel-cell-important"&gt;
+							&lt;article id="main" class="special"&gt;
+								&lt;header&gt;
+									&lt;h2&gt;Get the apps&lt;/h2&gt;
+									&lt;span class="byline"&gt;&lt;/span&gt;
+								&lt;/header&gt;
+								&lt;div class="row"&gt;
+									&lt;article class="6u center-text"&gt;
+										&lt;h3&gt;Now Tapped app&lt;/h3&gt;
+										&lt;p&gt;&lt;img src="images/nt-app-icon.png" width="100" alt="Now Tapped App" /&gt;&lt;/p&gt;
+										&lt;p&gt;The app for craft beer lovers. Get all the latest tap lists from your favourite venues and breweries.&lt;/p&gt;
+										&lt;span class="timestamp"&gt;Available on iOS and Android&lt;/span&gt;
+										&lt;p style="margin-top: 20px;"&gt;
+											&lt;a href="https://itunes.apple.com/au/app/id886986437" target="_blank"&gt;&lt;img alt="Available on the Apple App Store"
+										       src="images/app-store.png" width="150" /&gt;&lt;/a&gt;&lt;/p&gt;
+										&lt;p&gt;
+											&lt;a href="https://play.google.com/store/apps/details?id=com.nowtapped.user" target="_blank"&gt;&lt;img alt="Android app on Google Play"
+										       src="images/android.png" width="150" /&gt;
+										&lt;/a&gt;&lt;/p&gt;
+									&lt;/article&gt;
+									&lt;article class="6u center-text"&gt;
+										&lt;h3&gt;Now Tapped for Venues app&lt;/h3&gt;
+										&lt;p&gt;&lt;img src="images/ntv-app-icon.png" width="100" alt="Now Tapped for Venues App" /&gt;&lt;/p&gt;
+										&lt;p&gt;The app for craft beer venue owners and managers. The easiest way to share and manage your tap list.&lt;/p&gt;
+										&lt;span class="timestamp"&gt;Available on iOS and Android&lt;/span&gt;
+											&lt;p style="margin-top: 20px;"&gt;
+												&lt;a href="https://itunes.apple.com/au/app/id856686431" target="_blank"&gt;&lt;img alt="Available on the Apple App Store"
+											       src="images/app-store.png" width="150" /&gt;&lt;/a&gt;&lt;/p&gt;
+											&lt;p&gt;
+												&lt;a href="https://play.google.com/store/apps/details?id=com.nowtapped.venues" target="_blank"&gt;&lt;img alt="Android app on Google Play"
+											       src="images/android.png" width="150" /&gt;
+											&lt;/a&gt;&lt;/p&gt;
+											&lt;p&gt;&lt;a href="/venues"&gt;Venues click here for more information.&lt;/a&gt;&lt;/p&gt;
+									&lt;/article&gt;
+								&lt;/div&gt;
+							&lt;/article&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</script>
+
+			<script id="tmp-widget-gen" type="text/template">
+				&lt;div class="white-popup"&gt;
+					&lt;h3&gt;Website widget generator&lt;/h3&gt;
+					&lt;p style="font-size: 0.75em; line-height: 1.75em;"&gt;To display this taplist on your website, copy and paste the below code into the html of your site where you would like it to appear. You can adjust the appearence of the widget using the settings below. The widget has a transparent background to let the colour of your website come through. Check the White Text option if your website has a dark background.&lt;/p&gt;
+					&lt;ul&gt;
+						&lt;li&gt;
+							&lt;label for="widget-width"&gt;Width (px)&lt;/label&gt;
+							&lt;input type="text" id="widget-width" value="300" /&gt;
+						&lt;/li&gt;
+						&lt;li&gt;
+							&lt;label for="widget-height"&gt;Height (px)&lt;/label&gt;
+							&lt;input type="text" id="widget-height" value="300" /&gt;
+						&lt;/li&gt;
+						&lt;li class="column-select"&gt;
+							&lt;label for="widget-columns"&gt;Columns&lt;/label&gt;
+							&lt;input type="text" id="widget-columns" value="1" /&gt; &lt;span style="font-size: 0.75em"&gt;(minimum 500 width required)&lt;/span&gt;
+						&lt;/li&gt;
+						&lt;li&gt;
+							&lt;input type="checkbox" id="widget-theme" /&gt;
+							&lt;label for="widget-theme"&gt;White text&lt;/label&gt;
+						&lt;/li&gt;
+						&lt;li&gt;
+							&lt;input type="checkbox" id="widget-labels" /&gt;
+							&lt;label for="widget-labels"&gt;Hide label images&lt;/label&gt;
+						&lt;/li&gt;
+						&lt;li&gt;
+							&lt;input type="checkbox" id="widget-heading" /&gt;
+							&lt;label for="widget-heading"&gt;Add heading&lt;/label&gt;
+							&lt;input type="text" id="widget-headingtext" placeholder="Heading text" /&gt;
+						&lt;/li&gt;
+					&lt;/ul&gt;
+					&lt;textarea id="widget-snippet"&gt;&lt;%=data.snippet%&gt;&lt;/textarea&gt;
+					&lt;button id="btn-updatewidget"&gt;Update settings&lt;/button&gt;
+					&lt;h3&gt;Preview&lt;/h3&gt;
+					&lt;div class="widget-preview"&gt;
+						&lt;%=data.snippet%&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+			</script>
+
+			<script id="tmp-brewery-search" type="text/template">
+				&lt;ul class="brewery-results"&gt;
+					&lt;% if (results.length) { %&gt;
+						&lt;% _.each(results, function(v) { %&gt;
+							&lt;li&gt;
+								&lt;a href="/brewery/&lt;%=v.brewery.brewery_id%&gt;"&gt;
+								&lt;% if (v.brewery.brewery_label.indexOf('badge-brewery-default') &lt; 0) { %&gt;
+									&lt;img src="&lt;%=v.brewery.brewery_label%&gt;" /&gt;
+								&lt;% } else { %&gt;
+									&lt;img src="images/default-label.png" /&gt;
+								&lt;% } %&gt;
+								&lt;%= v.brewery.brewery_name %&gt;
+								&lt;/a&gt;
+							&lt;/li&gt;
+						&lt;% }); %&gt;
+					&lt;% } else { %&gt;
+						&lt;li&gt;No breweries found.&lt;/li&gt;
+					&lt;% } %&gt;
+				&lt;/ul&gt;
+			</script>
+
+			<script id="tmp-officials" type="text/template">
+				&lt;% _.each(data, function(v) { %&gt;
+					&lt;% if (v.length) { %&gt;
+						&lt;optgroup label="&lt;%=v[0].state%&gt;"&gt;
+							&lt;% _.each(v, function(x) { %&gt;
+								&lt;option value="&lt;%= x.slug %&gt;"&gt;&lt;%= x.label %&gt;&lt;/option&gt;
+							&lt;% }); %&gt;
+						&lt;/optgroup&gt;
+					&lt;% } %&gt;
+				&lt;% }); %&gt;
+			</script>
+
+			<!-- Map -->
+			<div id="map-contain" class="wrapper style2">
+				<button class="resetMap">Show All Venues</button>
+				<div style="width: 100%; height: 274.4px; position: relative; background-color: rgb(229, 227, 223); overflow: hidden;" id="map-canvas"><div style="position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%; z-index: 0;" class="gm-style"><div style="position: absolute; left: 0px; top: 0px; overflow: hidden; width: 100%; height: 100%; z-index: 0; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 100; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;" aria-hidden="true"><div style="width: 256px; height: 256px; position: absolute; left: 147px; top: -205px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 147px; top: 51px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -109px; top: -205px;"></div><div style="width: 256px; height: 256px; position: absolute; left: -109px; top: 51px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 403px; top: -205px;"></div><div style="width: 256px; height: 256px; position: absolute; left: 403px; top: 51px;"></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 101; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 102; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 103; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: -1;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;" aria-hidden="true"><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 147px; top: -205px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 147px; top: 51px;"><canvas draggable="false" style="-moz-user-select: none; position: absolute; left: 0px; top: 0px; height: 256px; width: 256px;" height="256" width="256"></canvas></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -109px; top: -205px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: -109px; top: 51px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 403px; top: -205px;"></div><div style="width: 256px; height: 256px; overflow: hidden; position: absolute; left: 403px; top: 51px;"></div></div></div></div><div style="position: absolute; z-index: 0; left: 0px; top: 0px;"><div style="overflow: hidden;"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 0;"><div style="position: absolute; left: 0px; top: 0px; z-index: 1; visibility: inherit;" aria-hidden="true"><div style="position: absolute; left: 147px; top: -205px; transition: opacity 200ms ease-out 0s;"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" src="https://maps.googleapis.com/maps/vt?pb=%211m5%211m4%211i17%212i120593%213i78654%214i256%212m3%211e0%212sm%213i365035365%213m14%212sen-US%213sUS%215e18%2112m1%211e47%2112m3%211e37%212m1%211ssmartmaps%2112m4%211e26%212m2%211sstyles%212zcy50OjV8cC5zOi0xMDB8cC5sOjY1fHAudjpvbixzLnQ6MnxwLnM6LTEwMHxwLmw6NTF8cC52OnNpbXBsaWZpZWQscy50OjQ5fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDo1MHxwLnM6LTEwMHxwLmw6MzB8cC52Om9uLHMudDo1MXxwLnM6LTEwMHxwLmw6NDB8cC52Om9uLHMudDo0fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDoxOHxwLnY6b2ZmLHMudDo2fHMuZTpsfHAudjpvbnxwLmw6LTI1fHAuczotMTAwLHMudDo2fHMuZTpnfHAuaDojZmZmZjAwfHAubDotMjV8cC5zOi05Nw%214e0&amp;token=49726" draggable="false" alt="" /></div><div style="position: absolute; left: 147px; top: 51px; transition: opacity 200ms ease-out 0s;"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" src="https://maps.googleapis.com/maps/vt?pb=%211m5%211m4%211i17%212i120593%213i78655%214i256%212m3%211e0%212sm%213i365035353%213m14%212sen-US%213sUS%215e18%2112m1%211e47%2112m3%211e37%212m1%211ssmartmaps%2112m4%211e26%212m2%211sstyles%212zcy50OjV8cC5zOi0xMDB8cC5sOjY1fHAudjpvbixzLnQ6MnxwLnM6LTEwMHxwLmw6NTF8cC52OnNpbXBsaWZpZWQscy50OjQ5fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDo1MHxwLnM6LTEwMHxwLmw6MzB8cC52Om9uLHMudDo1MXxwLnM6LTEwMHxwLmw6NDB8cC52Om9uLHMudDo0fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDoxOHxwLnY6b2ZmLHMudDo2fHMuZTpsfHAudjpvbnxwLmw6LTI1fHAuczotMTAwLHMudDo2fHMuZTpnfHAuaDojZmZmZjAwfHAubDotMjV8cC5zOi05Nw%214e0&amp;token=74452" draggable="false" alt="" /></div><div style="position: absolute; left: -109px; top: -205px; transition: opacity 200ms ease-out 0s;"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" src="https://maps.googleapis.com/maps/vt?pb=%211m5%211m4%211i17%212i120592%213i78654%214i256%212m3%211e0%212sm%213i365035365%213m14%212sen-US%213sUS%215e18%2112m1%211e47%2112m3%211e37%212m1%211ssmartmaps%2112m4%211e26%212m2%211sstyles%212zcy50OjV8cC5zOi0xMDB8cC5sOjY1fHAudjpvbixzLnQ6MnxwLnM6LTEwMHxwLmw6NTF8cC52OnNpbXBsaWZpZWQscy50OjQ5fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDo1MHxwLnM6LTEwMHxwLmw6MzB8cC52Om9uLHMudDo1MXxwLnM6LTEwMHxwLmw6NDB8cC52Om9uLHMudDo0fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDoxOHxwLnY6b2ZmLHMudDo2fHMuZTpsfHAudjpvbnxwLmw6LTI1fHAuczotMTAwLHMudDo2fHMuZTpnfHAuaDojZmZmZjAwfHAubDotMjV8cC5zOi05Nw%214e0&amp;token=63327" draggable="false" alt="" /></div><div style="position: absolute; left: -109px; top: 51px; transition: opacity 200ms ease-out 0s;"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" src="https://maps.googleapis.com/maps/vt?pb=%211m5%211m4%211i17%212i120592%213i78655%214i256%212m3%211e0%212sm%213i365034993%213m14%212sen-US%213sUS%215e18%2112m1%211e47%2112m3%211e37%212m1%211ssmartmaps%2112m4%211e26%212m2%211sstyles%212zcy50OjV8cC5zOi0xMDB8cC5sOjY1fHAudjpvbixzLnQ6MnxwLnM6LTEwMHxwLmw6NTF8cC52OnNpbXBsaWZpZWQscy50OjQ5fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDo1MHxwLnM6LTEwMHxwLmw6MzB8cC52Om9uLHMudDo1MXxwLnM6LTEwMHxwLmw6NDB8cC52Om9uLHMudDo0fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDoxOHxwLnY6b2ZmLHMudDo2fHMuZTpsfHAudjpvbnxwLmw6LTI1fHAuczotMTAwLHMudDo2fHMuZTpnfHAuaDojZmZmZjAwfHAubDotMjV8cC5zOi05Nw%214e0&amp;token=118789" draggable="false" alt="" /></div><div style="position: absolute; left: 403px; top: -205px; transition: opacity 200ms ease-out 0s;"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" src="https://maps.googleapis.com/maps/vt?pb=%211m5%211m4%211i17%212i120594%213i78654%214i256%212m3%211e0%212sm%213i365035365%213m14%212sen-US%213sUS%215e18%2112m1%211e47%2112m3%211e37%212m1%211ssmartmaps%2112m4%211e26%212m2%211sstyles%212zcy50OjV8cC5zOi0xMDB8cC5sOjY1fHAudjpvbixzLnQ6MnxwLnM6LTEwMHxwLmw6NTF8cC52OnNpbXBsaWZpZWQscy50OjQ5fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDo1MHxwLnM6LTEwMHxwLmw6MzB8cC52Om9uLHMudDo1MXxwLnM6LTEwMHxwLmw6NDB8cC52Om9uLHMudDo0fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDoxOHxwLnY6b2ZmLHMudDo2fHMuZTpsfHAudjpvbnxwLmw6LTI1fHAuczotMTAwLHMudDo2fHMuZTpnfHAuaDojZmZmZjAwfHAubDotMjV8cC5zOi05Nw%214e0&amp;token=36125" draggable="false" alt="" /></div><div style="position: absolute; left: 403px; top: 51px; transition: opacity 200ms ease-out 0s;"><img style="position: absolute; left: 0px; top: 0px; width: 256px; height: 256px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; max-width: none;" src="https://maps.googleapis.com/maps/vt?pb=%211m5%211m4%211i17%212i120594%213i78655%214i256%212m3%211e0%212sm%213i365035353%213m14%212sen-US%213sUS%215e18%2112m1%211e47%2112m3%211e37%212m1%211ssmartmaps%2112m4%211e26%212m2%211sstyles%212zcy50OjV8cC5zOi0xMDB8cC5sOjY1fHAudjpvbixzLnQ6MnxwLnM6LTEwMHxwLmw6NTF8cC52OnNpbXBsaWZpZWQscy50OjQ5fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDo1MHxwLnM6LTEwMHxwLmw6MzB8cC52Om9uLHMudDo1MXxwLnM6LTEwMHxwLmw6NDB8cC52Om9uLHMudDo0fHAuczotMTAwfHAudjpzaW1wbGlmaWVkLHMudDoxOHxwLnY6b2ZmLHMudDo2fHMuZTpsfHAudjpvbnxwLmw6LTI1fHAuczotMTAwLHMudDo2fHMuZTpnfHAuaDojZmZmZjAwfHAubDotMjV8cC5zOi05Nw%214e0&amp;token=60851" draggable="false" alt="" /></div></div></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 2; width: 100%; height: 100%; transition-duration: 0.3s; opacity: 0; display: none;" class="gm-style-pbc"><p class="gm-style-pbt">Use two fingers to move the map</p></div><div style="position: absolute; left: 0px; top: 0px; z-index: 3; width: 100%; height: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 4; width: 100%;"><div style="position: absolute; left: 0px; top: 0px; z-index: 104; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 105; width: 100%;"></div><div style="position: absolute; left: 0px; top: 0px; z-index: 106; width: 100%;"><div class="cluster"></div></div><div style="position: absolute; left: 0px; top: 0px; z-index: 107; width: 100%;"></div></div></div><div style="margin-left: 5px; margin-right: 5px; z-index: 1000000; position: absolute; left: 0px; bottom: 0px;"><a style="position: static; overflow: visible; float: none; display: inline;" target="_blank" href="https://maps.google.com/maps?ll=-33.8689,151.22&amp;z=17&amp;t=m&amp;hl=en-US&amp;gl=US&amp;mapclient=apiv3" title="Click to see this area on Google Maps"><div style="width: 66px; height: 26px; cursor: pointer;"><img style="position: absolute; left: 0px; top: 0px; width: 66px; height: 26px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="https://maps.gstatic.com/mapfiles/api-3/images/google_white5.png" draggable="false" /></div></a></div><div style="background-color: white; padding: 15px 21px; border: 1px solid rgb(171, 171, 171); font-family: Roboto,Arial,sans-serif; color: rgb(34, 34, 34); box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.2); z-index: 10000002; display: none; width: 256px; height: 148px; position: absolute; left: 131px; top: 47px;"><div style="padding: 0px 0px 10px; font-size: 16px;">Map Data</div><div style="font-size: 13px;">Map data ©2016 Google</div><div style="width: 13px; height: 13px; overflow: hidden; position: absolute; opacity: 0.7; right: 12px; top: 12px; z-index: 10000; cursor: pointer;"><img style="position: absolute; left: -2px; top: -336px; width: 59px; height: 492px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="https://maps.gstatic.com/mapfiles/api-3/images/mapcnt6.png" draggable="false" /></div></div><div class="gmnoprint" style="z-index: 1000001; position: absolute; right: 161px; bottom: 0px; width: 121px;"><div draggable="false" style="-moz-user-select: none; height: 14px; line-height: 14px;" class="gm-style-cc"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="color: rgb(68, 68, 68); text-decoration: none; cursor: pointer; display: none;">Map Data</a><span style="">Map data ©2016 Google</span></div></div></div><div class="gmnoscreen" style="position: absolute; right: 0px; bottom: 0px;"><div style="font-family: Roboto,Arial,sans-serif; font-size: 11px; color: rgb(68, 68, 68); direction: ltr; text-align: right; background-color: rgb(245, 245, 245);">Map data ©2016 Google</div></div><div class="gmnoprint gm-style-cc" style="z-index: 1000001; -moz-user-select: none; height: 14px; line-height: 14px; position: absolute; right: 92px; bottom: 0px;" draggable="false"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a style="text-decoration: none; cursor: pointer; color: rgb(68, 68, 68);" href="https://www.google.com/intl/en-US_US/help/terms_maps.html" target="_blank">Terms of Use</a></div></div><div style="width: 25px; height: 25px; overflow: hidden; display: none; margin: 10px 14px; position: absolute; top: 0px; right: 0px;"><img style="position: absolute; left: -52px; top: -86px; width: 164px; height: 112px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="https://maps.gstatic.com/mapfiles/api-3/images/sv5.png" draggable="false" class="gm-fullscreen-control" /></div><div draggable="false" style="-moz-user-select: none; height: 14px; line-height: 14px; position: absolute; right: 0px; bottom: 0px;" class="gm-style-cc"><div style="opacity: 0.7; width: 100%; height: 100%; position: absolute;"><div style="width: 1px;"></div><div style="background-color: rgb(245, 245, 245); width: auto; height: 100%; margin-left: 1px;"></div></div><div style="position: relative; padding-right: 6px; padding-left: 6px; font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); white-space: nowrap; direction: ltr; text-align: right; vertical-align: middle; display: inline-block;"><a target="_new" title="Report errors in the road map or imagery to Google" style="font-family: Roboto,Arial,sans-serif; font-size: 10px; color: rgb(68, 68, 68); text-decoration: none; position: relative;" href="https://www.google.com/maps/@-33.8689,151.22,17z/data=%2110m1%211e1%2112b1?source=apiv3&amp;rapsrc=apiv3">Report a map error</a></div></div><div class="gmnoprint gm-bundled-control gm-bundled-control-on-bottom" style="margin: 10px; -moz-user-select: none; position: absolute; bottom: 107px; right: 28px;" draggable="false" controlwidth="28" controlheight="93"><div class="gmnoprint" style="position: absolute; left: 0px; top: 38px;" controlwidth="28" controlheight="55"><div draggable="false" style="-moz-user-select: none; box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); border-radius: 2px 2px 2px 2px; cursor: pointer; background-color: rgb(255, 255, 255); width: 28px; height: 55px;"><div title="Zoom in" style="position: relative; width: 28px; height: 27px; left: 0px; top: 0px;"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img style="position: absolute; left: 0px; top: 0px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; width: 120px; height: 54px;" src="https://maps.gstatic.com/mapfiles/api-3/images/tmapctrl.png" draggable="false" /></div></div><div style="position: relative; overflow: hidden; width: 67%; height: 1px; left: 16%; background-color: rgb(230, 230, 230); top: 0px;"></div><div title="Zoom out" style="position: relative; width: 28px; height: 27px; left: 0px; top: 0px;"><div style="overflow: hidden; position: absolute; width: 15px; height: 15px; left: 7px; top: 6px;"><img style="position: absolute; left: 0px; top: -15px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; width: 120px; height: 54px;" src="https://maps.gstatic.com/mapfiles/api-3/images/tmapctrl.png" draggable="false" /></div></div></div></div><div class="gm-svpc" style="background-color: rgb(255, 255, 255); box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); border-radius: 2px 2px 2px 2px; width: 28px; height: 28px; cursor: url(&quot;https://maps.gstatic.com/mapfiles/openhand_8_8.cur&quot;), default; position: absolute; left: 0px; top: 0px;" controlwidth="28" controlheight="28"><div style="position: absolute; left: 1px; top: 1px;"></div><div style="position: absolute; left: 1px; top: 1px;"><div style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px;" aria-label="Street View Pegman Control"><img style="position: absolute; left: -147px; top: -26px; width: 215px; height: 835px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="https://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" /></div><div style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;" aria-label="Pegman is on top of the Map"><img style="position: absolute; left: -147px; top: -52px; width: 215px; height: 835px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="https://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" /></div><div style="width: 26px; height: 26px; overflow: hidden; position: absolute; left: 0px; top: 0px; visibility: hidden;" aria-label="Street View Pegman Control"><img style="position: absolute; left: -147px; top: -78px; width: 215px; height: 835px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="https://maps.gstatic.com/mapfiles/api-3/images/cb_scout5.png" draggable="false" /></div></div></div><div class="gmnoprint" controlwidth="28" controlheight="0" style="display: none; position: absolute;"><div style="width: 28px; height: 28px; overflow: hidden; position: absolute; border-radius: 2px 2px 2px 2px; box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); cursor: pointer; background-color: rgb(255, 255, 255); display: none;" title="Rotate map 90 degrees"><img style="position: absolute; left: -141px; top: 6px; width: 170px; height: 54px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="https://maps.gstatic.com/mapfiles/api-3/images/tmapctrl4.png" draggable="false" /></div><div style="width: 28px; height: 28px; overflow: hidden; position: absolute; border-radius: 2px 2px 2px 2px; box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); top: 0px; cursor: pointer; background-color: rgb(255, 255, 255);" class="gm-tilt"><img style="position: absolute; left: -141px; top: -13px; width: 170px; height: 54px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px;" src="https://maps.gstatic.com/mapfiles/api-3/images/tmapctrl4.png" draggable="false" /></div></div></div><div class="gmnoprint" style="margin: 10px; z-index: 0; position: absolute; cursor: pointer; left: 0px; top: 0px;"><div style="float: left;" class="gm-style-mtc"><div style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(0, 0, 0); font-family: Roboto,Arial,sans-serif; -moz-user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 8px; border-bottom-left-radius: 2px; border-top-left-radius: 2px; background-clip: padding-box; box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); min-width: 23px; font-weight: 500;" draggable="false" title="Show street map">Map</div><div style="background-color: white; z-index: -1; padding: 2px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); position: absolute; left: 0px; top: 41px; text-align: left; display: none;"><div style="color: rgb(0, 0, 0); font-family: Roboto,Arial,sans-serif; -moz-user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 6px 8px 6px 6px; direction: ltr; text-align: left; white-space: nowrap;" draggable="false" title="Show street map with terrain"><span role="checkbox" style="position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; background-color: rgb(255, 255, 255); border: 1px solid rgb(198, 198, 198); border-radius: 1px 1px 1px 1px; width: 13px; height: 13px; vertical-align: middle;"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden; display: none;"><img style="position: absolute; left: -52px; top: -44px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; width: 68px; height: 67px;" src="https://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" /></div></span><label style="vertical-align: middle; cursor: pointer;">Terrain</label></div></div></div><div style="float: left;" class="gm-style-mtc"><div style="direction: ltr; overflow: hidden; text-align: center; position: relative; color: rgb(86, 86, 86); font-family: Roboto,Arial,sans-serif; -moz-user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 8px; border-bottom-right-radius: 2px; border-top-right-radius: 2px; background-clip: padding-box; box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); border-left: 0px none; min-width: 45px;" draggable="false" title="Show satellite imagery">Satellite</div><div style="background-color: white; z-index: -1; padding: 2px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; box-shadow: 0px 1px 4px -1px rgba(0, 0, 0, 0.3); position: absolute; right: 0px; top: 41px; text-align: left; display: none;"><div style="color: rgb(0, 0, 0); font-family: Roboto,Arial,sans-serif; -moz-user-select: none; font-size: 11px; background-color: rgb(255, 255, 255); padding: 6px 8px 6px 6px; direction: ltr; text-align: left; white-space: nowrap;" draggable="false" title="Show imagery with street names"><span role="checkbox" style="position: relative; line-height: 0; font-size: 0px; margin: 0px 5px 0px 0px; display: inline-block; background-color: rgb(255, 255, 255); border: 1px solid rgb(198, 198, 198); border-radius: 1px 1px 1px 1px; width: 13px; height: 13px; vertical-align: middle;"><div style="position: absolute; left: 1px; top: -2px; width: 13px; height: 11px; overflow: hidden;"><img style="position: absolute; left: -52px; top: -44px; -moz-user-select: none; border: 0px none; padding: 0px; margin: 0px; width: 68px; height: 67px;" src="https://maps.gstatic.com/mapfiles/mv/imgs8.png" draggable="false" /></div></span><label style="vertical-align: middle; cursor: pointer;">Labels</label></div></div></div></div></div></div>
+			</div>
+			
+			<!-- Features -->
+			<div class="wrapper style1">
+				
+				<section class="container special" id="features">
+					<header>
+						<h2>What is Now Tapped?</h2>
+						<span class="byline">Now Tapped is the ultimate resource for up-to-date tap lists from craft beer venues across Australia.</span>
+					</header>
+					<div class="row">
+						<article class="4u special">
+							<img alt="For craft beer enthusiasts" src="images/pic-user.png" />
+							<header>
+								<h3>For craft beer enthusiasts</h3>
+							</header>
+							<p>
+								Wondering what's pouring at your local venue? Looking for a particular beer on tap?  You will be sure to find what your looking for on Now Tapped.</p><p>Now Tapped utilises Untappd checkins, and is also directly updated by partner venues, to provide you with the most up-to-date tap lists possible.
+							</p>
+							<p>
+								You can also get all your tap lists on our app available for iOS and Android. <a style="color: #db460c;" href="/apps">Click here to get the app</a>.
+							</p>
+						</article>
+						<article class="4u special">
+							<img alt="For craft beer venues" src="images/pic-venue.png" />
+							<header>
+								<h3><a href="/venues">For craft beer venues</a></h3>
+							</header>
+							<p>Using the Now Tapped Venues app for iPhone and Android, there is no easier way to manage your tap list and share it with your customers. By using the app to create and update your tap list, your Now Tapped page will always show your current tap list.</p>
+								<p>You can also instantly share your tap list  via Twitter, post it directly to Facebook, or share a quick-link to your Now Tapped page. </p>
+								<!-- <p>Can’t find the time to constantly update your own website? Now Tapped provides a widget which will automatically update your website with your latest tap list. The widget generator is found in the footer section of your venue page. </p>-->
+							<p>If you own or run a venue <a style="color: #db460c;" href="/venues">click here for more information.</a></p>
+						</article>
+						<article class="4u special">
+							<img alt="For breweries" src="images/pic-brewery.png" />
+							<header>
+								<h3>For breweries</h3>
+							</header>
+							<p>Breweries can also benefit from Now Tapped. Share your Now Tapped page with fans and followers so they can hunt down your latest brew.</p><p>Find out where and when your beers are being tapped.</p><!--<p>Show where your beers are currently pouring on your own website via our Now Tapped Widget., found in the footer section of your brewery page.--><p></p>
+						</article>
+					</div>
+				</section>
+
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+				<div class="container">
+					<div class="row">
+						
+						<!-- Tweets -->
+							<section class="4u">
+								<header>
+									<h2 class="fa fa-twitter circled solo"><span>Tweets</span></h2>
+									<h4>@nowtapped</h4>
+								</header>
+								<iframe scrolling="no" frameborder="0" id="twitter-widget-0" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 520px; height: 1885.52px; padding: 0px; border: medium none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px;" data-widget-id="436119633385373696" title="Twitter Timeline"></iframe>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+							</section>
+
+						<!-- Posts -->
+							<section class="4u">
+								<header>
+									<h2 class="fa fa-home circled solo"></h2>
+									<h4>Featured Venues</h4>
+								</header>
+								<ul id="featuredVenues" class="divided">
+									
+										<li>
+											<article class="post stub">
+												<header>
+													<h3><a href="/thegrainstore">The Grain Store</a></h3>
+												</header>
+												<span class="timestamp">64-66 Scott St, Newcastle East, NSW</span>
+											</article>
+										</li>
+									
+										<li>
+											<article class="post stub">
+												<header>
+													<h3><a href="/theterminushotel">The Terminus Hotel</a></h3>
+												</header>
+												<span class="timestamp">492 Queens Parade, Fitzroy North, VIC</span>
+											</article>
+										</li>
+									
+										<li>
+											<article class="post stub">
+												<header>
+													<h3><a href="/trubru">TRU BRU</a></h3>
+												</header>
+												<span class="timestamp">3/9 Yarra St., South Yarra, VIC</span>
+											</article>
+										</li>
+									
+								</ul>
+								<script id="tmp-featured" type="text/template">
+									&lt;% _.each(data, function(v) { %&gt;
+										&lt;li&gt;
+											&lt;article class="post stub"&gt;
+												&lt;header&gt;
+													&lt;h3&gt;&lt;a href="/&lt;%=v.attributes.slug%&gt;"&gt;&lt;%=v.attributes.name%&gt;&lt;/a&gt;&lt;/h3&gt;
+												&lt;/header&gt;
+												&lt;span class="timestamp"&gt;&lt;%=v.attributes.address%&gt;, &lt;%=v.attributes.city%&gt;, &lt;%=v.attributes.state%&gt;&lt;/span&gt;
+											&lt;/article&gt;
+										&lt;/li&gt;
+									&lt;% }); %&gt;
+								</script>
+							</section>
+
+						<!-- Photos -->
+							<section class="4u">
+								<header>
+									<h2 class="fa fa-link circled solo"></h2>
+									<h4>Links</h4>
+								</header>
+								<ul class="divided">
+									<!-- <li class="widget-link">
+										<article class="post stub">
+											<header>
+												<h3 id="btn-getWidget" class="alink">Get the widget</h3>
+											</header>
+											<header>
+												<h3 id="btn-facebooktab" class="alink">Get the Facebook page tab</h3>
+											</header>
+											<span class="timestamp">Display this taplist on your website or Facebook page.</span>
+										</article>
+									</li> -->
+									<li class="app-links">
+										<article class="post stub">
+											<header>
+												<h3>Get the App for craft beer enthusiasts</h3>
+											</header>
+											<span class="timestamp">Available on iOS and Android (v4+)</span>
+											<p style="margin-top: 20px;">
+												<a target="_blank" href="https://itunes.apple.com/au/app/id886986437"><img src="images/app-store.png" alt="Available on the Apple App Store" /></a></p>
+											<p>
+												<a target="_blank" href="https://play.google.com/store/apps/details?id=com.nowtapped.user"><img src="images/android.png" alt="Android app on Google Play" />
+											</a></p>
+										</article>
+									</li>
+									<li class="app-links">
+										<article class="post stub">
+											<header>
+												<h3><a href="/venues">Info and apps for venue owners &amp; managers click here</a></h3>
+											</header>
+										</article>
+									</li>
+								</ul>
+							</section>
+
+					</div>
+					<hr />
+					<div class="row">
+						<div class="12u">
+							
+							<!-- Contact -->
+								<section class="contact">
+									<header>
+										<h3>Contact</h3>
+									</header>
+									<p>If your favourite venue is missing, you are experiencing any issues, or just want so say hi! drop us an email <a class="external-link" href="mailto:info@nowtapped.com">info@nowtapped.com</a></p>
+									<a class="poweredBy" target="_blank" href="http://www.untappd.com"><img alt="Powered by Untappd" src="images/poweredbyuntappd_a_white_large.png" /></a>
+													
+								</section>
+							
+							<!-- Copyright -->
+								<div class="copyright">
+									<ul class="menu">
+										<li>© Now Tapped. All rights reserved.</li>
+									</ul>
+								</div>
+							
+						</div>
+					
+					</div>
+				</div>
+			</div>
+			<div class="white-popup" id="noBrowser">
+					<h3>Browser not supported</h3>
+					<p>Sorry, due to limitations in Internet Explorer 9 and below, we cannot support this browser</p>
+					<img width="400" src="images/FirefoxChromeInternetExplorer.jpg" />
+					<p><a target="_blank" href="http://browsehappy.com">Click here to upgrade.</a></p>
+			</div>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-50203474-1', 'nowtapped.com');
+		  ga('send', 'pageview');
+
+		</script>
+	
+</div><div id="skel-panels-defaultWrapper" style="height: 100%;"><div id="navPanel" class="skel-panels-panel skel-panels-panel-top" style="backface-visibility: hidden; transition: transform 0.25s ease-in-out 0s; z-index: 10000; position: fixed; display: none; height: 257px; overflow-y: auto;"><div data-args="nav" data-action="navList"></div></div></div><div id="skel-panels-fixedWrapper" style="position: relative;"><div id="navButton" class="skel-panels-overlay skel-panels-overlay-top-center" style="backface-visibility: hidden; transition: transform 0.25s ease-in-out 0s; z-index: 10000; position: fixed; width: 100px; height: 50px; top: 0px; left: 50%; margin-left: -50px;"><div data-args="navPanel" data-action="togglePanel" class="toggle" style="cursor: pointer;"></div></div></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe scrolling="no" frameborder="0" name="fb_xdm_frame_http" allowtransparency="true" allowfullscreen="true" id="fb_xdm_frame_http" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="http://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f3bc8aa385ad386&amp;origin=http%3A%2F%2Fwww.nowtapped.com"></iframe><iframe scrolling="no" frameborder="0" name="fb_xdm_frame_https" allowtransparency="true" allowfullscreen="true" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" style="border: medium none;" src="https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f3bc8aa385ad386&amp;origin=http%3A%2F%2Fwww.nowtapped.com"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div><iframe scrolling="no" frameborder="0" id="rufous-sandbox" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none;"></iframe></body><iframe style="display: none;" src=""></iframe></html>

@@ -1,0 +1,943 @@
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js ie9" lang="en-AU" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-AU" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Slowbeer - Australia’s first 100% dedicated craft beer store</title>
+<link rel="pingback" href="http://slowbeer.com.au/xmlrpc.php">
+<script type="text/javascript">
+var TB_pluginPath = 'http://slowbeer.com.au/wp-content/plugins/tweet-blender', TB_C_pluginPath = 'http://slowbeer.com.au/wp-content/plugins/tweet-blender-charts';
+var TB_config = {
+'widget_show_photos':true,
+'widget_show_source':false,
+'widget_show_header':true,
+'general_link_screen_names':true,
+'general_link_hash_tags':true,
+'general_link_urls':true,
+'widget_check_sources':false,
+'widget_show_user':true,
+'rate_limit_data':'Array',
+'general_timestamp_format':false,
+'general_seo_tweets_googleoff':false,
+'general_seo_footer_googleoff':false,
+'widget_show_refresh':false,
+'archive_show_source':false,
+'archive_tweets_num':'10',
+'archive_is_disabled':false,
+'archive_auto_page':false,
+'archive_keep_tweets':'0',
+'archive_show_source_selector':false,
+'advanced_no_search_api':false,
+'filter_lang':' ',
+'filter_hide_mentions':false,
+'filter_hide_replies':false,
+'filter_hide_retweets':false,
+'filter_bad_strings':false,
+'filter_limit_per_source':false,
+'filter_hide_same_text':false,
+'filter_hide_not_replies':false,
+'ajax_url':'http://slowbeer.com.au/wp-admin/admin-ajax.php'
+}</script>
+      
+        <script type="text/javascript">
+            if (typeof woof_lang_custom == 'undefined') {
+                var woof_lang_custom = {};//!!important
+            }
+            woof_lang_custom.stock = "In stock";
+        </script>
+        
+<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Slowbeer is the country’s first, 100% dedicated craft beer store. We stock range local breweries &amp; obscure imports from cult breweries around the world."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://slowbeer.com.au/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Slowbeer - Australia’s first 100% dedicated craft beer store" />
+<meta property="og:description" content="Slowbeer is the country’s first, 100% dedicated craft beer store. We stock range local breweries &amp; obscure imports from cult breweries around the world." />
+<meta property="og:url" content="http://slowbeer.com.au/" />
+<meta property="og:site_name" content="Slow Beer" />
+<meta property="og:image" content="http://slowbeer.com.au/wp-content/uploads/2016/05/slowbeer_knuckles_black-300x111.png" />
+<meta property="og:image" content="http://slowbeer.com.au//wp-content/uploads/2015/08/slowbeer-8-300x200.jpg" />
+<meta property="og:image" content="http://slowbeer.com.au//wp-content/uploads/2015/08/slowbeer-3-300x198.jpg" />
+<meta property="og:image" content="http://slowbeer.com.au//wp-content/uploads/2015/08/learn-beer-300x198.jpg" />
+<meta property="og:image" content="http://slowbeer.com.au//wp-content/uploads/2015/08/slowbeer-6-300x194.jpg" />
+<meta property="og:image" content="http://slowbeer.com.au//wp-content/uploads/2016/03/hop-or-die.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Slowbeer is the country’s first, 100% dedicated craft beer store. We stock range local breweries &amp; obscure imports from cult breweries around the world." />
+<meta name="twitter:title" content="Slowbeer - Australia’s first 100% dedicated craft beer store" />
+<meta name="twitter:image" content="http://slowbeer.com.au/wp-content/uploads/2016/05/slowbeer_knuckles_black-300x111.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/slowbeer.com.au\/","name":"Slow Beer","potentialAction":{"@type":"SearchAction","target":"http:\/\/slowbeer.com.au\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/slowbeer.com.au\/","sameAs":[],"name":"Slow Beer","logo":"http:\/\/slowbeer.com.au\/\/wp-content\/uploads\/2015\/07\/slowbeer_logo.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Slow Beer &raquo; Feed" href="http://slowbeer.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Slow Beer &raquo; Comments Feed" href="http://slowbeer.com.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Slow Beer &raquo; Home Comments Feed" href="http://slowbeer.com.au/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/slowbeer.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='flick-css'  href='http://slowbeer.com.au/wp-content/plugins/mailchimp//css/flick/flick.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='http://slowbeer.com.au/?mcsf_action=main_css&#038;ver=4.5.2' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://slowbeer.com.au/wp-content/plugins/mailchimp/css/ie.css?ver=4.5.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cff-css'  href='http://slowbeer.com.au/wp-content/plugins/custom-facebook-feed-pro/css/cff-style.css?ver=2.6.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?ver=4.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fvp-frontend-css'  href='http://slowbeer.com.au/wp-content/plugins/featured-video-plus/styles/frontend.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://slowbeer.com.au/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_icons-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://slowbeer.com.au/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='woof-css'  href='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/css/front.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='chosen-drop-down-css'  href='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.min.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='malihu-custom-scrollbar-css'  href='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woof_by_instock_html_items-css'  href='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/ext/by_instock/css/by_instock.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='x-stack-css'  href='http://slowbeer.com.au/wp-content/themes/x/framework/css/dist/site/stacks/integrity-light.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='x-child-css'  href='http://slowbeer.com.au/wp-content/themes/x-child/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='x-woocommerce-css'  href='http://slowbeer.com.au/wp-content/themes/x/framework/css/dist/site/woocommerce/integrity-light.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='x-gravity-forms-css'  href='http://slowbeer.com.au/wp-content/themes/x/framework/css/dist/site/gravity_forms/integrity-light.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='x-google-fonts-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C700&#038;subset=latin%2Clatin-ext&#038;ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tb-css-css'  href='http://slowbeer.com.au/wp-content/plugins/tweet-blender/css/tweets.css?ver=4.5.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://slowbeer.com.au/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.5'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/slowbeer.com.au\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.5'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/mailchimp//js/datepicker.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/featured-video-plus/js/jquery.fitvids.min.js?ver=master-2015-08'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fvpdata = {"ajaxurl":"http:\/\/slowbeer.com.au\/wp-admin\/admin-ajax.php","nonce":"703c56f340","fitvids":"1","dynamic":"","overlay":"","opacity":"0.75","color":"b","width":"640"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/featured-video-plus/js/frontend.min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.4.1'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.4.1'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/themes/x/framework/js/dist/site/x-head.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/cornerstone/assets/js/dist/site/cs-head.min.js?ver=1.2.4'></script>
+<link rel='https://api.w.org/' href='http://slowbeer.com.au/wp-json/' />
+<link rel='shortlink' href='http://slowbeer.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="http://slowbeer.com.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fslowbeer.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://slowbeer.com.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fslowbeer.com.au%2F&#038;format=xml" />
+<style type="text/css">
+    .calnk a:hover {
+        background-position:0 0;
+        text-decoration:none;  
+        color:#000000;
+        border-bottom:1px dotted #000000;
+     }
+    .calnk a:visited {
+        text-decoration:none;
+        color:#000000;
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a {
+        text-decoration:none; 
+        color:#000000; 
+        border-bottom:1px dotted #000000;
+    }
+    .calnk a span { 
+        display:none; 
+    }
+    .calnk a:hover span {
+        color:#333333; 
+        background:#F6F79B; 
+        display:block;
+        position:absolute; 
+        margin-top:1px; 
+        padding:5px; 
+        width:150px; 
+        z-index:100;
+        line-height:1.2em;
+    }
+    .calendar-table {
+        border:0 !important;
+        width:100% !important;
+        border-collapse:separate !important;
+        border-spacing:2px !important;
+    }
+    .calendar-heading {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-next {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-prev {
+        width:25%;
+        text-align:center;
+    }
+    .calendar-month {
+        width:50%;
+        text-align:center;
+        font-weight:bold;
+    }
+    .normal-day-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+    }
+    .weekend-heading {
+        text-align:center;
+        width:25px;
+        height:25px;
+        font-size:0.8em;
+        border:1px solid #DFE6DE;
+        background-color:#EBF2EA;
+        color:#FF0000;
+    }
+    .day-with-date {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #DFE6DE;
+    }
+    .no-events {
+
+    }
+    .day-without-date {
+        width:60px;
+        height:60px;
+        border:1px solid #E9F0E8;
+    }
+    span.weekend {
+        color:#FF0000;
+    }
+    .current-day {
+        vertical-align:text-top;
+        text-align:left;
+        width:60px;
+        height:60px;
+        border:1px solid #BFBFBF;
+        background-color:#E4EBE3;
+    }
+    span.event {
+        font-size:0.75em;
+    }
+    .kjo-link {
+        font-size:0.75em;
+        text-align:center;
+    }
+    .calendar-date-switcher {
+        height:25px;
+        text-align:center;
+        border:1px solid #D6DED5;
+        background-color:#E4EBE3;
+    }
+    .calendar-date-switcher form {
+        margin:2px;
+    }
+    .calendar-date-switcher input {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calendar-date-switcher select {
+        border:1px #D6DED5 solid;
+        margin:0;
+    }
+    .calnk a:hover span span.event-title {
+        padding:0;
+        text-align:center;
+        font-weight:bold;
+        font-size:1.2em;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-title-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .calnk a:hover span span.event-content-break {
+        width:96%;
+        text-align:center;
+        height:1px;
+        margin-top:5px;
+        margin-right:2%;
+        padding:0;
+        background-color:#000000;
+        margin-left:0px;
+    }
+    .page-upcoming-events {
+        font-size:80%;
+    }
+    .page-todays-events {
+        font-size:80%;
+    }
+    .calendar-table table,tbody,tr,td {
+        margin:0 !important;
+        padding:0 !important;
+    }
+    table.calendar-table {
+        margin-bottom:5px !important;
+    }
+    .cat-key {
+        width:100%;
+        margin-top:30px;
+        padding:5px;
+        border:0 !important;
+    }
+    .cal-separate {
+       border:0 !important;
+       margin-top:10px;
+    }
+    table.cat-key {
+       margin-top:5px !important;
+       border:1px solid #DFE6DE !important;
+       border-collapse:separate !important;
+       border-spacing:4px !important;
+       margin-left:2px !important;
+       width:99.5% !important;
+       margin-bottom:5px !important;
+    }
+    .cat-key td {
+       border:0 !important;
+    }
+</style>
+<!-- Custom Facebook Feed JS vars -->
+<script type="text/javascript">
+var cffsiteurl = "http://slowbeer.com.au/wp-content/plugins";
+var cffajaxurl = "http://slowbeer.com.au/wp-admin/admin-ajax.php";
+var cffmetatrans = "false";
+var cfflinkhashtags = "true";
+var cffabspath = "/home/content/p3pnexwpnas07_data02/06/3286606/html/";
+</script>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('.date-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd/yyyy';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: true,
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+			});
+			d = new Date();
+			$('.birthdate-pick').each(function() {
+				var format = $(this).data('format') || 'mm/dd';
+				format = format.replace(/yyyy/i, 'yy');
+				$(this).datepicker({
+					autoFocusNextInput: true,
+					constrainInput: false,
+					changeMonth: true,
+					changeYear: false,
+					minDate: new Date(d.getFullYear(), 1-1, 1),
+					maxDate: new Date(d.getFullYear(), 12-1, 31),
+					beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+					dateFormat: format.toLowerCase(),
+				});
+
+			});
+
+		});
+	</script>
+	<meta name="generator" content="Powered by Slider Revolution 5.2.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+
+<meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Slow Beer" /><meta name="twitter:site" content="@slowbeer" /><meta name="twitter:description" content="Australia&#039;s leading craft beer retailer!" />
+
+                <style type="text/css">
+        
+        
+
+
+        
+
+                /***** START: hiding submit button of the price slider ******/
+                .woof_price_search_container .price_slider_amount button.button{
+                    display: none;
+                }
+
+                .woof_price_search_container .price_slider_amount .price_label{
+                    text-align: left !important;
+                }
+
+                .woof .widget_price_filter .price_slider_amount .button {
+                    float: left;
+                }
+
+                /***** END: hiding submit button of the price slider ******/
+
+
+        
+
+
+
+        </style>
+        
+                    <style type="text/css">
+                .woof_edit_view{
+                    display: none;
+                }
+            </style>
+        
+
+
+
+        <script type="text/javascript">
+
+            var woof_ajaxurl = "http://slowbeer.com.au/wp-admin/admin-ajax.php";
+
+            if (typeof woof_lang_custom == 'undefined') {
+                var woof_lang_custom = {};//!!important
+            }
+
+            //***
+
+            var woof_is_mobile = 0;
+        
+            var woof_is_permalink =1;
+
+            var woof_shop_page = "";
+        
+            var woof_really_curr_tax = {};
+
+            var woof_show_price_search_button = 0;
+        
+            var swoof_search_slug = "swoof";
+
+        
+            var icheck_skin = {};
+                        icheck_skin = 'none';
+        
+            var is_woof_use_chosen =1;
+
+            var woof_current_page_link = location.protocol + '//' + location.host + location.pathname;
+            //***lets remove pagination from woof_current_page_link
+            woof_current_page_link = woof_current_page_link.replace(/\page\/[0-9]+/, "");
+                            woof_current_page_link = "http://slowbeer.com.au/buy-beer/";
+                            var woof_link = 'http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/';
+
+            var woof_current_values = '[]';
+            //+++
+            var woof_lang_loading = "Loading ...";
+
+        
+            var woof_lang_show_products_filter = "show products filter";
+            var woof_lang_hide_products_filter = "hide products filter";
+            var woof_lang_pricerange = "price range";
+
+
+            var woof_lang = {
+                'orderby': "orderby",
+                'perpage': "Per page",
+                'pricerange': "price range"
+            };
+
+
+
+            var woof_use_beauty_scroll =1;
+            //+++
+            var woof_autosubmit =1;
+            var woof_ajaxurl = "http://slowbeer.com.au/wp-admin/admin-ajax.php";
+            var woof_submit_link = "";
+            var woof_is_ajax = 0;
+            var woof_ajax_redraw = 0;
+            var woof_ajax_page_num =1;
+            var woof_ajax_first_done = false;
+            var woof_checkboxes_slide_flag = true;
+
+
+            //toggles
+            var woof_toggle_type = "text";
+
+            var woof_toggle_closed_text = "-";
+            var woof_toggle_opened_text = "+";
+
+            var woof_toggle_closed_image = "http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/img/plus3.png";
+            var woof_toggle_opened_image = "http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/img/minus3.png";
+
+
+            //indexes which can be displayed in red buttons panel
+                    var woof_accept_array = ["min_price", "orderby", "perpage", "stock","product_cat","product_tag","pa_format"];
+
+        
+
+            var woof_overlay_skin = "default";
+            jQuery(function () {
+                woof_current_values = jQuery.parseJSON(woof_current_values);
+                if (woof_current_values.length == 0) {
+                    woof_current_values = {};
+                }
+
+            });
+            //***
+            //for extensions
+
+            var woof_ext_init_functions = null;
+                        woof_ext_init_functions = '{"by_instock":"woof_init_instock"}';
+        
+
+            //***
+            function woof_js_after_ajax_done() {
+                    }
+        </script>
+        <style id="x-generated-css" type="text/css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-topbar .p-info a:hover,.x-breadcrumb-wrap a:hover,.widget ul li a:hover,.widget ol li a:hover,.widget.widget_text ul li a,.widget.widget_text ol li a,.widget_nav_menu .current-menu-item > a,.x-widgetbar .widget ul li a:hover,.x-accordion-heading .x-accordion-toggle:hover,.x-comment-author a:hover,.x-comment-time:hover,.x-recent-posts a:hover .h-recent-posts{color:#000000;}a:hover,.widget.widget_text ul li a:hover,.widget.widget_text ol li a:hover,.x-twitter-widget ul li a:hover{color:#d80f0f;}.woocommerce .price > .amount,.woocommerce .price > ins > .amount,.woocommerce .star-rating:before,.woocommerce .star-rating span:before,.woocommerce li.product .entry-header h3 a:hover{color:#000000;}.rev_slider_wrapper,a.x-img-thumbnail:hover,.x-slider-container.below,.page-template-template-blank-3-php .x-slider-container.above,.page-template-template-blank-6-php .x-slider-container.above{border-color:#000000;}.entry-thumb:before,.x-pagination span.current,.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.mejs-time-current,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-entry-share .x-share:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after{background-color:#000000;}.woocommerce .onsale,.widget_price_filter .ui-slider .ui-slider-range{background-color:#000000;}.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{box-shadow:inset 0 3px 0 0 #000000;}.x-main{width:72.536945%;}.x-sidebar{width:22.536945%;}.x-topbar .p-info,.x-topbar .p-info a,.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap a,.x-breadcrumbs .delimiter{color:#3f362f;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:#eae3ce;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a{box-shadow:inset 0 4px 0 0 #000000;}.x-navbar .desktop .x-nav > li > a{height:90px;padding-top:37px;}.x-navbar .desktop .x-nav > li ul{top:75px;;}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget.widget_rss li .rsswidget{font-family:Lato;font-weight:300;text-transform:uppercase;}.p-landmark-sub,.p-meta,input,button,select,textarea{font-family:Helvetica Neue;}.widget ul li a,.widget ol li a,.x-comment-time{color:#999999;}.woocommerce .price > .from,.woocommerce .price > del,.woocommerce p.stars span a:after{color:#999999;}.widget_text ol li a,.widget_text ul li a{color:#000000;}.widget_text ol li a:hover,.widget_text ul li a:hover{color:#d80f0f;}.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar th,.p-landmark-sub strong,.widget_tag_cloud .tagcloud a:hover,.widget_tag_cloud .tagcloud a:active,.entry-footer a:hover,.entry-footer a:active,.x-breadcrumbs .current,.x-comment-author,.x-comment-author a{color:#272727;}.widget_calendar #wp-calendar th{border-color:#272727;}.h-feature-headline span i{background-color:#272727;}@media (max-width:979px){}body{font-size:14px;font-style:normal;font-weight:400;color:#999999;background-color:#ffffff;}a:focus,select:focus,input[type="file"]:focus,input[type="radio"]:focus,input[type="submit"]:focus,input[type="checkbox"]:focus{outline:thin dotted #333;outline:5px auto #000000;outline-offset:-1px;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Lato",sans-serif;font-style:normal;font-weight:300;text-transform:uppercase;}h1,.h1{letter-spacing:-0.035em;}h2,.h2{letter-spacing:-0.035em;}h3,.h3{letter-spacing:-0.035em;}h4,.h4{letter-spacing:-0.035em;}h5,.h5{letter-spacing:-0.035em;}h6,.h6{letter-spacing:-0.05em;}.w-h{font-weight:300 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:16px;}body,input,button,select,textarea{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#272727;}.cfc-h-tx{color:#272727 !important;}.cfc-h-bd{border-color:#272727 !important;}.cfc-h-bg{background-color:#272727 !important;}.cfc-b-tx{color:#999999 !important;}.cfc-b-bd{border-color:#999999 !important;}.cfc-b-bg{background-color:#999999 !important;}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:22px;font-family:"Lato",sans-serif;font-size:12px;font-style:normal;font-weight:700;letter-spacing:-0.035em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-brand img{width:161.5px;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Lato",sans-serif;font-style:normal;font-weight:700;letter-spacing:0.085em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:13px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:20px;padding-right:20px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0.085em;}.x-btn-navbar{margin-top:20px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media (max-width:979px){.x-widgetbar{left:0;right:0;}}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:#ffffff;background-color:#3f362f;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);border-radius:0.25em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:#ffffff;background-color:#eae3ce;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}.x-navbar .x-nav > li.x-menu-item-woocommerce > a .x-cart > span{padding-right:calc(0.625em - 0.085px);}.x-navbar-static-active .x-navbar .desktop .x-nav > li.x-menu-item-woocommerce > a,.x-navbar-fixed-top-active .x-navbar .desktop .x-nav > li.x-menu-item-woocommerce > a{padding-top:30px;}.x-navbar .x-nav > li.x-menu-item-woocommerce > a .x-cart{color:#b7b7b7;background-color:#ffffff;}.x-navbar .x-nav > li.x-menu-item-woocommerce > a:hover .x-cart{color:#272727;background-color:#ffffff;}.x-navbar .x-nav > li.x-menu-item-woocommerce > a .x-cart > span.outer{color:#ffffff;background-color:#b7b7b7;}.x-navbar .x-nav > li.x-menu-item-woocommerce > a:hover .x-cart > span.outer{color:#ffffff;background-color:#272727;}.x-navbar .desktop .x-nav > li.x-menu-item-woocommerce{margin-left:20px;}.woocommerce p.stars span a{background-color:#000000;}body .gform_wrapper .gfield_required,body .gform_wrapper span.ginput_total{color:#000000;}body .gform_wrapper h2.gsection_title,body .gform_wrapper h3.gform_title{font-weight:300;}body .gform_wrapper h2.gsection_title{letter-spacing:-0.035em !important;}body .gform_wrapper h3.gform_title{letter-spacing:-0.035em !important;}body .gform_wrapper .top_label .gfield_label,body .gform_wrapper .left_label .gfield_label,body .gform_wrapper .right_label .gfield_label{font-weight:400;}
+      /*
+      // Base styles.
+      */
+
+      .x-content-dock {
+        position: fixed;
+        bottom: 0;
+        border: 1px solid #e5e5e5;
+        border-bottom: 0;
+        padding: 30px;
+        background-color: #3f362f;
+        z-index: 1050;
+        -webkit-transition: all 0.5s ease;
+                transition: all 0.5s ease;
+        -webkit-transform: translate3d(0, 0, 0);
+            -ms-transform: translate3d(0, 0, 0);
+                transform: translate3d(0, 0, 0);
+                  box-shadow: 0 0.085em 0.5em 0 rgba(0, 0, 0, 0.165);
+              }
+
+
+      /*
+      // Headings.
+      */
+
+      .x-content-dock h1,
+      .x-content-dock h2,
+      .x-content-dock h3,
+      .x-content-dock h4,
+      .x-content-dock h5,
+      .x-content-dock h6 {
+        color: #ffffff !important;
+      }
+
+
+      /*
+      // Links.
+      */
+
+      .x-content-dock a:not(.x-btn):not(.x-recent-posts a) {
+        color: #428bca !important;
+      }
+
+      .x-content-dock a:not(.x-btn):not(.x-recent-posts a):hover {
+        color: #2a6496 !important;
+      }
+
+
+      /*
+      // Widget styles.
+      */
+
+      .x-content-dock .widget {
+        text-shadow: none;
+        color: #ffffff !important;
+      }
+
+      .x-content-dock .widget:before {
+        display: none;
+      }
+
+      .x-content-dock .h-widget {
+        margin: 0 0 0.5em;
+        font-size: 1.65em;
+        line-height: 1.2;
+      }
+
+
+      /*
+      // Close.
+      */
+
+      .x-close-content-dock {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 12px;
+        line-height: 1;
+        text-decoration: none;
+      }
+
+      .x-close-content-dock span {
+        color: #d9d9d9 !important;
+        -webkit-transition: color 0.3s ease;
+                transition: color 0.3s ease;
+      }
+
+      .x-close-content-dock:hover span {
+        color: #428bca !important;
+      }
+
+
+      /*
+      // Responsive.
+      */
+
+      @media (max-width: 767px) {
+        .x-content-dock {
+          display: none;
+        }
+      }
+
+    .main-img{
+margin: 0 auto;
+max-width: 600px;
+text-align: center;
+}
+h1.h-custom-headline{
+margin-top: -40px;
+}
+.home h1.h-custom-headline{
+margin-top: 0px;
+}
+.x-feature-box-text {
+    margin: 8px 0 0;
+    font-size: 90%;
+}
+.h-landmark span::before, .h-landmark span::after{
+content: url('http://slowbeer.com.au//wp-content/uploads/2016/03/slowbeer_hopsordeath_insignia.png');
+    position: absolute;
+top: 0;
+    bottom: auto;
+    height: 1px;
+    width: auto;
+    display: block;
+    background-color: transparent;
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.795);
+}
+h3.h-custom-headline.intro, .archive .page-description p, .archive .term-description p {
+font-family: "Roboto Slab","Helvetica Neue",Helvetica,sans-serif;
+font-size: 160%;
+font-weight: 100;
+line-height: 140%;
+margin: 0 0 40px 0;
+text-transform: none;
+}
+img.archiveImage{
+margin: 0 40px 40px 0;
+}
+.archive .page-description p{
+margin-bottom: 40px;
+}
+.entry-wrap{
+padding: 20px 40px 40px 40px
+}
+ul.products h3{
+font-size: 120%;
+}
+.topLevelCatBG{
+background-size: cover;
+background-position: center center;
+width: 100%;
+height: 160px;
+}
+mark{
+background-color: transparent;
+font-weight: bold;
+}
+p#breadcrumbs{
+margin:0;
+}
+.single-product  .x-nav-articles {
+    display: none;
+}
+.button, .button:hover{
+box-shadow:none;
+}
+.widget_taplist_widget h4{
+}
+.widget_taplist_widget{
+border-bottom: 1px solid #DDD;
+margin-bottom: 1em;
+}
+.widget_taplist_widget ul, .widget_taplist_widget ul li{
+background-color: transparent;
+border-bottom: none;
+box-shadow: none;
+border: none;
+margin: 0;
+}
+.widget_taplist_widget ul li{
+padding: 0.5em 0;
+}
+.widget_taplist_widget ul li:hover{
+background-color: transparent;
+}
+.x-content-dock .widget_taplist_widget h4{
+font-weight: 600;
+}
+.woof_container_inner label{
+display: inline;
+}</style><style id="cornerstone-custom-page-css" type="text/css">#x-section-3 .x-text h4{font-weight:bold;margin:0;}#x-section-3 .x-text h6{margin:10px auto 0 auto;width:90%;} </style><meta name="twitter:widgets:link-color" content="#f2b948" /><meta name="twitter:widgets:border-color" content="#e8e8e8" /><meta name="twitter:partner" content="tfwp" /></head>
+
+<body class="home page page-id-4056 page-template page-template-template-blank-4 page-template-template-blank-4-php x-integrity x-integrity-light x-navbar-static-active x-full-width-layout-active x-content-sidebar-active x-post-meta-disabled x-page-title-disabled x-v4_4_2 x-child-theme-active cornerstone-v1_2_4">
+
+  
+  <div id="top" class="site">
+
+  
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+    
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<h1 class="visually-hidden">Slow Beer</h1>
+<a href="http://slowbeer.com.au/" class="x-brand img" title="Australia&#039;s leading craft beer retailer!">
+  <img src="//slowbeer.com.au//wp-content/uploads/2016/03/slowbeer-dedicated-logo.png" alt="Australia&#039;s leading craft beer retailer!"></a>          
+<a href="#" class="x-btn-navbar collapsed" data-toggle="collapse" data-target=".x-nav-wrap.mobile">
+  <i class="x-icon-bars" data-x-icon="&#xf0c9;"></i>
+  <span class="visually-hidden">Navigation</span>
+</a>
+
+<nav class="x-nav-wrap desktop" role="navigation">
+  <ul id="menu-main-menu" class="x-nav"><li id="menu-item-9492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9492"><a href="http://slowbeer.com.au/about/"><span>About Us</span></a></li>
+<li id="menu-item-9754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9754"><a href="http://slowbeer.com.au/buy-beer/"><span>Buy Beer</span></a></li>
+<li id="menu-item-9486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9486"><a href="http://slowbeer.com.au/blog/"><span>Blog</span></a></li>
+<li id="menu-item-9487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9487"><a href="http://slowbeer.com.au/beer-basics/"><span>Beer Basics</span></a></li>
+<li id="menu-item-9488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9488"><a href="http://slowbeer.com.au/events/"><span>Events</span></a></li>
+<li id="menu-item-9489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9489"><a href="http://slowbeer.com.au/slowbeerbox-club/"><span>Beer Club</span></a></li>
+<li id="menu-item-9490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9490"><a href="http://slowbeer.com.au/beer-cafe/"><span>Beer Cafe</span></a></li>
+<li class="menu-item current-menu-parent x-menu-item x-menu-item-woocommerce"><a href="http://slowbeer.com.au/cart/" class="x-btn-navbar-woocommerce"><div class="x-cart outer-inner inline rounded"><span class="outer"><span class="amount">&#36;0.00</span></span><span class="inner"><i class="x-icon-shopping-cart" data-x-icon="&#xf07a;" aria-hidden="true"></i></span></div></a></li></ul></nav>
+
+<div class="x-nav-wrap mobile collapse">
+  <ul id="menu-main-menu-1" class="x-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9492"><a href="http://slowbeer.com.au/about/"><span>About Us</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9754"><a href="http://slowbeer.com.au/buy-beer/"><span>Buy Beer</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9486"><a href="http://slowbeer.com.au/blog/"><span>Blog</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9487"><a href="http://slowbeer.com.au/beer-basics/"><span>Beer Basics</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9488"><a href="http://slowbeer.com.au/events/"><span>Events</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9489"><a href="http://slowbeer.com.au/slowbeerbox-club/"><span>Beer Club</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9490"><a href="http://slowbeer.com.au/beer-cafe/"><span>Beer Cafe</span></a></li>
+<li class="menu-item current-menu-parent x-menu-item x-menu-item-woocommerce"><a href="http://slowbeer.com.au/cart/" class="x-btn-navbar-woocommerce"><div class="x-cart outer-inner inline rounded"><span class="outer"><span class="amount">&#36;0.00</span></span><span class="inner"><i class="x-icon-shopping-cart" data-x-icon="&#xf07a;" aria-hidden="true"></i></span></div></a></li></ul></div>        </div>
+      </div>
+    </div>
+  </div>
+
+    
+  </header>
+
+    
+
+  <div class="x-main full" role="main">
+
+    
+      <article id="post-4056" class="post-4056 page type-page status-publish hentry no-post-thumbnail">
+        
+
+<div class="entry-content content">
+
+
+  <div id="cs-content" class="cs-content"><div id="x-section-1"  class="x-section cs-ta-center bg-image parallax"  style="margin: 0px;padding: 0px; background-image: url(http://slowbeer.com.au//wp-content/uploads/2015/08/the-cave-of-dreams-2.jpg); background-color: transparent;"   data-x-element="section" data-x-params="{&quot;type&quot;:&quot;image&quot;,&quot;parallax&quot;:true}"><div  class="x-container max width marginless-columns"  style="margin: 0px auto;padding: 100px 0px;"   ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><img  class="x-img x-img-none"  src="http://slowbeer.com.au//wp-content/uploads/2016/03/slowbeer-home-banner.png" ></div></div></div><div id="x-section-2"  class="x-section"  style="margin: 0px;padding: 0px; background-color: transparent;"   ><div  class="x-container max width"  style="margin: 0px auto;padding: px 0px 0px;"   ><div  class="x-column x-sm cs-ta-justify x-1-1" style="padding: 45px 0px; background-color:#ffffff;" ><div  class="x-text"    ><p><img class="aligncenter wp-image-19250 size-medium" src="http://slowbeer.com.au/wp-content/uploads/2016/05/slowbeer_knuckles_black-300x111.png" alt="slowbeer_knuckles_black" width="300" height="111" srcset="http://slowbeer.com.au/wp-content/uploads/2016/05/slowbeer_knuckles_black-300x111.png 300w, http://slowbeer.com.au/wp-content/uploads/2016/05/slowbeer_knuckles_black-96x35.png 96w, http://slowbeer.com.au/wp-content/uploads/2016/05/slowbeer_knuckles_black-100x37.png 100w, http://slowbeer.com.au/wp-content/uploads/2016/05/slowbeer_knuckles_black.png 385w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<h1 class="h-custom-headline center-text h1">Australia’s first 100% dedicated craft beer store and cafe</h1>
+<p style="text-align: center; width: 80%; margin: 40px auto;">Having opened in September 2009, Slowbeer is the country’s first, 100% dedicated craft beer store. We focus our range on local microbreweries &amp; more obscure imports from cult breweries around the world. Our exciting &amp; ever growing bottled range has surpassed 1,000 different beers across many styles &amp; countries.</p>
+<p style="text-align: center; width: 80%; margin: 40px auto;">In addition to our bottled range, we aim to further support the local craft beer industry &amp; encourage the consumption of brewery fresh beer by offering takeaway draught beer growler fills. This initiative is another first for arguably Australia’s leading craft beer retailer!</p>
+</div></div></div></div><div id="x-section-3"  class="x-section cs-ta-center"  style="margin: 0px;padding: 24px 0px; background-color: #eae3ce;"   ><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm x-1-4" style="padding: 6px; background-color:#ffffff;" ><div  class="x-text"    ><p><img style="border:4px solid white" src="http://slowbeer.com.au//wp-content/uploads/2015/08/slowbeer-8-300x200.jpg" alt="slowbeer-8" width="300" height="200" class="aligncenter size-medium wp-image-9526" srcset="http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-8-300x200.jpg 300w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-8-96x64.jpg 96w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-8-100x67.jpg 100w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-8-870x580.jpg 870w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-8-1200x800.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+</div><div  class="x-text"    ><p><h4  class="h-custom-headline center-text h4 accent" ><span>BEER CAFE</span></h4><h6  class="h-custom-headline center-text h6" ><span>Drop in for a beer and some great food to accompany it</span></h6></p>
+</div><a  class="x-btn x-btn-flat x-btn-rounded x-btn-regular"  href="beer-cafe"     data-options="thumbnail: ''">FIND OUT MORE</a></div><div  class="x-column x-sm x-1-4" style="padding: 6px; background-color:#ffffff;" ><div  class="x-text"    ><p><img style="border:4px solid white" src="http://slowbeer.com.au//wp-content/uploads/2015/08/slowbeer-3-300x198.jpg" alt="buy-beer" width="300" height="198" class="aligncenter size-medium wp-image-9548" srcset="http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-3-300x198.jpg 300w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-3-96x63.jpg 96w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-3-100x66.jpg 100w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-3-870x573.jpg 870w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-3-1200x791.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+</div><div  class="x-text"    ><p><h4  class="h-custom-headline center-text h4 accent" ><span>BUY BEER</span></h4><h6  class="h-custom-headline center-text h6" ><span>All of our current stock is available to shop online</span></h6></p>
+</div><a  class="x-btn x-btn-flat x-btn-regular"  href="buy-beer"     data-options="thumbnail: ''">FIND OUR MORE</a></div><div  class="x-column x-sm x-1-4" style="padding: 6px; background-color:#ffffff;" ><div  class="x-text"    ><p><img style="border:4px solid white" src="http://slowbeer.com.au//wp-content/uploads/2015/08/learn-beer-300x198.jpg" alt="learn-beer" width="300" height="198" class="aligncenter size-medium wp-image-9556" srcset="http://slowbeer.com.au/wp-content/uploads/2015/08/learn-beer-300x198.jpg 300w, http://slowbeer.com.au/wp-content/uploads/2015/08/learn-beer-96x63.jpg 96w, http://slowbeer.com.au/wp-content/uploads/2015/08/learn-beer-100x66.jpg 100w, http://slowbeer.com.au/wp-content/uploads/2015/08/learn-beer-870x573.jpg 870w, http://slowbeer.com.au/wp-content/uploads/2015/08/learn-beer-1200x791.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+</div><div  class="x-text"    ><p><h4  class="h-custom-headline center-text h4 accent" ><span>LEARN BEER</span></h4><h6  class="h-custom-headline center-text h6" ><span>What&#8217;s actually even in my beer and how do i taste it</span></h6></p>
+</div><a  class="x-btn x-btn-flat x-btn-regular"  href="beer-basics"     data-options="thumbnail: ''">FIND OUT MORE</a></div><div  class="x-column x-sm x-1-4" style="padding: 6px; background-color:#ffffff;" ><div  class="x-text"    ><p><img style="border:4px solid white" src="http://slowbeer.com.au//wp-content/uploads/2015/08/slowbeer-6-300x194.jpg" alt="growler-soldiers" width="300" height="194" class="aligncenter size-medium wp-image-9559" srcset="http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-6-300x194.jpg 300w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-6-96x62.jpg 96w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-6-100x65.jpg 100w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-6-870x564.jpg 870w, http://slowbeer.com.au/wp-content/uploads/2015/08/slowbeer-6-1200x777.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+</div><div  class="x-text"    ><p><h4  class="h-custom-headline center-text h4 accent" ><span>BEER CLUB</span></h4><h6  class="h-custom-headline center-text h6" ><span>Can&#8217;t decide? &#8211; We can help with that.</span></h6></p>
+</div><a  class="x-btn x-btn-flat x-btn-regular"  href="slowbeerbox-club"     data-options="thumbnail: ''">FIND OUT MORE</a></div></div></div><div id="x-section-4"  class="x-section"  style="margin: 0px;padding: 45px 0; background-color: transparent;"   ><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm x-1-1" style="padding: 0px; background-color:#ffffff;" ><div  class="x-text"    ><p><img src="http://slowbeer.com.au//wp-content/uploads/2016/03/hop-or-die.png" alt="slowbeer-icons" width="300" height="99" class="aligncenter size-medium wp-image-9609" /></p>
+</div><h2  class="h-custom-headline cs-ta-center h2 accent" ><span>WE ARE SOCIAL</span></h2></div></div><div  class="x-container max width"  style="margin: 0px auto;padding: 0px 45px; background-color:#ffffff;"   ><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><div  class="x-text"    ><p><div id="sb_instagram" class="sbi sbi_col_2" style="width:100%; padding-bottom: 10px; " data-id="302245217" data-num="6" data-res="auto" data-cols="2" data-options='{&quot;sortby&quot;: &quot;none&quot;, &quot;headercolor&quot;: &quot;&quot;, &quot;imagepadding&quot;: &quot;5&quot;}'><div class="sb_instagram_header" style="padding: 10px; padding-bottom: 0;"></div><div id="sbi_images" style="padding: 5px;"><div class="sbi_loader fa-spin"></div></div><div id="sbi_load"><div class="sbi_follow_btn"><a href="http://instagram.com/" style="" target="_blank"><i class="fa fa-instagram"></i>Follow Us On Instagram</a></div></div></div><script type="text/javascript">var sb_instagram_js_options = {"sb_instagram_at":"252947934.3a81a9f.bd71d1c93146434ba2f768bbac47b821"};</script><script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.4.4'></script></p>
+</div></div><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><div  class="x-text"    ><p><div class="cff-wrapper"><div id="cff" class=" cff-thumb-layout cff-disable-narrow  cff-lb"  data-fb-text="View on Facebook"><div class="cff-item cff-photo-post author-slowbeer" id="cff_130843657068326_658437117642308" ><div class="cff-text-wrapper"><div class="cff-author"><a href="https://facebook.com/130843657068326" target="_blank" rel="nofollow" title="Slowbeer on Facebook" ><div class="cff-author-text"><p class="cff-page-name cff-author-date">Slowbeer</p><p class="cff-date" > 22 hours ago </p></div><div class="cff-author-img"><img src="https://graph.facebook.com/130843657068326/picture?type=square" title="Slowbeer" alt="Slowbeer" width=40 height=40></div></a></div><p class="cff-post-text" ><span class="cff-text" data-color="">Big fan of loverbeer. Read an interview with Jean Van Roy of Cantillon recently &amp; he rated the plum sour (beer brugna) as one of his top beers. Clearly this release is heavily influenced by cantillons fou fonne apricot lambic. This isn't as tart, more oak tannin but plenty of fruit character. </span><span class="cff-expand">... <a href="#" style="color: #"><span class="cff-more">See More</span><span class="cff-less">See Less</span></a></span></p></div><a title="View on Facebook" class="cff-photo" href="https://www.facebook.com/slowbeer/photos/a.131177807034911.29994.130843657068326/658437117642308/?type=3" target="_blank" rel="nofollow"><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/13330987_658437117642308_3302899503301875602_n.jpg?oh=f1e9153cd35b60b7c6d00528af904527&oe=57E2B947" alt="Big fan of loverbeer. Read an interview with Jean Van Roy of Cantillon recently & he rated the plum sour (beer brugna) as one of his top beers. Clearly this release is heavily influenced by cantillons fou fonne apricot lambic. This isnt as tart, more oak tannin but plenty of fruit character." data-querystring="oh=f1e9153cd35b60b7c6d00528af904527&oe=57E2B947" /></a><div class="cff-meta-wrap"><div class="cff-post-links"><a class="cff-viewpost-facebook" href="https://www.facebook.com/658437117642308" title="View on Facebook" target="_blank" rel="nofollow" >View on Facebook</a><div class="cff-share-container"><span class="cff-dot" >&middot;</span><a class="cff-share-link" href="javascript:void(0);" title="Share" >Share</a><p class='cff-share-tooltip'><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658437117642308%2F%3Ftype%3D3' target='_blank' class='cff-facebook-icon'><i class='fa fa-facebook-square'></i></a><a href='https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658437117642308%2F%3Ftype%3D3' target='_blank' class='cff-twitter-icon'><i class='fa fa-twitter'></i></a><a href='https://plus.google.com/share?url=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658437117642308%2F%3Ftype%3D3' target='_blank' class='cff-google-icon'><i class='fa fa-google-plus'></i></a><a href='https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658437117642308%2F%3Ftype%3D3&amp;title=Big%20fan%20of%20loverbeer.%20Read%20an%20interview%20with%20Jean%20Van%20Roy%20of%20Cantillon%20recently%20%26amp%3B%20he%20rated%20the%20plum%20sour%20%28beer%20brugna%29%20as%20one%20of%20his%20top%20beers.%20Clearly%20this%20release%20is%20heavily%20influenced%20by%20cantillons%20fou%20fonne%20apricot%20lambic.%20This%20isn%27t%20as%20tart%2C%20more%20oak%20tannin%20but%20plenty%20of%20fruit%20character.%20...%20See%20MoreSee%20Less' target='_blank' class='cff-linkedin-icon'><i class='fa fa-linkedin'></i></a><a href='mailto:?subject=Facebook&amp;body=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658437117642308%2F%3Ftype%3D3%20-%20Big%20fan%20of%20loverbeer.%20Read%20an%20interview%20with%20Jean%20Van%20Roy%20of%20Cantillon%20recently%20%26amp%3B%20he%20rated%20the%20plum%20sour%20%28beer%20brugna%29%20as%20one%20of%20his%20top%20beers.%20Clearly%20this%20release%20is%20heavily%20influenced%20by%20cantillons%20fou%20fonne%20apricot%20lambic.%20This%20isn%27t%20as%20tart%2C%20more%20oak%20tannin%20but%20plenty%20of%20fruit%20character.%20...%20See%20MoreSee%20Less' target='_blank' class='cff-email-icon'><i class='fa fa-envelope'></i></a><i class='fa fa-play fa-rotate-90'></i></p></div></div><a href="javaScript:void(0);" class="cff-view-comments"  id="130843657068326_658437117642308"><ul class="cff-meta cff-light"><li class="cff-likes"><span class="cff-icon">Likes:</span> <span class="cff-count">18</span></li><li class="cff-shares"><span class="cff-icon">Shares:</span> <span class="cff-count">0</span></li><li class="cff-comments"><span class="cff-icon">Comments:</span> <span class="cff-count">0</span></li></ul></a></div><div class="cff-comments-box cff-light cff-no-comments" data-num="4"><p class="cff-comment-likes cff-likes" ><span class="cff-icon"></span><a href="https://facebook.com/1707012316247218" style="color:#;" target="_blank" rel="nofollow">Michael Werner</a>, <a href="https://facebook.com/880933605368813" style="color:#;" target="_blank" rel="nofollow">Scott Harwood</a> and 16 others like this</p><p class="cff-comments cff-comment-on-facebook" ><a href="https://www.facebook.com/658437117642308" target="_blank" rel="nofollow" style="color:#;"><span class="cff-icon"></span>Comment on Facebook</a></p></div></div><div class="cff-item cff-photo-post author-slowbeer" id="cff_130843657068326_658008544351832" ><div class="cff-text-wrapper"><div class="cff-author"><a href="https://facebook.com/130843657068326" target="_blank" rel="nofollow" title="Slowbeer on Facebook" ><div class="cff-author-text"><p class="cff-page-name cff-author-date">Slowbeer</p><p class="cff-date" > 2 days ago </p></div><div class="cff-author-img"><img src="https://graph.facebook.com/130843657068326/picture?type=square" title="Slowbeer" alt="Slowbeer" width=40 height=40></div></a></div><p class="cff-post-text" ><span class="cff-text" data-color="">When you leave beers at a friends house &amp; forget about them, it's always nice to return to them. But when it's jester king that's a pretty big score! </span><span class="cff-expand">... <a href="#" style="color: #"><span class="cff-more">See More</span><span class="cff-less">See Less</span></a></span></p></div><a title="View on Facebook" class="cff-photo" href="https://www.facebook.com/slowbeer/photos/a.131177807034911.29994.130843657068326/658008544351832/?type=3" target="_blank" rel="nofollow"><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/p720x720/13327550_658008544351832_2395906946618419984_n.jpg?oh=c023eace4f0f0eac265ba22e30875695&oe=57CF7184" alt="When you leave beers at a friends house & forget about them, its always nice to return to them. But when its jester king thats a pretty big score!" data-querystring="oh=c023eace4f0f0eac265ba22e30875695&oe=57CF7184" /></a><div class="cff-meta-wrap"><div class="cff-post-links"><a class="cff-viewpost-facebook" href="https://www.facebook.com/658008544351832" title="View on Facebook" target="_blank" rel="nofollow" >View on Facebook</a><div class="cff-share-container"><span class="cff-dot" >&middot;</span><a class="cff-share-link" href="javascript:void(0);" title="Share" >Share</a><p class='cff-share-tooltip'><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658008544351832%2F%3Ftype%3D3' target='_blank' class='cff-facebook-icon'><i class='fa fa-facebook-square'></i></a><a href='https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658008544351832%2F%3Ftype%3D3' target='_blank' class='cff-twitter-icon'><i class='fa fa-twitter'></i></a><a href='https://plus.google.com/share?url=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658008544351832%2F%3Ftype%3D3' target='_blank' class='cff-google-icon'><i class='fa fa-google-plus'></i></a><a href='https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658008544351832%2F%3Ftype%3D3&amp;title=When%20you%20leave%20beers%20at%20a%20friends%20house%20%26amp%3B%20forget%20about%20them%2C%20it%27s%20always%20nice%20to%20return%20to%20them.%20But%20when%20it%27s%20jester%20king%20that%27s%20a%20pretty%20big%20score%21%20...%20See%20MoreSee%20Less' target='_blank' class='cff-linkedin-icon'><i class='fa fa-linkedin'></i></a><a href='mailto:?subject=Facebook&amp;body=https%3A%2F%2Fwww.facebook.com%2Fslowbeer%2Fphotos%2Fa.131177807034911.29994.130843657068326%2F658008544351832%2F%3Ftype%3D3%20-%20When%20you%20leave%20beers%20at%20a%20friends%20house%20%26amp%3B%20forget%20about%20them%2C%20it%27s%20always%20nice%20to%20return%20to%20them.%20But%20when%20it%27s%20jester%20king%20that%27s%20a%20pretty%20big%20score%21%20...%20See%20MoreSee%20Less' target='_blank' class='cff-email-icon'><i class='fa fa-envelope'></i></a><i class='fa fa-play fa-rotate-90'></i></p></div></div><a href="javaScript:void(0);" class="cff-view-comments"  id="130843657068326_658008544351832"><ul class="cff-meta cff-light"><li class="cff-likes"><span class="cff-icon">Likes:</span> <span class="cff-count">16</span></li><li class="cff-shares"><span class="cff-icon">Shares:</span> <span class="cff-count">0</span></li><li class="cff-comments"><span class="cff-icon">Comments:</span> <span class="cff-count">0</span></li></ul></a></div><div class="cff-comments-box cff-light cff-no-comments" data-num="4"><p class="cff-comment-likes cff-likes" ><span class="cff-icon"></span><a href="https://facebook.com/10153621680520794" style="color:#;" target="_blank" rel="nofollow">Kiritea Emily Taka</a>, <a href="https://facebook.com/10153762807707807" style="color:#;" target="_blank" rel="nofollow">Erin Elmes</a> and 14 others like this</p><p class="cff-comments cff-comment-on-facebook" ><a href="https://www.facebook.com/658008544351832" target="_blank" rel="nofollow" style="color:#;"><span class="cff-icon"></span>Comment on Facebook</a></p></div></div><div class="cff-likebox cff-bottom" ><script src="https://connect.facebook.net/en_UD/all.js#xfbml=1&appId=712681982206086"></script><div class="fb-page" data-href="https://www.facebook.com/slowbeer" data-width="" data-hide-cover="false" data-show-facepile="false" data-small-header="false" data-hide-cta="false" data-show-posts="false" data-adapt-container-width="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/slowbeer"><a href="https://www.facebook.com/slowbeer">View on Facebook</a></blockquote></div></div><div id="fb-root"></div></div></div><div class="cff-clear"></div></div></p>
+</div></div><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><div  class="x-text"    ><p><a class="twitter-timeline" href="https://twitter.com/Slowbeer" data-widget-id="633099128382226432">Tweets by @Slowbeer</a><br />
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+</div></div></div></div></div>
+  
+
+</div>
+
+      </article>
+
+    
+  </div>
+
+
+
+  
+    
+  
+
+  <footer class="x-colophon top" role="contentinfo">
+    <div class="x-container max width">
+
+      <div class="x-column x-md x-1-3"><div id="text-4" class="widget widget_text">			<div class="textwidget"><div id="x-google-map-1" class="x-map x-google-map with-container" data-x-element="google_map" data-x-params="{&quot;lat&quot;:&quot;-37.8196560&quot;,&quot;lng&quot;:&quot;145.0070510&quot;,&quot;drag&quot;:true,&quot;zoom&quot;:&quot;15&quot;,&quot;zoomControl&quot;:true,&quot;hue&quot;:&quot;&quot;}" >
+<div class="x-map-inner x-google-map-inner" ></div>
+<div class="x-google-map-marker" style="position: absolute; visibility: hidden;" data-x-element="google_map_marker" data-x-params="{&quot;lat&quot;:&quot;-37.8196560&quot;,&quot;lng&quot;:&quot;145.0070510&quot;,&quot;markerInfo&quot;:&quot;&quot;,&quot;startOpen&quot;:false}"></div>
+</div>
+</div>
+		</div></div><div class="x-column x-md x-1-3"><div id="text-5" class="widget widget_text">			<div class="textwidget"><p>468 Bridge Rd<br />
+Richmond<br />
+3121 VIC</p>
+<p>Phone: (03) 9421 3838<br />
+<a href="mailto:sales@slowbeer.com.au
+">Email: sales@slowbeer.com.au</a></p>
+<p>Open 7 days:<br />
+Mon-Wed 2-8pm<br />
+Thurs-Sat 12-9pm<br />
+Sun 12-8pm</p>
+</div>
+		</div></div><div class="x-column x-md x-1-3 last"><div id="text-6" class="widget widget_text">			<div class="textwidget"><p>License No. 31953955. WARNING - Under the Liquor Control Reform Act 1998 it is an offence: To supply alcohol to a person under the age of 18 years (Penalty exceeds $6,000). For a person under the age of 18 years to purchase or receive liquor (Penalty exceeds $500)</p>
+</div>
+		</div></div>
+    </div>
+  </footer>
+
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+                  
+        
+                  <div class="x-social-global"></div>        
+        
+      </div>
+    </footer>
+
+  
+
+  
+  </div> <!-- END #top.site -->
+
+  
+
+  <div class="x-content-dock left x-content-dock-off" style="width: 450px; left: -500px;">
+    <div id="taplist_widget-3" class="widget widget_taplist_widget"><h4 class="h-widget">Current Taplist</h4><ul><li><strong>To Ol Gose To Hollywood</strong> 3.8% (DEN)<br />$10.00 / $35.00 - (370ml / 1.89L)</li><li><strong>Victory Blackboard Agave IPA</strong> 7% (USA)<br />$11.00 / $40.00 - (370ml / 1.89L)</li><li><strong>Stone Double Bastard Strong Ale</strong> 11.2% (USA)<br />$7.00 /$17.00 - (150ml / 370ml)</li><li><strong>Emelisse IRS Ardbeg BA</strong> 11% (NED)<br />$8.00 / $19.00 - (150ml / 370ml)</li></ul></div>    <a href="#" class="x-close-content-dock">
+      <span>&#x2716;</span>
+      <span class="visually-hidden">Close the Content Dock</span>
+    </a>
+  </div>
+
+  <script id="x-content-dock-js">
+
+    jQuery(document).ready(function($) {
+
+      $.fn.scrollBottom = function() {
+        return $(document).height() - this.scrollTop() - this.height();
+      };
+
+      var executed             = false;
+      var windowObj            = $(window);
+      var body                 = $('body');
+      var bodyOffsetBottom     = windowObj.scrollBottom();
+      var bodyHeightAdjustment = body.height() - bodyOffsetBottom;
+      var bodyHeightAdjusted   = body.height() - bodyHeightAdjustment;
+      var contentDock          = $('.x-content-dock');
+
+      function sizingUpdate() {
+        var bodyOffsetTop = windowObj.scrollTop();
+        if ( bodyOffsetTop > ( bodyHeightAdjusted * 0.05 ) ) {
+          if ( ! executed ) {
+            executed = true;
+            contentDock.toggleClass('x-content-dock-off').toggleClass('x-content-dock-on').css('left', '20px');
+          }
+        }
+        $('.x-close-content-dock').click(function(e) {
+          e.preventDefault();
+          contentDock.toggleClass('x-content-dock-off').toggleClass('x-content-dock-on').css('left', '-550px');
+        });
+      }
+
+      windowObj.bind('scroll', sizingUpdate).resize(sizingUpdate);
+      sizingUpdate();
+
+    });
+
+  </script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TB_labels = {"no_config":"No configuration settings found","twitter_logo":"Twitter Logo","kino":"Development by Kirill Novitchenko","refresh":"Refresh","no_sources":"Twitter sources to blend are not defined","no_global_config":"Cannot retrieve Tweet Blender configuration options","version_msg":"Powered by Tweet Blender plugin v{0} blending {1}","limit_msg":"You reached Twitter API connection limit","no_tweets_msg":"No tweets found for {0}","loading_msg":"Loading tweets...","time_past":"{0} {1} ago","time_future":"in {0} {1}","second":"second","seconds":"seconds","minute":"minute","minutes":"minutes","hour":"hour","hours":"hours","day":"day","days":"days","week":"week","weeks":"weeks","month":"month","months":"months","year":"year","years":"years","check_fail":"Check failed","limit_num":"Max is {0}\/hour","limit_left":"You have {0} left","from":"from","reply":"reply","follow":"follow","limit_reset":"Next reset","view_more":"view more"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/tweet-blender/js/lib.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/tweet-blender/js/main.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/custom-facebook-feed-pro/js/cff-scripts.js?ver=2.6.6.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Basket","cart_url":"http:\/\/slowbeer.com.au\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//slowbeer.com.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.5.5'></script>
+<script type='text/javascript' src='//slowbeer.com.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//slowbeer.com.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.5.5'></script>
+<script type='text/javascript' src='//slowbeer.com.au/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//slowbeer.com.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.5.5'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/themes/x/framework/js/dist/site/x-body.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-includes/js/comment-reply.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/cornerstone/assets/js/dist/site/cs-body.min.js?ver=1.2.4'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/front.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/html_types/radio.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/html_types/checkbox.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/html_types/select.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/html_types/mselect.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/ext/by_instock/js/by_instock.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/chosen/chosen.jquery.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mousewheel.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://slowbeer.com.au/wp-content/plugins/woocommerce-products-filter/js/malihu-custom-scrollbar/jquery.mCustomScrollbar.concat.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?ver=4.5.2'></script>
+
+  
+  
+</body>
+</html>
